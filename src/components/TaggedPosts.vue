@@ -1,0 +1,72 @@
+<template>
+    <div id="portfolioNav">
+        <h2>Projects</h2>
+      <div v-for="tag in orderedTags" :key="tag.id" class="experience-domain">
+        <h4 :id="formatTagId(tag.id)">{{ tag.id }}</h4>
+        <dl>
+          <div v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
+            <g-link :to="post.node.path">
+              <dt>{{ post.node.years }}</dt>
+              <dd>{{ post.node.title }}</dd>
+            </g-link>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </template>
+  
+  <script>
+export default {
+    name: 'TaggedPosts',
+    props: ['tagOrder'],
+    computed: {
+      orderedTags() {
+        const tags = this.$page.allTag.edges.map(edge => edge.node);
+        tags.sort((a, b) => this.tagOrder.indexOf(a.id) - this.tagOrder.indexOf(b.id));
+        return tags;
+      }
+    },
+    methods: {
+      getPostsByTag(tag) {
+        const posts = this.$page.allPost.edges.filter(edge =>
+          edge.node.tags.find(t => t.id === tag)
+        );
+        return posts;
+      },
+      formatTagId(id) {
+        return id.replace(/\s+/g, '-').toLowerCase();
+      },
+    }
+}
+
+  </script>
+  
+  <page-query>
+  query Post {
+    allPost {
+      edges {
+        node {
+          id
+          title
+          path
+          summary
+          date
+          projOutcomes
+          projSkills
+          tags {
+            id
+          }
+          years
+        }
+      }
+    }
+    allTag {
+      edges {
+        node {
+          id
+        }
+      }
+    }
+  }
+  </page-query>
+  

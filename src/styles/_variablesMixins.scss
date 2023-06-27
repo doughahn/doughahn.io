@@ -1,0 +1,178 @@
+@font-face {
+  font-family: 'inconsolata';
+  src: url('/fonts/inconsolata-variablefont_wdthwght-webfont.woff2') format('woff2'),
+       url('/fonts/inconsolata-variablefont_wdthwght-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.heading {
+  font-family: "Sentinel A", "Sentinel B";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.headingBold {
+  font-family: "Sentinel A", "Sentinel B";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.subhead {
+  font-family: 'Decimal A', 'Decimal B';
+  font-style: normal;
+  font-weight: 700;
+}
+
+.subheadItalic {
+  font-family: "Decimal A", "Decimal B";
+  font-style: italic; font-weight: 700;
+}
+
+.bodyFont {
+  font-family: "Mercury Text G1 A", "Mercury Text G1 B";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bodyFontItalic {
+  font-family: "Mercury Text G1 A", "Mercury Text G1 B";
+  font-style: italic;
+  font-weight: 400;
+}
+
+.logoFont {
+  font-family: "Sentinel A", "Sentinel B";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.preFont {
+  font-family: 'inconsolata';
+  font-weight: 400;
+  font-style: normal;  
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-feature-settings: "lnum" 1;
+  font-kerning: normal;
+}
+
+// bp
+
+$breakpoints: (
+  small: 0px,
+  medium: 40em,
+  large: 65em,
+  xlarge: 75em, 
+  xxlarge: 90em
+);
+
+@mixin breakpoint($bp, $rule: min-width) {
+  @media screen and (#{$rule}: map-get($breakpoints, $bp)) {
+    @content;
+  }
+}
+
+// custom properties
+
+:root {
+  --light: #ffffff;
+  --lightBg: #ffffff;
+  --dark: #212427;
+  --darkBlue: #07062e;
+  --highlight: #3a489d;
+  --transition: 200ms;
+}
+
+$light: var(--light);
+$dark: var(--dark);
+
+// water colors
+$ocean1: #223D60;
+$ocean2: #284973;
+$ocean3: #2F5586;
+$ocean4: #35619A;
+$ocean5: #3B6CAD;
+$ocean6: #4278C0;
+$ocean7: #5486C7;
+$ocean8: #6793CE;
+$ocean9: #7AA1D4;
+$ocean10: #8DAFDB;
+
+// Type System
+
+:root {
+  /* set base values */
+  --text-base-size: 1rem;
+  --text-scale-ratio: 1.33;
+
+  /* type scale */
+  --text-xs: calc(
+    var(--text-base-size) /
+    (var(--text-scale-ratio) * var(--text-scale-ratio))
+  );
+
+  --text-sm: calc(
+    var(--text-base-size) /
+    var(--text-scale-ratio)
+  );
+
+  // 16px
+  --text-md: calc(
+    var(--text-base-size)
+  );
+
+  // 21.33px
+  --text-lg: calc(
+    var(--text-base-size) *
+    var(--text-scale-ratio) 
+  );
+  
+  // 28.3px
+  --text-xl: calc(
+    var(--text-base-size) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio)
+  );
+
+  // 37.33px
+  --text-xxl: calc(
+    var(--text-base-size) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio)
+  );
+
+  // 50.06
+  --text-xxxl: calc(
+    var(--text-base-size) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio)
+  );
+
+  // 66.59px
+  --text-huge: calc(
+    var(--text-base-size) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio) *
+    var(--text-scale-ratio)
+  );
+  
+  --heading-line-height: 1.15;
+  --body-line-height: 1.5;
+}
+
+:root {
+    --baseline: 24px; // 16*1.5
+    /* spacing values */
+    --baseline-xs:   calc(var(--baseline)/3);
+    --baseline-sm:   calc(var(--baseline)/2);
+    --baseline-md:   var(--baseline);
+    --baseline-lg:   calc(var(--baseline)*2);
+    --baseline-xl:   calc(var(--baseline)*3);
+}
