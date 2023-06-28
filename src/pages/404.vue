@@ -3,10 +3,11 @@
         <main>
             <section class="article-grid"> 
                 <article>
-                    <h2>404</h2>
+                    <h2>Weigh Enough!</h2>
                     <transition name="fade" appear>
                         <div>   
-                            <h3>Sorry, the page you're looking for doesn't exist.</h3>
+                            <h3>Sorry, that's a 404.</h3>
+                            <p>The page you're looking for doesn't exist</p>
                             <p><strong><a href="/">return home</a></strong></p>
                             
                             <figure>
