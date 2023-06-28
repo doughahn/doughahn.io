@@ -149,11 +149,12 @@ h3 {
   position:relative;
   font-size: var(--text-xl);
   color: #7FA4BC;
-  line-height: var( --baseline-lg );
+  line-height: 1.2;
   padding: 1.33rem 0 1.33rem 0; 
   @include breakpoint(large) {
     padding: .95rem 0 1.33rem 0;     
     font-size: var(--text-xxxl);
+    line-height: var( --baseline-lg );
   }
 }
 
