@@ -449,7 +449,7 @@ strong a:before {
 hr {
   border: 0;
   border-top: 1px dashed var(--dark);
-  margin: var(--baseline-lg) 0 var(--baseline-lg) 0;
+  margin: var(--baseline-lg) 0 calc(var(--baseline-lg) - 1rem) 0;
 }
 
 pre {

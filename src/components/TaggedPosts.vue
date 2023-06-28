@@ -12,6 +12,30 @@
           </span>
         </dl>
       </div>
+      <hr>
+      <div class="experience-domain">
+        <h4>Education &amp; Certifications</h4>
+        <dl>
+          <span class="experience-item">
+            <a href="https://www.credly.com/badges/6b56b009-4868-4c38-97e0-53b29df69449/public_url">
+              <dt>2021</dt> 
+              <dd>Project Management Professional (PMP) ,#3130172</dd>
+            </a>
+          </span>
+          <span class="experience-item">
+            <a href="https://www.sarahlawrence.edu/writing-mfa/">
+              <dt>2006</dt> 
+              <dd>Master of Fine Arts, Creative Writing from Sarah Lawrence</dd>
+            </a>
+          </span>
+          <span class="experience-item">
+            <a href="https://www.luc.edu/">
+              <dt>2002</dt> 
+              <dd>Bachelor of Arts, English from Loyola University</dd>
+            </a>
+          </span>
+        </dl>
+      </div>
     </div>
   </template>
   
