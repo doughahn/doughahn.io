@@ -3,7 +3,7 @@
   justify-content: space-between;  
   align-items: center;
   padding-left:1rem;
-  background-color: #07062e;
+  background-color: var( --darkBlue );
   @include breakpoint(large) {
       padding-left:3rem;
   }
@@ -92,7 +92,7 @@ h2:after {
   font-size: .9375rem;
   transition-duration: var( --transition );
   &:hover {
-    background-color: var( --dark );
+    background-color: var( --darkBlue );
     color: var( --light );
     border-color: transparent;
   }
