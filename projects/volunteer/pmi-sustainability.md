@@ -8,6 +8,8 @@ projOutcomes: "I build community events, both virtual and in-person for the suss
 projSkills: [ "Project Management", "Process Improvement", "Scheduling", "Facilitation", "Marketing", "Web Development" ]
 ---
 
+### Building Green Community with Fellow PMPs
+
 As a member of the Project Management Institute's San francisco Bay Area chapter, I engage with local community leaders discover, plan, and execute stewardship events. I help source expert speakers for our initiatives, and ensure the smooth operation of our virtual events. In addition, I pitch in with program functions such as maintaining its web page and taking turns providing updates to the executive board. 
 
 ![The sustainability team after a trash cleanup event](/bayview.jpg)

@@ -19,7 +19,7 @@ I drafted the content and coded the website for the Bently Nob Hill, a luxury ap
 <figcaption>The landing page of Nob hill, featuring drone footage and a unique vertical navigation.</figcaption>
 
 
-The site is small in scope and the client dos not offer many openings, so we decided to use [Hugo](https://gohugo.io/) with [Tina](https://tina.io/docs/) to manage content as a static site. I built the cutom theme for this, as well as implemented the headless CMS. 
+The site is small in scope and the client dos not offer many openings, so we decided to use [Hugo](https://gohugo.io/) with [Tina](https://tina.io/docs/) to manage content as a static site. I built the custom theme for this, as well as implemented the headless CMS. 
 
 #### Project Links
 

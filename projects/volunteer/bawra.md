@@ -10,7 +10,11 @@ projSkills: [ "Project management", "Stakeholder Management", "Facilitation", "C
 
 ### Running Safe Events on the Bay
 
-As a member of the [Bay Area WHaleboating Association](http://www.itcrowing.com/bawra/) I recruit and coordinate motorized vessels to support races in the San Francisco bay. My role entails ensuring that the fleet operates in a safe, fair, and efficient manner from getting vessels into the water through to the finish line. At times this can mean coordinating with the Port of San francisco as well as private boating clubs in the San Francisco area. 
+As a member of the [Bay Area Whaleboating Association](http://www.itcrowing.com/bawra/) I recruit and coordinate motorized vessels to support races in the San Francisco bay. My role entails ensuring that the fleet operates in a safe, fair, and efficient manner from getting vessels into the water through to the finish line. 
+
+![My hand on the tiller at a team race practice](/doiug-boat.jpg)
+
+At times this can mean coordinating with the Port of San francisco as well as private boating clubs in the San Francisco area. 
 
 ![I created a checklist and other OPAs to ensure the next fleet operates smoothly](/fleet-checklist.jpg)
 

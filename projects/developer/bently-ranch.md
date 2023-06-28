@@ -10,7 +10,7 @@ projSkills: [ "Frontend", "CSS", "JS", "Hugo/Static Sites"  ]
 
 ### A Snappy Site for a New Farm
 
-Bently Ranch sought a website redesign to reflect their rebranding transition towards a farm-centric identity. I spearheaded the effort to streamline the site and infuse it with a modern voice and tone. Meanwhile, the design team embraced a minimalist aesthetic, invoking the ranch's expansive landscapes while paying tribute to its Old West heritage.
+Bently Ranch sought a website redesign to reflect their re-branding transition towards a farm-centric identity. I spearheaded the effort to streamline the site and infuse it with a modern voice and tone. Meanwhile, the design team embraced a minimalist aesthetic, invoking the ranch's expansive landscapes while paying tribute to its Old West heritage.
 
 ![The Bently Ranch landing page](/bently-ranch-hero.jpg)
 

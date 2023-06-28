@@ -42,7 +42,7 @@ This research as used to optimize the website from an SEO standpoint in tandem w
 
 ![Sample of our keywords worksheet](/heritage-keyword-research.jpg)
 
-Our combined efforts led to tangible outputs, including a product roadmap, user testing protocols, an engagement plan, a refreshed marketing strategy, and a rebranded website that achieved our KPI targets.
+Our combined efforts led to tangible outputs, including a product road map, user testing protocols, an engagement plan, a refreshed marketing strategy, and a re-branded website that achieved our KPI targets.
 
 
 
