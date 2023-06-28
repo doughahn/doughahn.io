@@ -53,7 +53,7 @@ h2 {
   @include breakpoint(large) {
     padding: 0 0 2.66rem 0;     
     font-size: var(--text-xxxl);
-    line-height: var( --baseline-xl );
+    line-height: var( --baseline-lg );
   }
 }
 
