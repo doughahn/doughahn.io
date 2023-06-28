@@ -64,13 +64,13 @@ aside.intro {
     padding: 2.66rem 0 0 0;
   }
   .skills {
-    grid-column: span 3;
+    grid-column: span 6;
     @include breakpoint(medium) {
      grid-column: span 2;   
     }
   }
   .outcomes {
-    grid-column: span 3;
+    grid-column: span 6;
     @include breakpoint(medium) {
       grid-column: span 4;
     }
