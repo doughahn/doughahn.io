@@ -18,7 +18,8 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     key: 'og:image',
-    name: 'og:image',
+    property: 'og:image',
+    name: 'image',
     content: 'https://doughahn.io/og-image.jpg'
   })
 }
