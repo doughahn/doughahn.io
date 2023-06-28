@@ -7,9 +7,9 @@
       </p>
       <h4 class="leadin-subhead">These three things mean everything to me:</h4>
       <ul class="leadin-list">
-        <li>Foster meaningful change within.</li>
-        <li>Build positive change without.</li>
-        <li>Learn from people smarter than me.</li>
+        <li>Foster meaningful change within the org</li>
+        <li>Nurture the good things in the world</li>
+        <li>Learn from people smarter than me</li>
       </ul>
       <a class="calloutLink" href="https://www.linkedin.com/in/douglas-hahn/">LinkedIn</a>
     </div>
