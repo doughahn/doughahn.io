@@ -1,5 +1,5 @@
 ---
-title: "Storytelling website for a LEED Platinum building"
+title: "Storytelling website that captures history & green tech"
 date: 2019-01-01
 tags: [ 'Developer' ]
 years: "2019-'23"

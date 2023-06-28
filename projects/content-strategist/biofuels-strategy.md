@@ -1,5 +1,5 @@
 ---
-title: "Data-driven strategy for a biofuels startup"
+title: "Collaborative planning to successfully launch a biofuels startup"
 date: 2013-01-01
 tags: [ 'Content Strategist' ]
 years: "2013-'16"

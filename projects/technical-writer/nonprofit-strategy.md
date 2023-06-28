@@ -1,5 +1,5 @@
 ---
-title: "Nonprofit investment strategy tools for an executive board"
+title: "Nonprofit investment strategy funding 55+ charities"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015"

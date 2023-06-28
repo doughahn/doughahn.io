@@ -1,5 +1,5 @@
 ---
-title: "Progressive elaboration to build a rich virtual tour"
+title: "An info-rich virtual tour that built brand awareness"
 date: 2019-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2019-'23"

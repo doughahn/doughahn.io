@@ -1,5 +1,5 @@
 ---
-title: "Aligning stakeholders to donate hand sanitizer during the Pandemic"
+title: "Aligned leadership to steer donations during pandemic"
 date: 2020-01-01
 tags: [ 'Technical Writer' ]
 years: "2020"
@@ -8,7 +8,7 @@ projOutcomes: "Negotiated a landscape of political and ethical viewpoints to uni
 projSkills: [ "Negotiation", "Technical Writing", "Requirements Definition", "Research", "Critical Thinking" ]
 ---
 
-### Who do we Donate to?
+### Who do we donate to?
 
 During the COVID-19 pandemic, I helped coordinate a distillery's strategic pivot from spirits production to manufacturing hand sanitizer. This involved researching all potential recipients within the region and developing a system with which to evaluate and prioritize them. Balancing the interests of internal stakeholders and external community leaders, we forged apolitical guidelines for distributing 5,000 gallons of hand sanitizer per week to various agencies. In addition, the client's policies had to follow FDA and WHO guidelines. 
 

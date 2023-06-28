@@ -1,5 +1,5 @@
 ---
-title: "Data-driven content strategy for a national distillery"
+title: "Data-driven strategy hit KPIs for a national distillery"
 date: 2017-01-01
 tags: [ 'Content Strategist' ]
 years: "2017-'23"

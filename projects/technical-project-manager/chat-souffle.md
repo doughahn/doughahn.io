@@ -1,5 +1,5 @@
 ---
-title: "Building an xAPI & AI learning experience in under a month"
+title: "Complete xAPI learning experience in under a month"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2023-"

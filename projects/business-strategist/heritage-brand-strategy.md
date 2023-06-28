@@ -1,5 +1,5 @@
 ---
-title: "Building a brand: business plan for a disruptive distillery"
+title: "Building a brand: results-driven plan for a disruptive distillery"
 date: 2014-01-01
 tags: [ 'Business Strategist' ]
 years: "2017"

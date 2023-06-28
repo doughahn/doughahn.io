@@ -1,9 +1,8 @@
 ---
-title: "Creating outcomes with a custom LMS dashboard"
+title: "Enhancing learning outcomes through a custom LMS"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"
-summary: "Learn about the techniques I used to build a learning environment that fosters performance objectives across a global org."
 projOutcomes: "This learning environment was built fast and iterated on to help drive performance objectives and build cross-functional culture."
 projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "Software Development Lifecycle", "Backlog Refinement" ]
 projImg: "/mustangs-report.jpg"

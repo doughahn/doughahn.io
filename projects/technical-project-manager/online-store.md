@@ -1,5 +1,5 @@
 ---
-title: "Rapid eCommerce pivot for a distillery during the pandemic"
+title: "Rapid eCommerce pivot that enhanced sales"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"

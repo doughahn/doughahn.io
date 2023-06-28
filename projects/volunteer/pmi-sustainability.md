@@ -1,5 +1,5 @@
 ---
-title: "Working with community leaders on the PMI sustainability team"
+title: "Building sustainable community with fellow project managers"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2022-"

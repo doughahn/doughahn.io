@@ -1,5 +1,5 @@
 ---
-title: "Documenting a mission-critical compliance app to reduce risk"
+title: "Mission-critical compliance docs that reduced risk"
 date: 2023-01-01
 tags: [ 'Technical Writer' ]
 years: "2019-'23"

@@ -1,5 +1,5 @@
 ---
-title: "A poetry project that I've worked on for 18 years"
+title: "A digital poetry magazine that's been running for 18 years"
 date: 2006-01-01
 tags: [ 'Volunteer' ]
 years: "2006-"

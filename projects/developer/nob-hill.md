@@ -1,5 +1,5 @@
 ---
-title: "Minimal site for a historic Nob Hill property"
+title: "Minimal site meeting the needs of a historic Nob Hill property"
 date: 2023-01-01
 tags: [ 'Developer' ]
 years: "2023-"

@@ -1,11 +1,11 @@
 ---
-title: "Rersearch and root cause documentation for a custom time clock"
+title: "Research & root-cause analysis helped a time clock project succeed"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-'22"
 summary: "Multi-state custom docs for a custom time clock"
 projOutcomes: "Robust documentation website used to create and perform continuous quality control on a custom, multi-state time clock."
-projSkills: [ "Technical Writing", "Collaboration", "Documentation", "Facilitation", "Problem-Solving", "Research", "Web Development", "Static Sites" ]
+projSkills: [ "Technical Writing", "Collaboration", "Documentation", "Facilitation", "Problem-Solving", "Research", "Web Development", "Static Sites", "Root Cause Analysis" ]
 ---
 
 ### The Backbone of a Custom Time Clock

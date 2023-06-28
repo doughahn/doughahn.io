@@ -1,5 +1,5 @@
 ---
-title: "SaaS app managing data for a national sales crew"
+title: "SaaS app that kept sales data accurate"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"

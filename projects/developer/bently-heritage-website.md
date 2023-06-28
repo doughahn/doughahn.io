@@ -1,9 +1,8 @@
 ---
-title: "Bespoke CMS for the Bently Heritage brand"
+title: "Bespoke solutions for Bently Heritage to drive engagement"
 date: 2017-01-01
 tags: [ 'Developer' ]
 years: "2017-'20"
-summary: "Developed website for Bently Heritage, using Craft CMS"
 projOutcomes: "A new website with features that matched the business's content needs, their brand look and feel, and had features like rich content and store locators that let the marketing team keep their hands on the steering wheel."
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 ---
