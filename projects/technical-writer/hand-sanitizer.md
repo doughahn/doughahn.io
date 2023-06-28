@@ -12,7 +12,7 @@ projSkills: [ "Negotiation", "Technical Writing", "Requirements Definition", "Re
 
 During the COVID-19 pandemic, I helped coordinate a distillery's strategic pivot from spirits production to manufacturing hand sanitizer. This involved researching all potential recipients within the region and developing a system with which to evaluate and prioritize them. Balancing the interests of internal stakeholders and external community leaders, we forged apolitical guidelines for distributing 5,000 gallons of hand sanitizer per week to various agencies. In addition, the client's policies had to follow FDA and WHO guidelines. 
 
-![I researched hundreds of locations by category in the geographic region](/sanitizer-research.jpg)
+![I researched hundreds of locations by category in the geographic region](/sanitizer-research.webp)
 
 > #### Evidence-based operations 
 
@@ -33,10 +33,10 @@ During the COVID-19 pandemic, I helped coordinate a distillery's strategic pivot
 > 7. Make a decision.   
 > 8. Monitor the decision. Iterate as needed
 
-![Heritage hand sanitizer](/hand-sanitizer.jpg)
+![Heritage hand sanitizer](/hand-sanitizer.webp)
 
 #### Promotion
 
 In addition to this work, I authored speeches, articles, press releases, and contributed to the coordination of the PR campaign promoting this initiative.
 
-![Northern Nevada Business Weekly promotes copy from a press release I wrote](/hand-sanitizer-press.jpg)
+![Northern Nevada Business Weekly promotes copy from a press release I wrote](/hand-sanitizer-press.webp)

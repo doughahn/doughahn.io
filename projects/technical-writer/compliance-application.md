@@ -14,9 +14,9 @@ I documented the scope, needs, and requirements for a bespoke compliance applica
 
 Failure to follow these requirements posed a major risk to the company in the form of tax liability and licensing. The goal was to exceed the agency's minimum standards for record-keeping by integrating with the plant equipment's to automate reports based on equipment data, as well as allowing employees to create log entries directly from the plant floor as part of a continuous quality control and monitoring process. 
 
-![Compliance docs with a TTB form](/compliance-docs-ttb-sample.jpg)
+![Compliance docs with a TTB form](/compliance-docs-ttb-sample.webp)
 
 Writing effective docs required a comprehensive understanding of TTB reporting, as well as process flows and how various systems work together in the distillery itself. The documentation was written using [MkDocs](https://www.mkdocs.org/) a modern static site generator designed for documentation. 
 
-![Features of the compliance app, with an overview of the UI](/compliance-2.jpg)
+![Features of the compliance app, with an overview of the UI](/compliance-2.webp)
 

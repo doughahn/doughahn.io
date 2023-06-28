@@ -14,10 +14,10 @@ I spearheaded the creation of an extensive documentation website using custom HT
 
 I personally handled the design and coding of the site, which was a vital tool in guiding the company's interactions with government officials and in shaping its policy stance both in the field and in the office. 
 
-![Wild Mustangs report landing page](/mustangs-report.jpg)
+![Wild Mustangs report landing page](/mustangs-report.webp)
 
 Moreover, this documentation served a critical purpose in countering misinformation circulating within the company. By meticulously curating information from multiple sources, the website encourages a culture of decisions based on critical thinking and research.
 
 Recognizing the need for a shift in company culture, I put considerable effort into designing a visually appealing, mobile-friendly, and engaging documentation site.
 
-![Wild Horse fact check](/wild-horse-fact-check.jpg)
+![Wild Horse fact check](/wild-horse-fact-check.webp)

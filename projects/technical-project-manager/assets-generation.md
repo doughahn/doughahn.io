@@ -19,13 +19,13 @@ The original scope of this project was around 300 assets; beyond the sheer volum
 
 Sales and marketing wanted to have all assets upfront; I negotiated a smaller-scope project that focused on the three most impactful assets, with a technology spike for the engineers to figure out how to implement the project and at what cost.
 
-![Template tree used by engineers to understand original scope](/brand-assets-gen.jpg)
+![Template tree used by engineers to understand original scope](/brand-assets-gen.webp)
 
 I trained and managed a junior developer, who was responsible for building templates using HTML `grid` layouts and the css `@page` rule. 
 
 I defined the project scope through a work breakdown structure, encompassing the work required to create hundreds of assets. We used this WBS as a negotiation tool to justify the need for a smaller and more manageable scope in two ways: first, it demonstrated that developing all the assets at once would far exceed budget and second, it helped stakeholders agree upon the need for a more reasonable scope. 
 
-![Diagram for user flow of app](/uml.jpg)
+![Diagram for user flow of app](/uml.webp)
 
 #### Fail Fast 
 

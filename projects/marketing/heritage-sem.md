@@ -17,7 +17,7 @@ After an initial alignment meeting with marketing leaders, I outlined a recommen
 My strategy for the client's ultra-competitive space (distilling) was to focus on Long Tail Keywords (more specific phrases that users are more likely to use when they’re closer to a point-of-purchase). Their niche, "estate distilling" is a less-used spirits keyword and a unique identifier of the business mission.
 
 <figure>
-<video autoplay loop muted playsinline poster="/keyword-strat-video-cover.jpg">
+<video autoplay loop muted playsinline poster="/keyword-strat-video-cover.webp">
   <source src="/keyword-strat-video.mp4" type="video/mp4">
 </video>
 <figcaption>Overview of the keyword strategy worksheet.</figcaption>

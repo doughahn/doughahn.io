@@ -14,4 +14,4 @@ I streamlined the onboarding processes for SaaS developers by implementing virtu
 
 This resulted in significant improvements in the onboarding process. I wrote and maintained the site using [Sphinx](https://www.sphinx-doc.org/en/master/) and the [Read the Docs](https://readthedocs.org/) theme. 
 
-![Sample of the documentation site](/docs-website.jpg)
+![Sample of the documentation site](/docs-website.webp)

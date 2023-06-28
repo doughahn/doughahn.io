@@ -14,7 +14,7 @@ This project came about when the client desired to publish [Fundamentals of Rota
 
 Complicating this, the equations were low-resolution JPGs in these proofs, meaning they had to be reconstructed by hand and converted to a format that was usable. I used a LaTeX generator to assist with this, saving source files and converting them to scalable SVG for inclusion in the book. 
 
-![Sample page showing typeset equations, cross-linking, and figure](/funamentals-sample.jpg)
+![Sample page showing typeset equations, cross-linking, and figure](/funamentals-sample.webp)
 
 To save myself time I used grep extensively to search and replace common patterns that the PDF had garbled, as well as bootstrap cross-reference links within the documents. The final product was a set of semantic HTML documents and HTML images that had been proofread and converted to a variety of ebook formats. 
 

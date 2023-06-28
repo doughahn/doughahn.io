@@ -11,7 +11,7 @@ projSkills: [ "Research", "SEM", "AdWords", "Research", "Bidding", "Stakeholder 
 
 I maximized $5k/month Search Engine Marketing spend targeting key segments. Utilizing focused strategies like single keyword campaigns, I built an organized strategy that allowed us to pivot quickly, and deploy new campaigns efficiently. We successfully met crucial Key Performance Indicators like click through rates, phone calls, form conversions, and top-of-page rank.
 
-![Impressions and Interactions; line goes up when we iterated these campaigns](/reserve-sem-2018.jpg)
+![Impressions and Interactions; line goes up when we iterated these campaigns](/reserve-sem-2018.webp)
 
 The primary objectives of the SEM strategy were to:
 

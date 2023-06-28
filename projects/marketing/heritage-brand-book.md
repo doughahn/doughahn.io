@@ -14,7 +14,7 @@ In a concerted effort with senior leadership, design, and marketing teams, I was
 
 As part of this project, we conducted meetings with stakeholders to generate business concepts based on word banks, personas, and positioning. 
 
-!["Brand DNA" from the Heritage guidelines](/heritage-brand-book-sample.jpg)
+!["Brand DNA" from the Heritage guidelines](/heritage-brand-book-sample.webp)
 
 The final book included:
 

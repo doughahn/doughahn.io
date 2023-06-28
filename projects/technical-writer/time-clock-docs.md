@@ -22,16 +22,16 @@ To achieve this I leveraged informal authority to build a collegiate and collabo
 
 The documents were written with [Sphinx](https://www.sphinx-doc.org/) and published in a searchable, version-controlled format on a private documentation website. Versioning was a critical components of this project, as we needed to ensure all stakeholders were using the latest documentation. While version control creates a natural changelog that can help the technical writer or auditor dig into every granular edit, I also built a changelog with notable updates for higher-level stakeholders' reference. This document was searchable, cross-referenceable, and had deep linking built in to enhance communication. 
 
-![The time clock website, offering robust search, cross-referencing, and precise navigation](/time-clock-site-sample.jpg)
+![The time clock website, offering robust search, cross-referencing, and precise navigation](/time-clock-site-sample.webp)
 
 Once we documented context and rates of all pay types and accruals, it was a simple task translating these into simple equations for the engineering team:
 
-![Framing calculations mathematically for the developers](/time-clock-calculations.jpg)
+![Framing calculations mathematically for the developers](/time-clock-calculations.webp)
 
 #### Continuous Quality Control
 
 I helped the engineers define and implement a continuous testing plan. I documented use-cases for each kind ot pay type, and collaborated on a checklist of tests to run on a schedule based on certain criteria (for example, *Vacation: midnight shifts: Status Flag U employee Shift starts at 10PM	Monday and ends at 7AM Tuesday requests VAC starting at 10pm Tuesday*). This continuous quality control program was used throughout the software lifecycle to mitigate risk for the company.
 
-![A sample of a quality control checklist run on a schedule](/time-benefits-checklist.jpg)
+![A sample of a quality control checklist run on a schedule](/time-benefits-checklist.webp)
 
 The documentation was critical throughout the product lifecycle. one senior engineer said it saved them costly work, and helped them track accountability and bugs, onboard new team members, and efficiently implement pay type changes down the line. 

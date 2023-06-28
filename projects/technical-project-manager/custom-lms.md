@@ -5,7 +5,7 @@ tags: [ 'Technical Project Manager' ]
 years: "2020-'22"
 projOutcomes: "This learning environment was built fast and iterated on to help drive performance objectives and build cross-functional culture."
 projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "Software Development Lifecycle", "Backlog Refinement" ]
-projImg: "/mustangs-report.jpg"
+projImg: "/mustangs-report.webp"
 ---
 
 ### Building Buy-In Fast & Iterating to Drive Value

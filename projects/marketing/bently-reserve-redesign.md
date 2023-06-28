@@ -12,7 +12,7 @@ projSkills: [ "Research", "Design", "Branding", "Writing", "Editing", "Facilitat
 
 We created a scalable, visual style guide for the Bently Reserve and event space. The project was driven by both internal needs as well as third parties and PR agencies needing accessible style rules and logo assets. 
 
-![A sample from the Bently Reserve brand book](/reserve-brand-book-sample.jpg)
+![A sample from the Bently Reserve brand book](/reserve-brand-book-sample.webp)
 
 To create an effective style guide I helped achieve internal consensus on key issues, such as brand name and voice (these had been in contention in recent years). I facilitated meetings with key leaders and conducted polls to understand they key issues and propose a vision everyone could get on board with. 
 
@@ -22,7 +22,7 @@ To create an effective style guide I helped achieve internal consensus on key is
 > …  
 > Please note that it is always “The Bently Reserve” and never “the Reserve” or other variant names.  
 
-![The book was used ](/br-brand-book-2.jpg)
+![The book was used ](/br-brand-book-2.webp)
 
 #### Used for Years to Come
 

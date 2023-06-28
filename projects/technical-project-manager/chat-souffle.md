@@ -12,7 +12,7 @@ projSkills: [ "Project Management", "xAPI", "JS", "CSS", "Twine", Learning Enabl
 We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is an inside joke among our team. 
 
 <figure>
-<video autoplay loop muted playsinline poster="/chat-souffle-cover.jpg">
+<video autoplay loop muted playsinline poster="/chat-souffle-cover.webp">
   <source src="/chat-souffle.mp4" type="video/mp4">
 </video>
 <figcaption>Demo of the site sending xAPI statements and console logs.</figcaption>
@@ -30,15 +30,15 @@ Using custom-built xAPI statements we collected over 3,000 learner activity data
 - 3100 production-quality xAPI statements 
 - A wiki on GitHub teaching users how to enable xAPI in their own twine game, and potential best practices for xAPI projects
 
-The success of this project was thanks to moving fast and keeping the whole team engaged. We also focused on organization from the outset, collabrating on verbs and how they would integrate with our app in order to help developers work efficiently and in parallel with the ID's, and to ultimately create a more robust data model:
+The success of this project was thanks to moving fast and keeping the whole team engaged. We also focused on organization from the outset, collaborating on verbs and how they would integrate with our app in order to help developers work efficiently and in parallel with the ID's, and to ultimately create a more robust data model:
 
-![We collaborated on xAPI verbs from stage 1](/verbs.png)
+![We collaborated on xAPI verbs from stage 1](/verbs.webp)
 
 Real-time analysis of this data will allow us to measure learning effectiveness and refine the course design based on how well learning outcomes are being met at each step in the course.
 
 I also drew storyboards showing each Twine passage and track, helping the learning designers get a solid grasp on the whole project:
 
-![Storyboard of our Twine app](/storyboard.jpeg)
+![Storyboard of our Twine app](/storyboard.webp)
 
 We built a robust dashboard using Veracity LMS visualizing user design experience levels, AI sentiment, ChatGPT experience, confidence in prompt engineering, etc. 
 

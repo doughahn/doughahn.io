@@ -13,7 +13,7 @@ projSkills: [ "Frontend", "CSS", "JS", "Hugo Static Sites", "Forestry/Tina", "UX
 I drafted the content and coded the website for the Bently Nob Hill, a luxury apartment tower in San Francisco's nob hill neighborhood. 
 
 <figure>
-<video autoplay loop muted playsinline poster="/nob-hill-cover.jpg">
+<video autoplay loop muted playsinline poster="/nob-hill-cover.webp">
   <source src="/nob-hill.mp4" type="video/mp4">
 </video>
 <figcaption>The landing page of Nob hill, featuring drone footage and a unique vertical navigation.</figcaption>

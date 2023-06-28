@@ -15,7 +15,7 @@ projSkills: [ "Frontend", "CSS", "JS", "Facilitation", "Project Management"  ]
 I collaborated with principal architects and stakeholders to build a storytelling website  advanced features such as geothermal heating, solar energy, and historic preservation efforts. Partnering with designers, we built interactions that highlighted these technologies using subtle parallax effects and simple but effective interactivity. one thing the team agreed on is that less is more. 
 
 <figure>
-<video autoplay loop muted playsinline poster="/farmers-bank-slider-cover.jpg">
+<video autoplay loop muted playsinline poster="/farmers-bank-slider-cover.webp">
   <source src="/farmers-bank-slider.mp4" type="video/mp4">
 </video>
 <figcaption>The interactive slider on the home page of the site dramatizes the message.</figcaption>
@@ -24,7 +24,7 @@ I collaborated with principal architects and stakeholders to build a storytellin
 Our design team deliberately chose a retro-modern font to encapsulate the building's fusion of historic and contemporary elements. Additionally, we placed the project in context by integrating pertinent local history, further enhancing the storytelling aspect of the website.
 
 <figure>
-<video autoplay loop muted playsinline poster="/farmers-bank-green-cover.jpg">
+<video autoplay loop muted playsinline poster="/farmers-bank-green-cover.webp">
   <source src="/farmers-bank-green.mp4" type="video/mp4">
 </video>
 <figcaption>Subtly parallax with airy content and attention to detail.</figcaption>

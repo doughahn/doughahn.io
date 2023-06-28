@@ -19,13 +19,13 @@ As project manager I worked with the sales team to define requirements, I manage
 The end result was an app that takes data from either the Vermont Information Processing or in-house spreadsheets, normalizes it, and then updates automatically on the website. The app allowed users to edit the data manually to correct errors, increasing its relevance to the end user. 
 
 
-![A simple but effective data flow diagram](/locator-data-flow-diagram.jpg)
+![A simple but effective data flow diagram](/locator-data-flow-diagram.webp)
 
 We built a simple app that took spreadsheets formatted by the Vermont Information Processing system and let sales people import. It automated much of the processes, and segmented their work by region so they could remediate data.
 
-![A VIP Spreadsheet sample](/vip-spreadsheet-sample.jpg)
+![A VIP Spreadsheet sample](/vip-spreadsheet-sample.webp)
 
-![The Store Locator's home page, filtered by SKU and location](/store-locator-app-overview.jpg)
+![The Store Locator's home page, filtered by SKU and location](/store-locator-app-overview.webp)
 
 #### Quality Control
 

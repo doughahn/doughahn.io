@@ -11,11 +11,11 @@ projSkills: [ "Frontend", "CSS", "JS", "Hugo/Static Sites"  ]
 
 Bently Ranch sought a website redesign to reflect their re-branding transition towards a farm-centric identity. I spearheaded the effort to streamline the site and infuse it with a modern voice and tone. Meanwhile, the design team embraced a minimalist aesthetic, invoking the ranch's expansive landscapes while paying tribute to its Old West heritage.
 
-![The Bently Ranch landing page](/bently-ranch-hero.jpg)
+![The Bently Ranch landing page](/bently-ranch-hero.webp)
 
 The site was developed using a custom theme built with [Hugo](https://gohugo.io/) static framework because the stakeholders did not anticipate needing updates, giving the website for a snappy user experience.
 
-![Google Page Speed insights for the ranch site; both mobile and desktop versions tout similar scores](/ranch-page-speed.jpg)
+![Google Page Speed insights for the ranch site; both mobile and desktop versions tout similar scores](/ranch-page-speed.webp)
 
 Hugo provided an optimal solution, maintaining the site's performance and ease of use.
 

@@ -10,8 +10,8 @@ projSkills: [ "Writing", "Editing", "Marketing" ]
 
 I conducted research for the owners of the old federal reserve nak building of San Francisco, pulling building permits from the library and department of public works to track down information, and researching the artists who made the paintings and sculptures in and around the building.
 
-![A custom layout in the book](/reserve-book-1.jpg)
+![A custom layout in the book](/reserve-book-1.webp)
 
 The book featured a variety of layouts, pairing historical information with images of the venue.  
 
-![A sample of the Bently Reserve book](/reserve-book-2.jpg)
+![A sample of the Bently Reserve book](/reserve-book-2.webp)

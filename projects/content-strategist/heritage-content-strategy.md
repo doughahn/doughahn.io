@@ -16,11 +16,11 @@ Leading a cross-functional team, I acquired buy-in and helped leaders articulate
 
 I conducted comprehensive quantitative audits using automated SEO tools like Screaming Frog, pairing them with analytics information I was able to identify areas of improvement and optimization. To help the leadership team make the most informed decisions I provided training and context for key analytics terms such as sessions, views/session, bounce rate, and duration. I held a meeting where I presented the audit with a fun game where users guessed how many paged the site currently has (as is typical for these projects, it had many lot more than most thought!). In addition, this helped me identify mechanical issues with the website, such as old pages that needed to be removed and broken redirects, providing value and showing the team results while we proceeded with the next phase. 
 
-![Sample of the Heritage quantitative audit, showing an educational comment](/heritage-quan-audit.jpg)
+![Sample of the Heritage quantitative audit, showing an educational comment](/heritage-quan-audit.webp)
 
 We then had domain experts perform audits themselves, letting them score the pages they cared most about. They ranked pages using subjective terms like usability, knowledge level, findability, actionability, target audience, business value, key message, brand appropriateness, and tone. 
 
-![Sample of a Heritage content audit](/heritage-audit-sample.jpg)
+![Sample of a Heritage content audit](/heritage-audit-sample.webp)
 
 I then synthesized these responses to find out what areas of the site bothered the team the most, and which — according to SMEs and business stakeholders — needed updating first. As before, this drove business value and created positive value throughout the project life cycle.
 
@@ -28,7 +28,7 @@ I then synthesized these responses to find out what areas of the site bothered t
 
 Finally, I established user testing with a third-party agency to better understand how the brand was viewed. This not only helped guide our ultimate strategy but discovered UX issues like hard-to-find contact forms. We also uncovered a mission-critical flaw in the brand's online shopping experience that trapped users in a section of the site and was leading to abandoned carts. Fixing this was a simple task that led to improved sales. 
 
-![A sample of UX testing information presented to the team](/heritage-audit-results.jpg)
+![A sample of UX testing information presented to the team](/heritage-audit-results.webp)
 
 #### Digital Footprint Optimization
 
@@ -40,7 +40,7 @@ As pat of our efforts to learn more about user intent, I also led the team on co
 
 This research as used to optimize the website from an SEO standpoint in tandem with checklists and strategies to build domain authority with collaborators. 
 
-![Sample of our keywords worksheet](/heritage-keyword-research.jpg)
+![Sample of our keywords worksheet](/heritage-keyword-research.webp)
 
 Our combined efforts led to tangible outputs, including a product road map, user testing protocols, an engagement plan, a refreshed marketing strategy, and a re-branded website that achieved our KPI targets.
 
