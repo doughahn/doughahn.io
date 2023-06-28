@@ -15,4 +15,10 @@ export default function (Vue, { router, head, isClient }) {
     rel: 'stylesheet',
     href: 'https://cloud.typography.com/7216232/7655832/css/fonts.css'
   })
+
+  head.meta.push({
+    key: 'og:image',
+    name: 'og:image',
+    content: 'https://doughahn.io/og-image.jpg'
+  })
 }

@@ -1,6 +1,6 @@
 <template>
     <div id="portfolioNav">
-      <h2>Projects</h2>
+      <h2>My Work</h2>
       <div v-for="tag in orderedTags" :key="tag.id" class="experience-domain">
         <h4 :id="formatTagId(tag.id)">{{ tag.id }}</h4>
         <dl>

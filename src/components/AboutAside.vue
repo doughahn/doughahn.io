@@ -1,11 +1,11 @@
 <template>
     <div>
       <h2>About Me</h2>
-      <h3>Collaborator, Listener, Project Person</h3>
+      <h3>I'm a Project Person</h3>
       <p class="leadin">
-        <b>I&rsquo;m a certified</b> Project Management Professional with an MFA in poetry. I have skills in web &amp; app development, content strategy, documentation, writing, marketing, and communication. Accountability, compassion, and hands-on experience form the cornerstones of my approach.
+        <b>I'm a PMP</b> with an MFA in poetry. As a skilled generalist I command expertise in web &amp; app development, content strategy, documentation, writing, marketing, and communication. 
       </p>
-      <h4>These three things mean everything to me:</h4>
+      <h4 class="leadin-subhead">These three things mean everything to me:</h4>
       <ul class="leadin-list">
         <li>Foster meaningful change within.</li>
         <li>Build positive change without.</li>

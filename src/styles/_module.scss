@@ -115,19 +115,27 @@ p {
   text-transform: uppercase;
 }
 
+.leadin {
+  @include breakpoint(xlarge) {
+    padding: 1rem 0 0 0;
+    font-size: var(--text-lg);
+  }
+}
+
 .leadin-list {
+  padding:0 0 0 1rem;
+  margin:0;
+
+}
+
+.leadin-list li {
   @extend .bodyFont;
   color: var( --dark );
   font-size: var(--text-md);
   line-height: var(--body-line-height);
-  margin-bottom: var(--baseline-sm);
-  padding-top:0;
-  margin-top:0
-;  padding-left: 1rem;
-}
-
-.leadin-list li {
-  font-size: var(--text-md);
+  @include breakpoint(xlarge) {
+    font-size: var(--text-lg);
+  }
 }
 
 img {
@@ -165,6 +173,10 @@ h4 {
   line-height: var( --heading-line-height );
   color: var(--dark);
   padding: 1.33rem 0;
+}
+
+h4.leadin-subhead {
+  padding: .33rem 0 1.33rem 0;
 }
 
 .projectInfo h4 {
@@ -214,7 +226,14 @@ h5{
   font-size: var(--text-md);
   color: var( --dark );
   line-height: var(--heading-line-height);
-  padding: 1.33rem 0;
+  padding: 1.33rem 0 .66rem 0;
+}
+
+.experience-domain:first-of-type {
+  padding-top: .3rem;
+  @include breakpoint(large) {
+    padding-top:1rem; 
+  }
 }
 
 .experience-item a {
