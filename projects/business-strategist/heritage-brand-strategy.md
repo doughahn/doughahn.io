@@ -8,21 +8,21 @@ projOutcomes: "Complete business plan with mission, marketing objectives, swot, 
 projSkills: [ "Research", "Analytics", "Budgeting", "Risk Analysis", "Roadmapping", "Branding", "Facilitation", "Presentation"  ]
 ---
 
-### Introducing a #100M Distillery
+### Introducing a $100M Distillery
 
 I was instrumental in researching, evaluating, and formulating a comprehensive business plan for the Bently Heritage brand. 
 
-![The cover of the business plan presented to executives](/bhed-plan.webp)
+![The cover of the business plan presented to executives](/bhed-plan.jpg)
 
 We worked with a marketing form onto bolster research and gain access to reports, but conducted much of our own in tandem with subject matter experts in the industry.
 
-![Sample distillery system sizing worksheet used in plan](/distillerycalcs.webp)
+![Sample distillery system sizing worksheet used in plan](/distillerycalcs.jpg)
 
 #### The Means of Production
 
 Researching larger-sized competitors was mission-critical, and I was entrusted to research this. We needed to understand the distilling landscape — particularly, the *estate* distilling landscape: who owns their own farms within the market segment, and can produce sizable amounts of spirits? My research produced info on almost 3,000 distilleries nationwide and enabled our team to gain invaluable understanding of competitors. 
 
-![A sample of the distillery size report I compiled](/distillery-size-report.webp)
+![A sample of the distillery size report I compiled](/distillery-size-report.jpg)
 
 I distilled the data into a small informational report for the executive team. 
 
