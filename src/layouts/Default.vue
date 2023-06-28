@@ -6,7 +6,7 @@
     </div>
     <slot/>
     <footer>
-      <p>&copy; {{ currentYear }} <a href="https://www.linkedin.com/in/douglas-hahn/">Doug Hahn</a></p>
+      <p>&copy; {{ currentYear }} <a href="https://www.linkedin.com/in/douglas-hahn/">Doug Hahn</a>; design & code by me.</p>
     </footer>
   </div>
 </template>

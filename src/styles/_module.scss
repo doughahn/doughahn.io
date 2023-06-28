@@ -33,13 +33,12 @@
 
 h1 {
   @extend .heading;
-  font-size: var(--text-xxl);
+  font-size: var(--text-xxxl);
   line-height: var(--heading-line-height);
   padding-left:1rem;
   color: var( --light );
   @include breakpoint(large) {
     padding: 3rem 0;
-    font-size: var(--text-xxxl);
   }
 }
 
@@ -147,12 +146,12 @@ h3 {
   @extend .heading;
   position:relative;
   font-size: var(--text-xxl);
-  padding: 1.33rem 0;
   color: #7FA4BC;
+  line-height: var( --baseline-lg );
+  padding: 1.33rem 0 1.33rem 0; 
   @include breakpoint(large) {
-    padding: 2.66rem 0 1.33rem 0;     
+    padding: .95rem 0 1.33rem 0;     
     font-size: var(--text-xxxl);
-    line-height: var( --baseline-xl );
   }
 }
 
@@ -283,7 +282,7 @@ figure {
   display: block;
   margin: 1.33rem 0 1.33rem 0;
   width: max-content;
-  max-width:100%; 
+  max-width:96%; 
   position: relative;
   @include breakpoint(large) {
     margin: 2.66rem 0 2.66rem  -15%;
@@ -462,6 +461,7 @@ footer {
     color: var( --light );
     text-align:center;
     padding: 3rem;
+    margin-bottom:0;
     @extend .subheadItalic;
     font-size: var(--text-sm);
   }

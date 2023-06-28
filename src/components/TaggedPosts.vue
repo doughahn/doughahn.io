@@ -4,12 +4,12 @@
       <div v-for="tag in orderedTags" :key="tag.id" class="experience-domain">
         <h4 :id="formatTagId(tag.id)">{{ tag.id }}</h4>
         <dl>
-          <div v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
+          <span v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
             <g-link :to="post.node.path">
               <dt>{{ post.node.years }}</dt>
               <dd>{{ post.node.title }}</dd>
             </g-link>
-          </div>
+          </span>
         </dl>
       </div>
     </div>

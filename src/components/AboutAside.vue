@@ -3,7 +3,7 @@
       <h2>About Me</h2>
       <h3>Collaborator, Listener, Project Person</h3>
       <p class="leadin">
-        <b>I&rsquo;m a certified Project Management Professional</b> with an MFA in poetry. I have skills in web &amp; app development, content strategy, documentation, writing, marketing, and communication. Accountability, compassion, and hands-on experience form the cornerstones of my approach.
+        <b>I&rsquo;m a certified Project Management</b> Professional with an MFA in poetry. I have skills in web &amp; app development, content strategy, documentation, writing, marketing, and communication. Accountability, compassion, and hands-on experience form the cornerstones of my approach.
       </p>
       <h4>These three things mean everything to me:</h4>
       <ul class="leadin-list">
