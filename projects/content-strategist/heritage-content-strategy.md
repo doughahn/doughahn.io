@@ -1,5 +1,5 @@
 ---
-title: "Distillery Content Strategy"
+title: "Data-driven content strategy for a national distillery"
 date: 2017-01-01
 tags: [ 'Content Strategist' ]
 years: "2017-'23"
@@ -8,7 +8,8 @@ projOutcomes: "Significant improvements across KPIs such as social media engagem
 projSkills: [ "User Research", "Strategy", "Facilitation", "Editing", "Facilitation", "Vendor Procurement", "IA", "UX", "SEO" ]
 ---
 
-### Strategic North Star
+### A Strategic North Star
+
 Leading a cross-functional team, I acquired buy-in and helped leaders articulate their needs. We created a data-driven content strategy for Bently Heritage that focused on finding and serving user intent. 
 
 #### Quantitative and Qualitative Audits

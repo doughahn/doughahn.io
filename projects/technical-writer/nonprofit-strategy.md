@@ -1,5 +1,5 @@
 ---
-title: "Executive Nonprofit Investment Strategy"
+title: "Nonprofit investment strategy tools for an executive board"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015"

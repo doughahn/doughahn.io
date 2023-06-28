@@ -1,5 +1,5 @@
 ---
-title: "Farmer's Bank Website"
+title: "Storytelling website for a LEED Platinum building"
 date: 2019-01-01
 tags: [ 'Developer' ]
 years: "2019-'23"
@@ -31,3 +31,7 @@ Our design team deliberately chose a retro-modern font to encapsulate the buildi
 </figure>
 
 Ultimately, this is one of my favorite designs as it embodies a truly green buildout that respects history and community. As a developer, I enjoy animations and parallax effects when they are done subtly and appropriately match the needs of the content. 
+
+#### Project Links
+
+**[Farmers bank](https://bentlyfarmersbank.com/)**

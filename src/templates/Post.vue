@@ -29,32 +29,41 @@
       </section>
     </main>
     <div class="grid project-page-experience">
-        <aside>
-            <h2>About Me</h2>
-            <h3>Collaborator, Owner, Skilled Generalist</h3>
-            <p class="leadin"><b>I&rsquo;m a certified Project Management Professional</b> with an MFA in poetry. I have skills in web &amp; app development, content design, documentation, writing, marketing, and communication. Accountability, compassion, and hands-on experience form the cornerstones of my approach.</p>
-            <p class="leadin"><b>My three pillars are:</b></p>
-        <ul class="leadin-list">
-            <li>Create meaningful change within he organization</li>
-            <li>Foster positive change outside the organization</li>
-            <li>Learn from people smarter than me</li>
-        </ul>
-        <a class="calloutLink" href="https://www.linkedin.com/in/douglas-hahn/">LinkedIn</a>
-        </aside>
-        <nav class="experience">
-            <TaggedPosts :tagOrder="['Technical PM', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
-        </nav>
+      <aside>
+        <AboutAside />
+      </aside>
+      <nav class="experience">
+          <TaggedPosts :tagOrder="['Technical PM', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
+      </nav>
     </div>
   </Layout>
 </template>
 
 <script>
+import { MetaInfo } from 'vue-meta';
 import TaggedPosts from '@/components/TaggedPosts.vue';
+import AboutAside from '@/components/AboutAside.vue';
 
 export default {
   name: 'WorkExperience',
   components: {
-    TaggedPosts
+    TaggedPosts,
+    AboutAside
+  },
+  metaInfo() {
+    return {
+      title: this.$page.post.title,
+      meta: [
+        {
+          name: 'description',
+          content: this.$page.post.projOutcomes,
+        },
+        {
+          name: 'keywords',
+          content: this.$page.post.projSkills.join(','),
+        }
+      ]
+    }
   },
   methods: {
     formatTagId(id) {

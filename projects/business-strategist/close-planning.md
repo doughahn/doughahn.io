@@ -1,5 +1,5 @@
 ---
-title: "Divestment Plan"
+title: "Divestment planning: 200% return on income through collaboration"
 date: 2019-01-01
 tags: [ 'Business Strategist' ]
 years: "2022"
@@ -8,7 +8,7 @@ projOutcomes: "The company realized a 200% return on income in ¼ time frame."
 projSkills: [ "Smartsheets", "Schedule Development", "Budgeting", "Data Visualization", "Collaboration", "Roadmapping", "Motivation"  ]
 ---
 
-### Optimizing Decision-Making Over a Year-Long Closure
+### Optimizing Decisions Over a Year-Long Closure
 
  I worked in close collaboration with various leaders to determine scope, timeline, and milestones for a divestment project that would occur over the course of three months, 6 months, or a year. Our aim was to close a plant safely while maximizing return on income within the shortest possible time frame.
 

@@ -1,9 +1,8 @@
 ---
-title: "Community Engagement for Construction Project"
+title: "Building rapport with stakeholders over a four-year project"
 date: 2013-01-01
 years: "2013-'17"
 tags: [ 'Marketer' ]
-summary: "I served as the right-hand man for key leaders building belief in their vision."
 projOutcomes: "Tangible positive press in the media, coordinated plan at town hall meetings, and a bill passed in the state of NV establishing a new distilled spirits category."
 projSkills: [ "Stakeholder Management", "PR", "Writing", "Marketing", "Research" ]
 ---

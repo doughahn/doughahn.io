@@ -1,5 +1,5 @@
 ---
-title: "Program Manager at the Project Management Institute"
+title: "Working with community leaders on the PMI sustainability team"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2022-"

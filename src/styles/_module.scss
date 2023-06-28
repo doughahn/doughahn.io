@@ -282,7 +282,7 @@ figure {
   display: block;
   margin: 1.33rem 0 1.33rem 0;
   width: max-content;
-  max-width:96%; 
+  max-width:100%; 
   position: relative;
   @include breakpoint(large) {
     margin: 2.66rem 0 2.66rem  -15%;

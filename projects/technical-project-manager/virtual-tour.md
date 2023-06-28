@@ -1,5 +1,5 @@
 ---
-title: "Distillery Virtual Tour"
+title: "Progressive elaboration to build a rich virtual tour"
 date: 2019-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2019-'23"

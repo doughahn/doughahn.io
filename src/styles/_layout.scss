@@ -41,6 +41,14 @@ aside {
   }
 }
 
+aside.intro {
+  display:block;
+  @include breakpoint(large) {
+    display:block;
+   grid-template-columns: 2fr;
+  }
+}
+
 .experience {
   grid-template-columns: 4fr;
   @include breakpoint(large) {

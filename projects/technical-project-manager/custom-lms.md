@@ -1,5 +1,5 @@
 ---
-title: "Custom LMS Dashboard"
+title: "Creating outcomes with a custom LMS dashboard"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"
@@ -9,7 +9,7 @@ projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", 
 projImg: "/mustangs-report.jpg"
 ---
 
-### Overview
+### Building Buy-In Fast & Iterating to Drive Value
 
 Bently Enterprises wanted to enhance cross-functional learning opportunities across all levels of the company, capitalizing on an opportunity to help employees grow their careers as virtual learning took off. They required delivery in under 1 month. 
 

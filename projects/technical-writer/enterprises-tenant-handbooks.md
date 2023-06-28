@@ -1,5 +1,5 @@
 ---
-title: "Tenant Handbooks for Commercial Properties"
+title: "Tenant handbooks for ~300M global properties"
 date: 2016-01-01
 tags: [ 'Technical Writer' ]
 years: "2016-'18"

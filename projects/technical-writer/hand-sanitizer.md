@@ -1,5 +1,5 @@
 ---
-title: "Hand Sanitizer Donation Guidelines"
+title: "Aligning stakeholders to donate hand sanitizer during the Pandemic"
 date: 2020-01-01
 tags: [ 'Technical Writer' ]
 years: "2020"

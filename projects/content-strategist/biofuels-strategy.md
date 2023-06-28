@@ -1,14 +1,14 @@
 ---
-title: "Biofuels Content Strategy"
+title: "Data-driven strategy for a biofuels startup"
 date: 2013-01-01
 tags: [ 'Content Strategist' ]
 years: "2013-'16"
-summary: "Developed content strategy for a biofuels startup."
+summary: "I Developed content strategy for a biofuels startup, using tools like core strategy statement and page description diagrams to align teams with disparate viewpoints."
 projOutcomes: "Unifying content strategy based on research and analytics, with a core strategy statement everyone had buy-in on."
 projSkills: [ "User Research", "Strategy", "Facilitation", "Product Marketing", "Editing", "Facilitation"  ]
 ---
 
-### Building a Biofuels Brand
+### Building a Biofuels Brand 
 
 I collaborated with the founders, senior leadership, and key stakeholders to distill research and vision into a core strategy statement that helped guide cross-functional teams. By effectively presenting these findings to the team, I was able to help leadership establish a shared vision and a strategy that steered the team through the entirety of the business development cycle.
 

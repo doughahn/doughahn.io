@@ -1,5 +1,5 @@
 ---
-title: "Bay Area Whaleboating Fleet Coordinator"
+title: "Building a safe fleet for whaleboats on the bay"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2023-"

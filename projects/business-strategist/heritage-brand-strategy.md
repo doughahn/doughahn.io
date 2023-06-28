@@ -1,14 +1,14 @@
 ---
-title: "Distillery Business Plan"
+title: "Building a brand: business plan for a disruptive distillery"
 date: 2014-01-01
 tags: [ 'Business Strategist' ]
 years: "2017"
-summary: "I helped build the bedrock of a national distillery brand and new spirits category."
+summary: "I helped build the bedrock of a national distillery brand with a $100M buildout, helping them establish a new spirits category."
 projOutcomes: "Complete business plan with mission, marketing objectives, swot, consumer analysis, competitor analysis, company analysis, and marketing mix."
 projSkills: [ "Research", "Analytics", "Budgeting", "Risk Analysis", "Roadmapping", "Branding", "Facilitation", "Presentation"  ]
 ---
 
-### Building a Brand
+### Introducing a #100M Distillery
 
 I was instrumental in researching, evaluating, and formulating a comprehensive business plan for the Bently Heritage brand. 
 

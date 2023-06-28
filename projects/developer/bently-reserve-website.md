@@ -1,5 +1,5 @@
 ---
-title: "Bently Reserve's Website"
+title: "Goal-driven website for a premier wedding & events venue"
 date: 2015-01-01
 tags: [ 'Developer' ]
 years: "2015-'20"
@@ -8,7 +8,7 @@ projOutcomes: "A new website with features that matched the business's content n
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "Salesforce API" ]
 ---
 
-### Modernizing the Site for a Premier Venue
+### Content Control in the Venue's Hands
 
 I played an integral role as developer and writer updating the website for a premier event venue, while collaborating with key stakeholders. Our platform of choice was the Craft CMS, which I tailored to create bespoke content models that precisely met the client's unique needs.
 

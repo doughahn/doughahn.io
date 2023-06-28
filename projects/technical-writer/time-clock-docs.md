@@ -1,5 +1,5 @@
 ---
-title: "Time Clock Documentation & Quality Control"
+title: "Rersearch and root cause documentation for a custom time clock"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-'22"

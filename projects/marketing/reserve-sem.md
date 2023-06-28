@@ -1,12 +1,13 @@
 ---
-title: "Bently Reserve's Search Engine Marketing"
+title: "SEM strategy drove KPIs in a tough marketplace"
 date: 2018-01-01
 tags: [ 'Marketer' ]
 years: "2018-'21"
-summary: "$5,000/month SEM campaign management"
-projOutcomes: "Restructured SEM campaigns leveraging themes and focused targeting that drove conversaions."
+projOutcomes: "Restructured SEM campaigns leveraging themes and focused targeting that drove conversions, with a $5k per month spend."
 projSkills: [ "Research", "SEM", "AdWords", "Research", "Bidding", "Stakeholder Management", "Teaching"  ]
 ---
+
+### Maximizing Spend in a Competitive Market
 
 I maximized $5k/month Search Engine Marketing spend targeting key segments. Utilizing focused strategies like single keyword campaigns, I built an organized strategy that allowed us to pivot quickly, and deploy new campaigns efficiently. We successfully met crucial Key Performance Indicators like click through rates, phone calls, form conversions, and top-of-page rank.
 

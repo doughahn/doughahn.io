@@ -1,5 +1,5 @@
 ---
-title: "Bently Heritage's Website"
+title: "Bespoke CMS for the Bently Heritage brand"
 date: 2017-01-01
 tags: [ 'Developer' ]
 years: "2017-'20"
@@ -8,9 +8,9 @@ projOutcomes: "A new website with features that matched the business's content n
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 ---
 
-### Custom CSS & CMS
+### A Tailored Content Experience
 
-I developed the Bently Heritage website following a content-first approach, after developing the client's [content strategy](/projects/heritage-content-strategy) to drive the site design, IA, and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs. 
+I developed the Bently Heritage website following a content-first approach, after developing the client's [content strategy](/projects/heritage-content-strategy) to drive the site design, IA, and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
 
 <figure>
 <video autoplay loop muted playsinline poster="/mill-slide-cover.jpg">

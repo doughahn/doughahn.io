@@ -2,7 +2,7 @@
   <div>
     <div class="header-area">
       <g-link to="/"><h1>Doug Hahn</h1></g-link>
-      <a href="#portfolioNav" class="nav-button">Projects</a>
+      <a href="/projects/" class="nav-button">Projects</a>
     </div>
     <slot/>
     <footer>

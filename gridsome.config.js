@@ -1,9 +1,3 @@
-// This is where project configuration and plugin options are located.
-// Learn more: https://gridsome.org/docs/config
-
-// Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
-
 module.exports = {
   module: {
     rules: [
@@ -22,29 +16,27 @@ module.exports = {
     ]
   },
   // plugin omitted
-}
-
-module.exports = {
-	siteName: "Doug Hahn",
-	plugins: [
-		{
-			use: "@gridsome/source-filesystem",
-			options: {
-				typeName: "Post",
-				path: "./projects/**/*.md",
+  siteName: "Doug Hahn",
+  titleTemplate: '%s',
+  plugins: [
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        typeName: "Post",
+        path: "./projects/**/*.md",
         refs: {
           tags: {
             typeName: 'Tag',
             create: true
           },
-			  },
+        },
       },
     },
-	],
-	templates: {
+  ],
+  templates: {
     Tag: '/tag/:id',
-		Post: "/projects/:title",
-	},
+    Post: "/projects/:title",
+  },
   transformers: {
     remark: {
       autolinkClassName: 'icon icon-link heading-anchor',
@@ -71,4 +63,3 @@ module.exports = {
     },
   },
 };
-

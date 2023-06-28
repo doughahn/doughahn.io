@@ -1,5 +1,5 @@
 ---
-title: "Point of Sale Ad Generator"
+title: "Failing fast on a point of sale asset app"
 date: 2021-01-01
 tags: [ 'Technical Project Manager' ]
 skills: [ 'Stakeholder Management', 'JS' ]

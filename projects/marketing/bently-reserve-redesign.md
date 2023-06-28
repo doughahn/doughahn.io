@@ -1,5 +1,5 @@
 ---
-title: "Bently Reserve Brand Book"
+title: "Building a brand book for a premier venue"
 date: 2015-01-01
 tags: [ 'Marketer' ]
 years: "2015-'20"

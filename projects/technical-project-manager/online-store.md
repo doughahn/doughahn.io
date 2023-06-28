@@ -1,5 +1,5 @@
 ---
-title: "Distillery eCommerce Pivot"
+title: "Rapid eCommerce pivot for a distillery during the pandemic"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"
@@ -8,7 +8,7 @@ projOutcomes: "Rapid launch of an e-commerce storefront that aligned with COVID 
 projSkills: [ "Project Management", "Front End Development", "Backlog Refinement", "Problem-Solving", "Requirements Definition", "Shopify", "Collaboration", "HTML Email" ]
 ---
 
-### Ecommerce MVP & Iterations
+### Agile eCommerce MVP & Iterations
 
 I spearheaded the launch of a $60K eCommerce initiative to facilitate the distillery's business pivot during the pandemic. The minimum viable product was deployed in less than two weeks and realized a cost savings of $10K under budget. 
 

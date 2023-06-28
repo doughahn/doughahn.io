@@ -1,5 +1,5 @@
 ---
-title: "Store Locator Data Management"
+title: "SaaS app managing data for a national sales crew"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-'22"
@@ -8,7 +8,7 @@ projOutcomes: "Manage 700+ locations for nationwide brand, building in ease of u
 projSkills: [ "Project Management", "Requirements Definition", "Wireframing", "Flow Diagramming", Communication", "Stakeholder Management", "Task Management", "Quality Control"  ]
 ---
 
-### Maintaining Data with the Sales Crew
+### Maintaining Good Data with the Sales Crew
 
 The Bently Heritage Distillery website's store locator was a mission-critical component, but we found data wasn't being maintained to the quality needed. 
 

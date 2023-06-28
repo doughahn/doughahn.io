@@ -1,5 +1,5 @@
 ---
-title: "Founder, Designer, Developer of Poetry Magazine"
+title: "A poetry project that I've worked on for 18 years"
 date: 2006-01-01
 tags: [ 'Volunteer' ]
 years: "2006-"
@@ -21,3 +21,7 @@ This bespoke attention has allowed our us to succeed at a variety of interesting
 ![A translation, showing the the original Persian alongside in an active tab](/sink-translation.jpg)
 
 *Sink Review* has been running for 18 years, and while it's on hiatus for now I hope to find a new editorial eam to work with on its next inception. If so inclined can find my poem, *[Nostrum](https://sinkreview.org/sink-1/nostrum.html)*, within its covers. 
+
+#### Project Links
+
+**[Sink Review](https://sinkreview.org/)**

@@ -1,5 +1,5 @@
 ---
-title: "Bently Holdings Brand"
+title: "Writing for the Bently Holdings brand"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
 years: "2010-'14"

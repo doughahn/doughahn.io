@@ -1,5 +1,5 @@
 ---
-title: "Animal Rights Documentation for Ranch"
+title: "Changing company culture for the better with animal rights education"
 date: 2016-01-01
 tags: [ 'Technical Writer' ]
 years: "2016-"

@@ -1,5 +1,5 @@
 ---
-title: "Developer Documentation"
+title: "Developer docs to streamline onboarding"
 date: 2014-01-01
 tags: [ 'Technical Writer' ]
 years: "2014-'22"
@@ -8,7 +8,7 @@ projOutcomes: "A searchable website deployed on a private server helping SaaS ap
 projSkills: [ "Technical Writing", "Static Generators (Sphinx)", "Requirements Definition", "Change Management", "Communication", "Process Mapping" ]
 ---
 
-### Automated Onboarding
+### Self-Guided Onboarding
 
 I streamlined the onboarding processes for SaaS developers by implementing virtualized, sanitized environments. Collaborating with senior engineers, we drafted and published  workflows and built automated scripts to bootstrap and sanitize information using Vagrant, allowing developers to work on applications with highly sensitive data such as HR and compliance. 
 

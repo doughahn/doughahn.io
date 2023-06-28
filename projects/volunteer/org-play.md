@@ -1,5 +1,5 @@
 ---
-title: "Organized Play Manager"
+title: "Fostering an inclusive gaming community & passing the torch"
 date: 2018-01-01
 tags: [ 'Volunteer' ]
 years: "2018-'22"

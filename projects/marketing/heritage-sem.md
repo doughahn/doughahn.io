@@ -1,5 +1,5 @@
 ---
-title: "Bently Heritage's Digital Footprint"
+title: "Optimizing the digital footprint of a large estate distiller"
 date: 2020-01-01
 tags: [ 'Marketer' ]
 years: "2020-'22"
