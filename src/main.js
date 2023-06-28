@@ -13,6 +13,6 @@ export default function (Vue, { router, head, isClient }) {
   // add external css
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://cloud.typography.com/7216232/7655832/css/fonts.css&display=swap'
+    href: 'https://cloud.typography.com/7216232/7655832/css/fonts.css'
   })
 }
