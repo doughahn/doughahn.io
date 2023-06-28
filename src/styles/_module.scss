@@ -33,12 +33,13 @@
 
 h1 {
   @extend .heading;
-  font-size: var(--text-xxxl);
+  font-size: var(--text-xxl);
   line-height: var(--heading-line-height);
   padding-left:1rem;
   color: var( --light );
   @include breakpoint(large) {
     padding: 3rem 0;
+    font-size: var(--text-xxxl);
   }
 }
 
