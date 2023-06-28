@@ -12,7 +12,7 @@ projSkills: [ "Stakeholder Management", "Conflict Resolution", "Documentation", 
 
 I partnered with C-level executives to define needs and articulate beliefs, creating an investment strategy for nonprofit. 72-page workbook has guided board investments since 2019 and used to fund 55+ charities. Workbook built in [Sphinx](https://www.sphinx-doc.org/en/master/) for maintainability and cross-referencing. 
 
-![A sample reference chart in the handbook](/ethics-handbook-sample.webp)
+![A sample reference chart in the handbook](/ethics-handbook-sample.jpg)
 
 In order to succeed at this project I grounded all work in the three broad ethical theories (Consequentialist, Non-consequentialist, Agent-centered), keeping things high-level and objective for the team. The document was functionally organized by the nonprofit's areas of concern:
 
@@ -51,6 +51,6 @@ I use the skills I acquired as a certified project manager to build productive w
 5. Follow up on questions as a priority
 6. Listen carefully
 
-#### Funding Charities 2015
+#### Funding Charities since 2015
 
 This is one of my favorite projects: it was quite sweeping in scope and required a lot of finesse, while giving me the opportunity to gain gain a deeper understanding of animal welfare, sustainability, and how nuanced issues like animal testing are. The output of this project, more funded charities and a clear direction for a team, is something that I am proud of. 
