@@ -19,7 +19,7 @@
           <span class="experience-item">
             <a href="https://www.credly.com/badges/6b56b009-4868-4c38-97e0-53b29df69449/public_url">
               <dt>2021</dt> 
-              <dd>Project Management Professional (PMP) ,#3130172</dd>
+              <dd>Project Management Professional (PMP) #3130172</dd>
             </a>
           </span>
           <span class="experience-item">
