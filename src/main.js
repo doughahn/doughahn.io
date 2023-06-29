@@ -4,7 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import Figure from '~/components/Figure.vue'
 import '~/styles/main.scss'
-import 'prismjs/themes/prism.css'  // choose the theme that you like
+import 'prismjs/themes/prism.css'  
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
