@@ -12,7 +12,7 @@ projSkills: [ "Stakeholder Management", "Conflict Resolution", "Documentation", 
 
 I partnered with C-level executives to define needs and articulate beliefs, creating an investment strategy for nonprofit. 72-page workbook has guided board investments since 2019 and used to fund 55+ charities. Workbook built in [Sphinx](https://www.sphinx-doc.org/en/master/) for maintainability and cross-referencing. 
 
-![A sample reference chart in the handbook](/ethics-handbook-sample.jpg)
+![A sample reference chart in the handbook](/ethics-handbook-sample.webp)
 
 In order to succeed at this project I grounded all work in the three broad ethical theories (Consequentialist, Non-consequentialist, Agent-centered), keeping things high-level and objective for the team. The document was functionally organized by the nonprofit's areas of concern:
 

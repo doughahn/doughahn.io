@@ -12,4 +12,4 @@ projSkills: [ "Writing", "Editing", "Marketing" ]
 
 I wrote and revised content for a high-profile property management company here in San Francisco, helping stakeholders articulate their vision and policies through press releases, social media, and web content. 
 
-![The Benthy holdings home page and tagline](/bently-holdings.jpg)
+![The Benthy holdings home page and tagline](/bently-holdings.webp)

@@ -12,7 +12,7 @@ projSkills: [ "Stakeholder Management", "Leadership", "Documentation", "Scheduli
 
 I fostered a local gaming community in San Francisco by building events and finding new venues for public, free tabletop games through the [Organized Play Foundation](https://www.organizedplayfoundation.org/), a global organization. I cold-called game store owners to pitch them on running game nights at their locations. Before the Pandemic we were operating games at 5 locations in San Francisco, helping support local small businesses as part of a vibrant community. 
 
-![The local website I designed and coded, based on the game's typography and colors, with my own artwork](/org-play-site.jpg)
+![The local website I designed and coded, based on the game's typography and colors, with my own artwork](/org-play-site.webp)
 
 I trained a team of volunteers organize weekly public events at various locations, cultivating mutually beneficial relationships with venue owners, and creating resources to ensure successful events. Through the course of my time as a volunteer, I managed conflict in a way that educated community members and built a community that is welcoming to new players, especially those in the LGBTQ+ communities. 
 
@@ -20,7 +20,7 @@ As a component of this project I worked with fellow volunteers and built a websi
 
 Finally, I codified my knowledge by collaborating with other volunteers and authoring a [handbook](https://organizedplayfoundation.org/Lorespire/VO-Handbook) for managing and building communities, running events, trigger points for escalation, and conflict resolution tools and tactics.  
 
-![Sample of the handbook with a process graphic I designed](/vo-handbook-conflict-resolution.jpg)
+![Sample of the handbook with a process graphic I designed](/vo-handbook-conflict-resolution.webp)
 
 #### Handoff to the Next Generation
 
