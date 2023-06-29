@@ -300,9 +300,9 @@ figure {
   width: max-content;
   max-width: 100%;
   background-image: url(/FigureBrowserBar.svg);
-  background-position: 0 0;
+  background-size:1000px 24px;
+  background-position: top left;
   background-repeat: no-repeat;
-  background-size:500px 12px;
   display: block;
   margin: 1.33rem 0 1.33rem 0;
   position: relative;
@@ -333,7 +333,7 @@ figure video {
   border-left: 1px solid black;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  padding-top:12px;
+  padding-top:24px;
   @include breakpoint(medium) {
     padding-top: 20px;     
   }
