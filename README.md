@@ -10,6 +10,6 @@ This is the project you get when you run `gridsome create new-project`.
 
 1. `gridsome create my-gridsome-site` to install default starter
 2. `cd my-gridsome-site` to open the folder
-3. `export NODE_OPTIONS=--openssl-legacy-provider` old ssl
-4. `gridsome develop` to start a local dev server at `http://localhost:8080`
+3. `export NODE_OPTIONS=--openssl-legacy-provider` 
+4. `NODE_OPTIONS=--openssl-legacy-provider npm run develop` to start a local dev server at `http://localhost:8080`
 5. Happy coding 🎉🙌
