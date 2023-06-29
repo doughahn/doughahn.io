@@ -1,5 +1,5 @@
 ---
-title: "Complete xAPI learning experience in under a month"
+title: "Complete xAPI + Twine learning experience"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2023-"
@@ -7,7 +7,7 @@ projOutcomes: "In under 10 weeks I helped a team build a complete xAPI-enabled l
 projSkills: [ "Project Management", "xAPI", "JS", "CSS", "Twine", Learning Enablement", "Prompt Engineering" ]
 ---
 
-### Complete xAPI & Twine App in > 10 Weeks
+### An app built in < 8 Weeks
 
 We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is an inside joke among our team. 
 
