@@ -297,18 +297,17 @@ dd {
 }
 
 figure {
-  background-image: url(/browserBar.svg);
+  background-image: url(/browserBar2.svg);
   background-position: 0 0;
   background-repeat: no-repeat;
+  background-size: 100% auto;
   display: block;
   margin: 1.33rem 0 1.33rem 0;
-  width: 100%;
-  max-width:100%; 
+  min-width: 100%;
   position: relative;
   @include breakpoint(large) {
     margin: 2.66rem 0 2.66rem  -15%;
     width:130%;
-    max-width:130%; 
   }
 }
 
@@ -325,13 +324,18 @@ figure video {
   border-bottom: 1px solid black;
   border-right: 1px solid black;
   border-left: 1px solid black;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   background-clip: padding-box;
-  @include breakpoint(medium) {
-    padding-top: 10px;     
-  }
+  padding-top:10px;
   @include breakpoint(large) {
-    padding-top: 24px; 
+    padding-top: 20px; 
   }
+}
+
+figure video {
+  margin-top:-2px;
+  background-color:#07062e;
 }
 
 figcaption {
