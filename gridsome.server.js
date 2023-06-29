@@ -3,7 +3,7 @@
 // Learn more: https://gridsome.org/docs/server-api/
 
 // Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
+// To restart press CTRL + C in terminal and run `NODE_OPTIONS=--openssl-legacy-provider npm run develop`
 
 module.exports = function (api) {
   api.loadSource(({ addCollection }) => {
