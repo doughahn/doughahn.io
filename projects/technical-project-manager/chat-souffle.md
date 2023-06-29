@@ -1,5 +1,5 @@
 ---
-title: "Complete xAPI + Twine learning experience"
+title: "Built an xAPI + Twine learning experience from scratch"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2023-"
@@ -7,36 +7,36 @@ projOutcomes: "In under 10 weeks I helped a team build a complete xAPI-enabled l
 projSkills: [ "Project Management", "xAPI", "JS", "CSS", "Twine", Learning Enablement", "Prompt Engineering" ]
 ---
 
-### An app built in < 8 Weeks
+### An app built in < 6 Weeks
 
-We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is an inside joke among our team. 
+We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is *Chat Soufflé*, an inside joke among our team. 
 
 <figure>
 <video autoplay loop muted playsinline poster="/chat-souffle-cover.webp">
   <source src="/chat-souffle.mp4" type="video/mp4">
 </video>
-<figcaption>Demo of the site sending xAPI statements and console logs.</figcaption>
+<figcaption>Demo of the site sending xAPI statements and console logs</figcaption>
 </figure>
 
-Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning's analytics platform. We built this with a team new to xapi and twine in under 6 weeks. 
+Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning's analytics platform. We built this with a team new to xApi and twine in under 6 weeks. 
 
-#### We went from "0" in Twine & xAPI to:
+#### We went from "0" in xAPI & Twine to:
 
-- A complete Twine game helping prompt engineers write better distractors
+- A complete Twine branching activity helping prompt engineers write better distractors
 - 32 passages full of exercises and resources
-- 2 learning tracks users can iterate through as many times as they like
+- 2 learning tracks for users to explore and repeat as many times as they like
 - 181 commits to a GitHub repo
 - 153 deployments
 - 3100 production-quality xAPI statements 
-- A wiki on GitHub teaching users how to enable xAPI in their own twine game, and potential best practices for xAPI projects
+- A wiki on GitHub teaching users how to enable xAPI in their own Twine game, and potential best practices for xAPI teams
 
-The success of this project was thanks to moving fast and keeping the whole team engaged. We also focused on organization from the outset, collaborating on verbs and how they would integrate with our app in order to help developers work efficiently and in parallel with the ID's, and to ultimately create a more robust data model:
+The success of this project was thanks to moving fast and keeping the whole team engaged. We also focused on organization from the outset, collaborating on verbs and how they would integrate with our app in order to help developers work efficiently and in parallel with the instructional designers, and to ultimately create a more robust data model:
 
 ![We collaborated on xAPI verbs from stage 1](/verbs.webp)
 
-Real-time analysis of this data will allow us to measure learning effectiveness and refine the course design based on how well learning outcomes are being met at each step in the course.
+Real-time analysis of this data will allow us to measure learning effectiveness and refine the course design based on how well learning outcomes are being met at each step of the course.
 
-I also drew storyboards showing each Twine passage and track, helping the learning designers get a solid grasp on the whole project:
+I also drew storyboards showing each Twine passage and track, helping the learning designers get a solid grasp of the whole project:
 
 ![Storyboard of our Twine app](/storyboard.webp)
 

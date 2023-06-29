@@ -2,7 +2,7 @@
 title: "Storytelling website that captures history & green tech"
 date: 2019-01-01
 tags: [ 'Developer' ]
-years: "2019-'23"
+years: "2019-23"
 summary: "Developed website for Farmers Bank, a LEED Platinum building"
 projOutcomes: "A storytelling website that used parallax and interactivity to tell the history of a LEED Platinum building."
 projSkills: [ "Frontend", "CSS", "JS", "Facilitation", "Project Management"  ]

@@ -2,7 +2,7 @@
 title: "Enabling a ranch's pivot to sustainable farming"
 date: 2021-01-01
 tags: [ 'Developer' ]
-years: "2021-'23"
+years: "2021-23"
 projOutcomes: "A new website that embraced a company's pivot and provided an optimized user experience."
 projSkills: [ "Frontend", "CSS", "JS", "Hugo/Static Sites"  ]
 ---

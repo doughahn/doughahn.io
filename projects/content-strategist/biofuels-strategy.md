@@ -2,7 +2,7 @@
 title: "Collaborative planning to successfully launch a biofuels startup"
 date: 2013-01-01
 tags: [ 'Content Strategist' ]
-years: "2013-'16"
+years: "2013-16"
 summary: "I Developed content strategy for a biofuels startup, using tools like core strategy statement and page description diagrams to align teams with disparate viewpoints."
 projOutcomes: "Unifying content strategy based on research and analytics, with a core strategy statement everyone had buy-in on."
 projSkills: [ "User Research", "Strategy", "Facilitation", "Product Marketing", "Editing", "Facilitation"  ]

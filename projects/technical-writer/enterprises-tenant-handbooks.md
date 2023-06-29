@@ -2,7 +2,7 @@
 title: "Tenant handbooks for ~300M global properties"
 date: 2016-01-01
 tags: [ 'Technical Writer' ]
-years: "2016-'18"
+years: "2016-18"
 summary: "Tenant handbooks and emergency prep guides for jewelbox properties"
 projOutcomes: "Tenant handbooks for $300M worth of jewelbox commercial and residential properties int he Bay Area."
 projSkills: [ "Stakeholder Management", "Technical Writing", "Editing", "Facilitation", "Research", "Collaboration" ]

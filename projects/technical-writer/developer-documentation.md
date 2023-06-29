@@ -2,7 +2,7 @@
 title: "Developer docs that streamlined onboarding"
 date: 2014-01-01
 tags: [ 'Technical Writer' ]
-years: "2014-'22"
+years: "2014-22"
 summary: "Docs site to help developers get a sanitized database and vagrant server running"
 projOutcomes: "A searchable website deployed on a private server helping SaaS app developers get up and running with a sanitized database."
 projSkills: [ "Technical Writing", "Static Generators (Sphinx)", "Requirements Definition", "Change Management", "Communication", "Process Mapping" ]

@@ -2,7 +2,7 @@
 title: "Writing for the Bently Holdings brand"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
-years: "2010-'14"
+years: "2010-14"
 summary: "Developed content for ppoperty management company]."
 projOutcomes: "Website content that drove mission and values."
 projSkills: [ "Writing", "Editing", "Marketing" ]

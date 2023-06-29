@@ -2,7 +2,7 @@
 title: "Fostering an inclusive gaming community"
 date: 2018-01-01
 tags: [ 'Volunteer' ]
-years: "2018-'22"
+years: "2018-22"
 summary: "Build and curated a positive and inclusive community"
 projOutcomes: "I recruited and managed a team of volunteers to organize events at local gaming shops in San Francisco. I built documentation for future volunteers, and crafted policies for crisis management."
 projSkills: [ "Stakeholder Management", "Leadership", "Documentation", "Scheduling", "Facilitation", "Problem Solving", "Conflict Management", "Static Sites", "Swift", "Publish" ]

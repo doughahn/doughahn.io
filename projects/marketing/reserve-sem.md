@@ -2,7 +2,7 @@
 title: "SEM strategy drove KPIs in a tough marketplace"
 date: 2018-01-01
 tags: [ 'Marketer' ]
-years: "2018-'21"
+years: "2018-21"
 projOutcomes: "Restructured SEM campaigns leveraging themes and focused targeting that drove conversions, with a $5k per month spend."
 projSkills: [ "Research", "SEM", "AdWords", "Research", "Bidding", "Stakeholder Management", "Teaching"  ]
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Enhancing learning outcomes through a custom LMS"
+title: "Enhanced learning outcomes through a custom LMS"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
-years: "2020-'22"
-projOutcomes: "This learning environment was built fast and iterated on to help drive performance objectives and build cross-functional culture."
-projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "Software Development Lifecycle", "Backlog Refinement" ]
+years: "2020-22"
+projOutcomes: "This learning environment was built fast and iterated upon to help drive performance objectives and build cross-functional culture."
+projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "Software Development Life Cycle", "Backlog Refinement" ]
 projImg: "/mustangs-report.webp"
 ---
 
@@ -12,7 +12,7 @@ projImg: "/mustangs-report.webp"
 
 Bently Enterprises wanted to enhance cross-functional learning opportunities across all levels of the company, capitalizing on an opportunity to help employees grow their careers as virtual learning took off. They required delivery in under 1 month. 
 
-After being designated the project manager on the project charter, I opened a discovery session with the HR and IT teams to discuss current learning initiatives at the company, review technologies used, and define scope for an MVP. As part of the scope statement, I created a [low-fi interactive prototype](https://codepen.io/doughahn/live/WNGeRVJ/c39f3ee728cb159b86a01723c0b7ebfd) for stakeholders of the app’s proposed functionality using CodePen HTML, CSS, JS and various libraries:
+After being designated the project manager on the project charter, I opened a discovery session with the HR and IT teams to discuss current learning initiatives at the company, review technologies used, and define scope for an  (minimum viable product). As part of the scope statement, I created a [low-fi interactive prototype](https://codepen.io/doughahn/live/WNGeRVJ/c39f3ee728cb159b86a01723c0b7ebfd) for stakeholders of the app’s proposed functionality using CodePen HTML, CSS, JS and various libraries:
 
 
 <iframe class="codepen-embed" scrolling="no" title="Rapid Prototype" src="https://codepen.io/doughahn/embed/KKNGZpv/e82fd1e3e22e5917ebc3f8312b37806d?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
@@ -33,11 +33,11 @@ The following scope statement was shared with the team:
 > - All trainings should be searchable and filterable by date and department.
 > - All managers should be able to schedule trainings, allowing knowledge to be shared.  
 > - Required training (e.g. harassment/safety) should stand out. 
-> - Attendee info (name, email) should be exported as CSV by HR-level users.
+> - Attendee info (name, email) should be exportable as CSV by HR-level users.
 
 #### MVP Deliverable
 
-The MVP was created on time using a simple interface. Features such as exporting attendees and adding sessions were permission-based.
+The deliverable was created using a simple interface. Features such as exporting attendees and adding sessions were permissions-based.
 
 #### Iterations
 

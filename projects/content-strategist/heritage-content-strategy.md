@@ -2,7 +2,7 @@
 title: "Data-driven strategy hit KPIs for a national distillery"
 date: 2017-01-01
 tags: [ 'Content Strategist' ]
-years: "2017-'23"
+years: "2017-23"
 summary: "Buy-in for a collaborative, data-driven strategy plan with $100k budget"
 projOutcomes: "Significant improvements across KPIs such as social media engagement, SEM conversions, lowered website bounce rate, website session durations, and web form conversions."
 projSkills: [ "User Research", "Strategy", "Facilitation", "Editing", "Facilitation", "Vendor Procurement", "IA", "UX", "SEO" ]

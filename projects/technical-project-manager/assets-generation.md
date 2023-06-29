@@ -1,9 +1,9 @@
 ---
-title: "Failing fast on a point of sale asset app"
+title: "Failed fast on a point of sale asset app"
 date: 2021-01-01
 tags: [ 'Technical Project Manager' ]
 skills: [ 'Stakeholder Management', 'JS' ]
-years: "2021-'23"
+years: "2021-23"
 summary: "We built an onsite asset generation for a national sales team."
 projOutcomes: "I contained scope to protect the client's bottom line while managing a technology spike; the app failed fast, saving the company money."
 projSkills: [ "Stakeholder Management", "Project Management", "Negotiation", "Backlog Refinement", "Problem Solving", "Requirements Definition" ]
@@ -13,7 +13,7 @@ projSkills: [ "Stakeholder Management", "Project Management", "Negotiation", "Ba
 
 I led a cross-departmental team, including leaders from five distinct departments and a senior engineering group, to build a custom app that had an initial budget of $80k with more allotted if the application increased sales. 
 
-The application was intended to allow partners to generate bespoke, print-ready co-branded materials on-site for their bars, restaurants, and liquor stores from approved marketing resources for each product SKU. 
+The application was intended to allow partners to generate bespoke, print-ready, co-branded materials on-site for their bars, restaurants, and liquor stores from approved marketing resources for each product SKU. 
 
 The original scope of this project was around 300 assets; beyond the sheer volume of assets needed, we were not sure how to achieve this goal, as we needed to find or create a browser-based application that could build and preview 300-DPI CMYK color space assets. 
 
