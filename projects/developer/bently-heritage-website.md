@@ -1,5 +1,5 @@
 ---
-title: "Crafted bespoke solutions for Bently Heritage to drive engagement"
+title: "Crafted bespoke website solutions to drive engagement"
 date: 2017-01-01
 tags: [ 'Developer' ]
 years: "2017-20"
@@ -7,7 +7,7 @@ projOutcomes: "A new website with features that matched the business’s content
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 ---
 
-### A tailored content experience
+### A tailored content experience for Bently Heritage
 
 I developed the Bently Heritage website following a content-first approach, after developing the client&rsquo;s [content strategy](/projects/heritage-content-strategy) to drive the site design, IA (information architecture), and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
 
