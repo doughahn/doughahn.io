@@ -2,7 +2,7 @@
 title: "Built a safe fleet for whaleboats on the bay"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
-years: "2023-"
+years: "2022-"
 summary: "Auxillary fleet coordinator to ensure safe whaleboat races events on the water"
 projOutcomes: "Building safe races for the community in San Francisco’s shared outdoor spaces."
 projSkills: [ "Project management", "Stakeholder Management", "Facilitation", "Change Management", "Documentation", "Scheduling", "Facilitation", "Problem Solving" ]

@@ -1,6 +1,6 @@
 ---
 title: "Engineered docs that reduced risk for a time clock app"
-date: 2015-01-01
+date: 2022-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-22"
 summary: "Multi-state custom docs for a custom time clock"

@@ -1,6 +1,6 @@
 ---
 title: "Published one of the first LEED profiles for the USGBC"
-date: 2015-01-01
+date: 2012-01-01
 tags: [ 'Technical Writer' ]
 years: "2012"
 projOutcomes: "We were invited by the US Green Building Council to draft and publish some of the first LEED (Leadership in Energy and Environmental Design) on their website."

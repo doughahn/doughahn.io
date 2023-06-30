@@ -1,6 +1,6 @@
 ---
 title: "Rapid eCommerce pivot that enhanced sales"
-date: 2020-01-01
+date: 2022-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-22"
 projOutcomes: "Rapid launch of an eCommerce storefront that aligned with COVID safety protocols, legal compliance, and business goals. Value-driven iterations were performed through product lifecycle."

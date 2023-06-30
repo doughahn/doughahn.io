@@ -1,6 +1,6 @@
 ---
-title: "Built community support for a four-year project"
-date: 2013-01-01
+title: "Established community support for a four-year project"
+date: 2018-01-01
 years: "2013-18"
 tags: [ 'Marketer' ]
 projOutcomes: "Tangible positive press in the media, coordinated plan at town hall meetings, and a Bill passed in the state of Nevada establishing a new distilled spirits category."

@@ -1,7 +1,7 @@
 ---
 title: "Aligned speech & PR for Bently Heritage"
 date: 2013-01-01
-years: "2013-22"
+years: "2013"
 tags: [ 'Writer/Editor' ]
 summary: "Speech & PR for Bently Heritage Launch"
 projOutcomes: "By unifying a variety of writing projects toward a common goal, I was able to help a company build goodwill and achieve long-term goals."

@@ -1,6 +1,6 @@
 ---
 title: "Created developer docs that streamlined onboarding"
-date: 2014-01-01
+date: 2016-02-01
 tags: [ 'Technical Writer' ]
 years: "2014-18"
 summary: "Docs site to help developers get a sanitized database and vagrant server running"

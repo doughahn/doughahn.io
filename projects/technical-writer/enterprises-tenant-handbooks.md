@@ -1,6 +1,6 @@
 ---
 title: "Authored tenant handbooks for $300MM of global properties"
-date: 2016-01-01
+date: 2018-01-01
 tags: [ 'Technical Writer' ]
 years: "2016-18"
 summary: "Tenant handbooks and emergency prep guides for jewelbox properties"
