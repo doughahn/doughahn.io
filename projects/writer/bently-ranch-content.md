@@ -10,4 +10,4 @@ projSkills: [ "Writing", "Editing", "Marketing" ]
 
 I wrote and revised content used for brand pivot to all grass-fed beef and sustainable farming. 
 
-![Bently Ranch's new tagline](/bently-ranch-sample.webp)
+![Bently Ranch&rsquo;s new tagline](/bently-ranch-sample.webp)

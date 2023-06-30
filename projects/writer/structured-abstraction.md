@@ -9,7 +9,7 @@ projSkills: [ "Writing", "Facilitation", "Strategy", "Marketing" ]
 ---
 
 
-I collaborated with the founders of a technology studio to help them articulate their vision and ethos. We worked on this over several passes collaboratively. This content was written in tandem with their site's redesign.
+I collaborated with the founders of a technology studio to help them articulate their vision and ethos. We worked on this over several passes collaboratively. This content was written in tandem with their site&rsquo;s redesign.
 
 #### Project Links
 

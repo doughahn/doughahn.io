@@ -20,7 +20,7 @@ To achieve this I leveraged informal authority to build a collegiate and collabo
 
 #### Implementation 
 
-The documents were written with [Sphinx](https://www.sphinx-doc.org/) and published in a searchable, version-controlled format on a private documentation website. Versioning was a critical components of this project, as we needed to ensure all stakeholders were using the latest documentation. While version control creates a natural changelog that can help the technical writer or auditor dig into every granular edit, I also built a changelog with notable updates for higher-level stakeholders' reference. This document was searchable, cross-referenceable, and had deep linking built in to enhance communication. 
+The documents were written with [Sphinx](https://www.sphinx-doc.org/) and published in a searchable, version-controlled format on a private documentation website. Versioning was a critical components of this project, as we needed to ensure all stakeholders were using the latest documentation. While version control creates a natural changelog that can help the technical writer or auditor dig into every granular edit, I also built a changelog with notable updates for higher-level stakeholder reference. This document was searchable, cross-referenceable, and had deep linking built in to enhance communication. 
 
 ![The time clock website, offering robust search, cross-referencing, and precise navigation](/time-clock-site-sample.webp)
 

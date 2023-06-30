@@ -10,13 +10,13 @@ projSkills: [ "Project Management", "Process Improvement", "Scheduling", "Facili
 
 ### Building Green Community with Fellow PMPs
 
-As a member of the Project Management Institute's San francisco Bay Area chapter, I engage with local community leaders discover, plan, and execute stewardship events. I help source expert speakers for our initiatives, and ensure the smooth operation of our virtual events. In addition, I pitch in with program functions such as maintaining its web page and taking turns providing updates to the executive board. 
+As a member of the Project Management Institute&rsquo;s San francisco Bay Area chapter, I engage with local community leaders discover, plan, and execute stewardship events. I help source expert speakers for our initiatives, and ensure the smooth operation of our virtual events. In addition, I pitch in with program functions such as maintaining its web page and taking turns providing updates to the executive board. 
 
 ![The sustainability team after a trash cleanup event](/bayview.webp)
 
 I also [wite articles for the PMI newsletter](https://pmisfbac.org/blog/embracing-wellness--sustainability-in-project-management--16705) when needed. 
 
-I've brought my professional expertise into this role by refining check-in and event followup processes using QU codes and Google sheets. I've also introduced thematic trivia icebreaker games before our virtual events. 
+I&rsquo;ve brought my professional expertise into this role by refining check-in and event followup processes using QU codes and Google sheets. I&rsquo;ve also introduced thematic trivia icebreaker games before our virtual events. 
 
 ![A trivia sample, with an event-themed slide design](/sample-sfbac-slide.webp)
 

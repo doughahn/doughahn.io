@@ -26,4 +26,4 @@ To create an effective style guide I helped achieve internal consensus on key is
 
 #### Used for Years to Come
 
-This document helped the internal design team and became the foundation for the company's marketing search engine campaigns, guiding the brand's digital presence for years to come.
+This document helped the internal design team and became the foundation for the company&rsquo;s marketing search engine campaigns, guiding the brand&rsquo;s digital presence for years to come.

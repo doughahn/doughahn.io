@@ -4,7 +4,7 @@ date: 2017-01-01
 tags: [ 'Marketer' ]
 years: "2017"
 summary: "Developed brand guidelines with leaders for a $100M distillery"
-projOutcomes: "Unifying vision for distillery brand, trying together passionate stakeholders' needs with a variety of strong opinions."
+projOutcomes: "Unifying vision for distillery brand, trying together passionate stakeholder needs with a variety of strong opinions."
 projSkills: [ "Research", "Design", "Branding", "Writing", "Editing", "Facilitation", "Negotiation", "Conflict Management" ]
 ---
 

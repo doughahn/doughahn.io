@@ -4,12 +4,12 @@ date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-22"
 projOutcomes: "Manage 700+ locations for nationwide brand, building in ease of use such as automatic segmented data for sales team to manage workload."
-projSkills: [ "Project Management", "Requirements Definition", "Wireframing", "Flow Diagramming", "Communication", "Stakeholder Management", "Task Management", "Quality Control"  ]
+projSkills: [ "Project Management", "Requirements Definition", "Wire framing", "Flow Diagramming", "Communication", "Stakeholder Management", "Task Management", "Quality Control"  ]
 ---
 
 ### Maintaining Good Data with the Sales Crew
 
-The Bently Heritage Distillery website's store locator was a mission-critical component, but we found data wasn't being maintained to the quality needed. 
+The Bently Heritage Distillery website&rsquo;s store locator was a key critical component of the website, but its data wasn&rsquo;t being maintained to the quality needed. We determined that the sales team needed a new process to make remediation easier. 
 
 To understand the problem, I met with the national sales team of 22 people and heard them out, learning about their their processes so that we could build a solution that would integrate smoothly into their existing workflows. We knew data remediation might be part of this work, which is a task no one wants to do, so my tactic here was to acquire buy-in on the need for this work, demonstrating how it would help their sales numbers with the backing of the sales manager. An important output of this meeting was getting a general understanding of their data flow, which was passed to the engineering team. 
 
@@ -20,11 +20,11 @@ The end result was an app that takes data from either the Vermont Information Pr
 
 ![A simple but effective data flow diagram](/locator-data-flow-diagram.webp)
 
-The application automated many of the processes, and segmented the sales team's work by region so they could remediate data.
+The application automated many of the processes, and segmented the sales team&rsquo;s work by region so they could remediate data.
 
 ![A VIP spreadsheet sample](/vip-spreadsheet-sample.webp)
 
-![The store locator's home page, filtered by SKU and location](/store-locator-app-overview.webp)
+![The store locator&rsquo;s home page, filtered by SKU and location](/store-locator-app-overview.webp)
 
 #### Quality Control
 

@@ -21,7 +21,7 @@ I collaborated with principal architects and stakeholders to build a storytellin
 <figcaption>The interactive slider on the home page of the site dramatizes the message.</figcaption>
 </figure>
 
-Our design team deliberately chose a retro-modern font to encapsulate the building's fusion of historic and contemporary elements. Additionally, we placed the project in context by integrating pertinent local history, further enhancing the storytelling aspect of the website.
+Our design team deliberately chose a retro-modern font to encapsulate the building&rsquo;s fusion of historic and contemporary elements. Additionally, we placed the project in context by integrating pertinent local history, further enhancing the storytelling aspect of the website.
 
 <figure>
 <video autoplay loop muted playsinline poster="/farmers-bank-green-cover.webp">

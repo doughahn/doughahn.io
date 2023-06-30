@@ -10,11 +10,11 @@ projSkills: [ "SEO", "SEM", "Facilitation", "Research", "Branding", "Strategy", 
 
 ### Digital Footprint Optimization for a National Distillery
 
-As part of a distillery's longer-term plan to pivot into eCommerce, I  was tasked with optimizing our product descriptions to facilitate discoverability via search. This project also aligned with content strategy initiatives as well as social/web updates.
+As part of a distillery&rsquo;s longer-term plan to pivot into eCommerce, I  was tasked with optimizing our product descriptions to facilitate discoverability via search. This project also aligned with content strategy initiatives as well as social/web updates.
 
 After an initial alignment meeting with marketing leaders, I outlined a recommended methodology and acquired buy-in. 
 
-My strategy for the client's ultra-competitive space (distilling) was to focus on Long Tail Keywords (more specific phrases that users are more likely to use when they’re closer to a point-of-purchase). Their niche, "estate distilling" is a less-used spirits keyword and a unique identifier of the business mission.
+My strategy for the client&rsquo;s ultra-competitive space (distilling) was to focus on Long Tail Keywords (more specific phrases that users are more likely to use when they’re closer to a point-of-purchase). Their niche, "estate distilling" is a less-used spirits keyword and a unique identifier of the business mission.
 
 <figure>
 <video autoplay loop muted playsinline poster="/keyword-strat-video-cover.webp">
@@ -38,7 +38,7 @@ My method was as follows:
 1. Brainstorm 10 keywords for the Brand and products (in many cases the client already had used keywords for Google ads which are also part of our brand strategy).
 1. Generate a list of 1500+ keywords for each category.
 1. Generate a Google Keywords history report for each set that ranks keywords based on all 2020 data.
-1. Isolate keywords that are both relevant and within the client's domain authority’s reach.
+1. Isolate keywords that are both relevant and within the client&rsquo;s domain authority’s reach.
 1. Cull keywords to a shortlist that has a decent average search and lower competition indices. While doing sure, I also made sure to keep core brand keywords, “estate” even though some of those keywords are very low in search volume and very high on competition (this is the worst combo). 
 1. Pulled out some interesting keyword lists for other areas to facilitate iteration and experimentation. 
 

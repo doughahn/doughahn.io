@@ -14,7 +14,7 @@ I partnered with C-level executives to define needs and articulate beliefs, crea
 
 ![A sample reference chart in the handbook](/ethics-handbook-sample.webp)
 
-In order to succeed at this project I grounded all work in the three broad ethical theories (Consequentialist, Non-consequentialist, Agent-centered), keeping things high-level and objective for the team. The document was functionally organized by the nonprofit's areas of concern:
+In order to succeed at this project I grounded all work in the three broad ethical theories (Consequentialist, Non-consequentialist, Agent-centered), keeping things high-level and objective for the team. The document was functionally organized by the nonprofit&rsquo;s areas of concern:
 
 1. Animal Welfare 
 2. The Environment 

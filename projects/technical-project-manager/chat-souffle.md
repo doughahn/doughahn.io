@@ -18,7 +18,7 @@ We conceived, designed, and launched an educational course built in Twine that i
 <figcaption>Demo of the site sending xAPI statements and console logs</figcaption>
 </figure>
 
-Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning's analytics platform. We built this with a team new to xApi and twine in under 6 weeks. 
+Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning&rsquo;s analytics platform. We built this with a team new to xApi and twine in under 6 weeks. 
 
 #### We went from "0" in xAPI & Twine to:
 
@@ -49,6 +49,6 @@ We built a robust dashboard using Veracity LMS visualizing user design experienc
 
 ##### Video Walkthrough
 
-Three of the five team members captured our work as part of the project's close.
+Three of the five team members captured our work as part of the phase&rsquo;s close. Several of us continue the project, advocating for open-source tools in the Twine and xAPI communities. 
 
 <iframe class="youtube-embed" src="https://www.youtube.com/embed/m0hl_OYQwPU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

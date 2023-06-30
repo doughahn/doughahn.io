@@ -4,13 +4,13 @@ date: 2020-01-01
 tags: [ 'Technical Writer' ]
 years: "2020"
 summary: "Established company policy for hand sanitizer distribution during pandemic"
-projOutcomes: "Negotiated a landscape of political and ethical viewpoints to unify a company's policy for donations during the COVID pandemic."
+projOutcomes: "Negotiated a landscape of political and ethical viewpoints to unify a company’s policy for donations during the COVID pandemic."
 projSkills: [ "Negotiation", "Technical Writing", "Requirements Definition", "Research", "Critical Thinking" ]
 ---
 
 ### Who do we donate to?
 
-During the COVID-19 pandemic, I helped coordinate a distillery's strategic pivot from spirits production to manufacturing hand sanitizer. This involved researching all potential recipients within the region and developing a system with which to evaluate and prioritize them. Balancing the interests of internal stakeholders and external community leaders, we forged apolitical guidelines for distributing 5,000 gallons of hand sanitizer per week to various agencies. In addition, the client's policies had to follow FDA and WHO guidelines. 
+During the COVID-19 pandemic, I helped coordinate a distillery&rsquo;s strategic pivot from spirits production to manufacturing hand sanitizer. This involved researching all potential recipients within the region and developing a system with which to evaluate and prioritize them. Balancing the interests of internal stakeholders and external community leaders, we forged apolitical guidelines for distributing 5,000 gallons of hand sanitizer per week to various agencies. In addition, the client&rsquo;s policies had to follow FDA and WHO guidelines. 
 
 ![I researched hundreds of locations by category in the geographic region](/sanitizer-research.webp)
 

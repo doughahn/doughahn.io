@@ -1,7 +1,7 @@
 ---
 title: "Speech & PR for Bently Heritage"
 date: 2013-01-01
-years: "2013-22'"
+years: "2013-22"
 tags: [ 'Writer/Editor' ]
 summary: "Speech & PR for Bently Heritage Launch"
 projOutcomes: "By unifying a variety of writing projects toward a common goal, I was able to help a company build goodwill and achieve long-term goals."
@@ -16,7 +16,7 @@ By placing a special emphasis on the preservation of historic buildings, we were
 
 ### Sample
 
-This sample is taken from the distillery's groundbreaking ceremony. The goal was to get stakeholders on the client's side. 
+This sample is taken from the distillery&rsquo;s groundbreaking ceremony. The goal was to get stakeholders on the client&rsquo;s side. 
 
 > What I want is a product that this community loves, this product is about you. You should be able to buy it without breaking the bank. We will be a high quality product, but still something you enjoy on your porch with the people you care about. The next time I’m in Minden park enjoying the best Eagle’s cover bands I’ve ever heard, I’d like our product to be enjoyed nearby as well.   
 > If Minden doesn’t love what we’re creating, I’ll toss it out and make something better. And once we’ve refined our product with pride, I want to remind the world that great things start in Minden. 

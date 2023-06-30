@@ -3,13 +3,13 @@ title: "Bespoke solutions for Bently Heritage to drive engagement"
 date: 2017-01-01
 tags: [ 'Developer' ]
 years: "2017-20"
-projOutcomes: "A new website with features that matched the business's content needs, their brand look and feel, and had features like rich content and store locators that let the marketing team keep their hands on the steering wheel."
+projOutcomes: "A new website with features that matched the business’s content needs, their brand look and feel, and had features like rich content and store locators that let the marketing team keep their hands on the steering wheel."
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 ---
 
 ### A Tailored Content Experience
 
-I developed the Bently Heritage website following a content-first approach, after developing the client's [content strategy](/projects/heritage-content-strategy) to drive the site design, IA, and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
+I developed the Bently Heritage website following a content-first approach, after developing the client&rsquo;s [content strategy](/projects/heritage-content-strategy) to drive the site design, IA, and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
 
 <figure>
 <video autoplay loop muted playsinline poster="/mill-slide-cover.webp">
@@ -22,7 +22,7 @@ I developed the Bently Heritage website following a content-first approach, afte
 
 Our work presented the historical context of the distillery, a campus that comprised of several buildings that were re-imagined to contemporary aesthetics while preserving history. 
 
-![Showcasing the distillery's design and some hand-crafted artwork](/heritage-preservation.webp)
+![Showcasing the distillery&rsquo;s design and some hand-crafted artwork](/heritage-preservation.webp)
 
 The client also had beautiful designs to showcase, such as handmade art for each spirits line and bottle designs. 
 
@@ -84,6 +84,6 @@ I designed the CMS to help users structure data so search engines and sites like
 
 ##### Store Locator
 
-I worked with the sales team to create a store locator that pulls in data from sales exports. We also built a simple SaaS app to allow salespeople to monitor location data. The webpage geolocates the user (with permission), auto completes addresses, and sorts locations by closest to furthest, or by spirit type. It included store hours where available and a Google map link from the current location to the store's location. 
+I worked with the sales team to create a store locator that pulls in data from sales exports. We also built a simple SaaS app to allow salespeople to monitor location data. The webpage geolocates the user (with permission), auto completes addresses, and sorts locations by closest to furthest, or by spirit type. It included store hours where available and a Google map link from the current location to the store&rsquo;s location. 
 
 ![The store locator](/store-locator.webp)

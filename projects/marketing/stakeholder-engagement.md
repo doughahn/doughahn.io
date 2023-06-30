@@ -9,7 +9,7 @@ projSkills: [ "Stakeholder Management", "PR", "Writing", "Marketing", "Research"
 
 ### Curating Goodwill with a Strategic Purpose
 
-As the lead writer and strategist for a 4-year, $100M construction venture for Bently Enterprises, I had helped bring an ambitious startup's vision to life. Collaborating closely with company executives, leaders, and external firms, we were able to craft a compelling narrative to share with stakeholders.
+As the lead writer and strategist for a 4-year, $100M construction venture for Bently Enterprises, I had helped bring an ambitious startup&rsquo;s vision to life. Collaborating closely with company executives, leaders, and external firms, we were able to craft a compelling narrative to share with stakeholders.
 
 ![Engaging Local Stakeholders: The local media amplifying our press releases language from an event.](/good-historic-vibes-in-action.webp)
 
@@ -19,6 +19,6 @@ Central to our strategy was the establishment of an estate grains spirits catego
 
 To garner support for the passing of this Bill, we strategically emphasized the extensive benefits the distillery would bring to the region. Bently hosted events, which I helped publicize and maintain subscriber segments for. They underscored that investment in local grain cultivation would generate a multitude of job opportunities.
 
-![Bently's Contribution: Recognized by the state of Nevada for its significant role in job creation.](/nv-dev-awards.webp)
+![Bently&rsquo;s Contribution: Recognized by the state of Nevada for its significant role in job creation.](/nv-dev-awards.webp)
 
-In 2017, Bently's hard-fought campaign paid off with the [successful passing of Senate Bill 199](https://www.leg.state.nv.us/App/NELIS/REL/79th2017/Bill/5071/Overview), paving the way for a new era of Nevada-based distillery operation.
+In 2017, Bently&rsquo;s hard-fought campaign paid off with the [successful passing of Senate Bill 199](https://www.leg.state.nv.us/App/NELIS/REL/79th2017/Bill/5071/Overview), paving the way for a new era of Nevada-based distillery operation.

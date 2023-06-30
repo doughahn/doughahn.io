@@ -2,10 +2,8 @@
 title: "Failed fast on a point of sale asset app"
 date: 2021-01-01
 tags: [ 'Technical Project Manager' ]
-skills: [ 'Stakeholder Management', 'JS' ]
 years: "2021-23"
-summary: "We built an onsite asset generation for a national sales team."
-projOutcomes: "I contained scope to protect the client's bottom line while managing a technology spike; the app failed fast, saving the company money."
+projOutcomes: "I contained scope to protect the client’s bottom line while managing a technology spike; the app failed fast, saving the company money."
 projSkills: [ "Stakeholder Management", "Project Management", "Negotiation", "Backlog Refinement", "Problem Solving", "Requirements Definition" ]
 ---
 
@@ -31,6 +29,6 @@ I defined the project scope through a work breakdown structure, encompassing the
 
 In close collaboration with senior developers, I successfully balanced stakeholder expectations over this short project. I also performed a rigorous quality assurance process on the app, ensuring its effectiveness and reliability for those who used it on-site.
 
-Ultimately, we developed menu inserts that were used by the sales people at local restaurants, however they proved less effective than anticipated. The company's design department had assets and templates they could use to quickly create branded assets, and it was determined that the on-site templates were not a significant value add and did not justify further development cost. Ultimately the project was closed under the initial budget. 
+Ultimately, we developed menu inserts that were used by the sales people at local restaurants, however they proved less effective than anticipated. The company&rsquo;s design department had assets and templates they could use to quickly create branded assets, and it was determined that the on-site templates were not a significant value add and did not justify further development cost. Ultimately the project was closed under the initial budget. 
 
 Thanks to collaboration and scope management, I saved the company money by letting this application fail fast. 

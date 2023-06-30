@@ -12,7 +12,7 @@ projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", 
 
 I spearheaded the creation of an extensive documentation website using custom HTML and CSS. This resource provided a comprehensive exploration of the history, animal rights, and welfare issues that the Bureau of Land Management grapples with in the American West.
 
-I personally handled the design and coding of the site, which was a vital tool in guiding the company's interactions with government officials and in shaping its policy stance both in the field and in the office. 
+I personally handled the design and coding of the site, which was a vital tool in guiding the company&rsquo;s interactions with government officials and in shaping its policy stance both in the field and in the office. 
 
 ![Wild Mustangs report landing page](/mustangs-report.webp)
 

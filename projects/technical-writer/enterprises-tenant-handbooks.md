@@ -10,7 +10,7 @@ projSkills: [ "Stakeholder Management", "Technical Writing", "Editing", "Facilit
 
 ### Tenant Handbooks for Jewelbox properties
 
-Cross-collaborating with building engineers, property managers, legal, and other key stakeholders, I authored, published, and maintained tenant handbooks for significant properties in the Bay Area. These assets, about $300M, were a significant portion of the company's portfolio. Tenant handbooks were written for:
+Cross-collaborating with building engineers, property managers, legal, and other key stakeholders, I authored, published, and maintained tenant handbooks for significant properties in the Bay Area. These assets, about $300M, were a significant portion of the company&rsquo;s portfolio. Tenant handbooks were written for:
 
 1. The Bently Reserve
 1. Belvedere Place

@@ -4,13 +4,13 @@ date: 2023-01-01
 tags: [ 'Developer' ]
 years: "2023-"
 summary: "Developed website for a luxury apartment building in Nob Hill, San francisco"
-projOutcomes: "A new website featuring performance and simplicity that enhances design for an apartment tower in San francisco's Nob Hill neighborhood."
+projOutcomes: "A new website featuring performance and simplicity that enhances design for an apartment tower in San francisco’s Nob Hill neighborhood."
 projSkills: [ "Frontend", "CSS", "JS", "Hugo Static Sites", "Forestry/Tina", "UX" ]
 ---
 
 ### The Top of Nob Hill
 
-I drafted the content and coded the website for the Bently Nob Hill, a luxury apartment tower in San Francisco's nob hill neighborhood. 
+I drafted the content and coded the website for the Bently Nob Hill, a luxury apartment tower in San Francisco&rsquo;s nob hill neighborhood. 
 
 <figure>
 <video autoplay loop muted playsinline poster="/nob-hill-cover.webp">

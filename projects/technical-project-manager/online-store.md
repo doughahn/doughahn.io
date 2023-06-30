@@ -9,7 +9,7 @@ projSkills: [ "Project Management", "Front-end Development", "Backlog Refinement
 
 ### Agile eCommerce MVP & Iterations
 
-I spearheaded the launch of a $60k eCommerce initiative to facilitate the distillery's business pivot during the pandemic. The MVP (minimum viable product) was deployed in less than two weeks and realized a cost savings of $10k under budget. 
+I spearheaded the launch of a $60k eCommerce initiative to facilitate the distiller&rsquo;s business pivot during the pandemic. The MVP (minimum viable product) was deployed in less than two weeks and realized a cost savings of $10k under budget. 
 
 I collaborated closely with the sales team to establish a baseline scope and choose a hosting platform (Netsuite, Salesforce, Magento, Shopify, or Square). We established several core features needed, based on strict legal requirements for selling alcohol across various states and counties:
 
@@ -19,7 +19,7 @@ I collaborated closely with the sales team to establish a baseline scope and cho
 
 As the project manager I had to liaise with several departments, ensuring their needs were met: 
 
-- Hospitality: Develop safety protocols for curbside pickup, as well as the methods for communicating these policies (such as staying in one's vehicle while picking up orders) to customers. 
+- Hospitality: Develop safety protocols for curbside pickup, as well as the methods for communicating these policies (such as staying in one&rsquo;s vehicle while picking up orders) to customers. 
 - Legal: Ensure the shop and all its policies were compliant. 
 - Accounting: Ensure all required sales data was captured and exportable to accounting software. 
 - Production: Draft and check informational copy for accuracy.  

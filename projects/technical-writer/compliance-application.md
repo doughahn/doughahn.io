@@ -12,7 +12,7 @@ projSkills: [ "Technical Writing", "Static Generators (MkDocs)", "Requirements D
 
 I documented the scope, needs, and requirements for a bespoke compliance application designed for a large distillery. The app generates three types of monthly reports for the Alcohol and Tobacco Tax and Trade Bureau, helping the plant stays compliant. 
 
-Failure to follow these requirements posed a major risk to the company in the form of tax liability and licensing. The goal was to exceed the agency's minimum standards for record-keeping by integrating with the plant equipment's to automate reports based on equipment data, as well as allowing employees to create log entries directly from the plant floor as part of a continuous quality control and monitoring process. 
+Failure to follow these requirements posed a major risk to the company in the form of tax liability and licensing. The goal was to exceed the agency&rsquo;s minimum standards for record-keeping by integrating with the plant equipment&rsquo;s to automate reports based on equipment data, as well as allowing employees to create log entries directly from the plant floor as part of a continuous quality control and monitoring process. 
 
 ![Compliance docs with a TTB form](/compliance-docs-ttb-sample.webp)
 
