@@ -10,9 +10,6 @@ projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", 
 
 ### Changing company culture for the better
 
-<img src="/mustangs-report.webp" alt="alt" @click="openLightbox" />
-
-
 I spearheaded the creation of an extensive documentation website using custom HTML and CSS. This resource provided a comprehensive exploration of the history, animal rights, welfare issues, and the Bureau of Land Management concerns specific to the American West.
 
 I personally handled the design and coding of the site, which was a vital tool in guiding the company&rsquo;s interactions with government officials and in shaping its policy both in the field and in the office. 
