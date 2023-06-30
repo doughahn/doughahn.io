@@ -2,7 +2,7 @@
 title: "Failed fast on a point of sale asset app"
 date: 2021-01-01
 tags: [ 'Technical Project Manager' ]
-years: "2021-23"
+years: "2021"
 projOutcomes: "I contained scope to protect the client’s bottom line while managing a technology spike; the app failed fast, saving the company money."
 projSkills: [ "Stakeholder Management", "Project Management", "Negotiation", "Backlog Refinement", "Problem Solving", "Requirements Definition" ]
 ---

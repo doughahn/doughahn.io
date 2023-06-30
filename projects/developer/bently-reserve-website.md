@@ -2,7 +2,7 @@
 title: "Launched a premier wedding & events website that hit KPIs"
 date: 2015-01-01
 tags: [ 'Developer' ]
-years: "2015-20"
+years: "2015-19"
 projOutcomes: "A new website with features that matched the business’s content needs and brand look and feel, put content management into the marketing team’s hands, and featured a robust RPF (request for proposal) form that increased lead quality."
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "Salesforce API" ]
 ---

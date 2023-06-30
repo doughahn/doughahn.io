@@ -2,7 +2,7 @@
 title: "Improved company culture with animal rights education"
 date: 2016-01-01
 tags: [ 'Technical Writer' ]
-years: "2016-"
+years: "2016"
 summary: "We built a site to guide policy and change company culture for the better."
 projOutcomes: "This learning environment was built fast and iterated upon to help everyone in the company, from ranchers to executives, better understand the complex issues impacting their work environment."
 projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "SDLC (software development lifecycle)" ]

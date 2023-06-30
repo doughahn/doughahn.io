@@ -1,5 +1,5 @@
 ---
-title: "Detailed docs reduced risk for a time clock app"
+title: "Engineered docs that reduced risk for a time clock app"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-22"

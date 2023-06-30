@@ -2,7 +2,7 @@
 title: "Built a brand book for a premier venue"
 date: 2015-01-01
 tags: [ 'Marketer' ]
-years: "2015-20"
+years: "2015-19"
 summary: "I helped build the Bently Reserve brand."
 projOutcomes: "Brand book with colors, logo usage, type system, and copy/photo style guide guiding internal use and third parties."
 projSkills: [ "Research", "Design", "Branding", "Writing", "Editing", "Facilitation" ]

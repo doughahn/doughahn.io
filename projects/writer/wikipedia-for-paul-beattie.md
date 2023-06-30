@@ -1,6 +1,6 @@
 ---
 title: "Published a new Wikipedia entry for a Bay Area artist"
-date: 2022-01-01
+date: 2020-06-01
 years: "2020"
 tags: [ 'Writer/Editor' ]
 projOutcomes: "A Wikipedia page for an artist from the San Francisco bay Area, commissioned by his family and approved by the arts community editors with secondary source research from reliable sources."

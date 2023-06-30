@@ -2,7 +2,7 @@
 title: "Optimized the digital footprint of a large estate distiller"
 date: 2020-01-01
 tags: [ 'Marketer' ]
-years: "2020-22"
+years: "2020-23"
 summary: "SEM campaign management & keyword strategy"
 projOutcomes: "An optimized digital footprint based on robust keyword research that yielded tangible results."
 projSkills: [ "SEO", "SEM", "Facilitation", "Research", "Branding", "Strategy", "Analytics"  ]

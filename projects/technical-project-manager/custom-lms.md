@@ -2,7 +2,7 @@
 title: "Enhanced learning outcomes through a custom LMS"
 date: 2020-01-01
 tags: [ 'Technical Project Manager' ]
-years: "2020-22"
+years: "2020-23"
 projOutcomes: "This learning environment was built fast and iterated upon to help drive performance objectives and build cross-functional culture."
 projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "Software Development Life Cycle", "Backlog Refinement" ]
 projImg: "/mustangs-report.webp"
