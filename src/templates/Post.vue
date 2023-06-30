@@ -21,7 +21,7 @@
               <p v-if="$page.post.projOutcomes">{{ $page.post.projOutcomes }}</p>
             </div>
           </div>
-
+          <hr>
           <transition name="fade" appear>
             <div v-html="$page.post.content"></div>
           </transition>

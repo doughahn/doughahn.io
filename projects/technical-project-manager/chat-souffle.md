@@ -7,7 +7,9 @@ projOutcomes: "In under 10 weeks I helped a team build a complete xAPI-enabled l
 projSkills: [ "Project Management", "xAPI", "JS", "CSS", "Twine", Learning Enablement", "Prompt Engineering" ]
 ---
 
-### Learning together to contribute to the community
+### Learning together 
+
+
 
 We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is *Chat Soufflé*, an inside joke among our team. 
 
@@ -40,10 +42,18 @@ I also drew storyboards showing each Twine passage and track, helping the learni
 
 ![Storyboard of our Twine app](/storyboard.webp)
 
-We built a robust dashboard using Veracity LMS visualizing user design experience levels, AI sentiment, ChatGPT experience, confidence in prompt engineering, etc. 
+We built a robust dashboard using Veracity LMS visualizing user design experience levels, AI sentiment, ChatGPT experience, confidence in prompt engineering, etc. One of my contributions was to constantly create a good user experience, designing a responsive UX with buttons that provided feedback, a map of the game, and playful animations such as the below xAPI-style &ldquo;thank you&rdquo; for the team. I have found that these little things invigorate a team and drive engagement.
+
+<figure>
+<video autoplay loop muted playsinline poster="/chat-animation.webp">
+  <source src="/chat-animation.mp4" type="video/mp4">
+</video>
+<figcaption>An easter egg saying &ldquo;thanks&rdquo; to the team.</figcaption>
+</figure>
 
 #### Project Links
 
+**[Chat Soufflé](https://doughahn.github.io/chat-souffle/)**   
 **[Source code](https://github.com/doughahn/chat-souffle)**  
 **[Process Documentation](https://github.com/doughahn/chat-souffle/wiki)**
 
@@ -52,3 +62,4 @@ We built a robust dashboard using Veracity LMS visualizing user design experienc
 Three of the five team members captured our work as part of the phase&rsquo;s close. Several of us continue the project, advocating for open-source tools in the Twine and xAPI communities. 
 
 <iframe class="youtube-embed" src="https://www.youtube.com/embed/m0hl_OYQwPU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
