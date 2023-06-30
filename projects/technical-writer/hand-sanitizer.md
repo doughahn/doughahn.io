@@ -14,24 +14,30 @@ During the COVID-19 pandemic, I helped coordinate a distillery&rsquo;s strategic
 
 ![I researched hundreds of locations by category in the geographic region](/sanitizer-research.webp)
 
-> #### Evidence-based operations 
+#### Documentation sample
 
-> The plan must acknowledge the continuum need during a disaster and should also establish processes that take this into account. This includes defining project managers, stakeholders, and staff to handle new eventualities and communications. These include incident principles, resource strategies, and communication strategies. 
-> In addition, procedures should ensure that plans are consistent, but not necessarily identical (e.g., based on the individual vulnerable population’s actual needs); that resource management is coordinated (e.g., valuable resources are not wasted); and that specific attention is given to protecting the interests of at-risk populations (not only first responders but other critical staff and immigrant/at-risk populations).
-> Upper management will continue to monitor the situation as best it can, to ensure its processes meet the community’s actual needs. 
+The following is a sample from the document, outlining the need for fact-based decision-making:
+
+> ##### Evidence-Based Operations 
+
+> The plan should acknowledge evolving needs during a disaster while establishing processes. This includes creating project charters that define project managers, stakeholders, and staff to handle new eventualities and communications such as resource and PR strategies.   
+
+> In addition, procedures should ensure that plans are consistent, but not necessarily identical (e.g., based on the individual vulnerable population’s actual needs); that resource management is coordinated (e.g., valuable resources are not wasted); and that specific attention is given to protecting the interests of at-risk populations (e.g., not only first responders but other critical staff and immigrant/at-risk populations).
+
+> Leadership will continue to monitor the situation as best it can, to ensure its processes meet the community’s evolving needs. 
 
 > …
 
 > #### Summarized Decision-Making Model  
 > We will follow the steps below to operate:  
 > 1. Determine the facts: who needs hand sanitizer, how much do they need, where are they located, how will they accept delivery, and when do they need it?    
-> 2. Define the ethical issues: who are the stakeholders, and define any ethical issues involved (e.g., conflict of priority, the legality of delivery, physical ability to distribute, the health risk to internal staff, significant economic costs, priority based on bias, large volume request to a scarce resource, etc.)   
+> 2. Define the ethical issues: who are the stakeholders, and define any ethical issues involved (e.g., conflict of priority, the legality of delivery, physical ability to distribute, the health risk to internal staff, significant economic costs, priority based on bias, large volume request of a scarce resource, etc.)   
 > 3. Identify the application of outlined principles: fit within vulnerable populations, transparency related to the request and decision, legal authority to produce, triggers and lines, and within evidence-based operations.   
-> 4. Specify alternatives to fulfilling the need: ignoring the request, not doing anything regarding the request, handing over delivery to another organization, delaying fulfillment, or denying the request.   
+> 4. Specify alternatives to fulfilling the need: ignoring the request, handing over delivery to another organization, delaying fulfillment, or denying the request.   
 > 5. Compare: are the alternatives a clear course of action in the case of imminent harm?   
 > 6. Assess the consequences of the proposed decision: positive and negative for alternatives, and positive and negative for applied decision. Including any short-run gain or losses that may conflict with long-run considerations and reveal unanticipated consequences.  
 > 7. Make a decision.   
-> 8. Monitor the decision. Iterate as needed
+> 8. Monitor the decision. Iterate as needed.
 
 ![Heritage hand sanitizer](/hand-sanitizer.webp)
 
