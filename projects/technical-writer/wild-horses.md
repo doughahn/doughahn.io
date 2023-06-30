@@ -8,7 +8,10 @@ projOutcomes: "This learning environment was built fast and iterated upon to hel
 projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", "Scheduling", "SDLC (software development lifecycle)" ]
 ---
 
-### Changing Company Culture for the Better
+### Changing company culture for the better
+
+<img src="/mustangs-report.webp" alt="alt" @click="openLightbox" />
+
 
 I spearheaded the creation of an extensive documentation website using custom HTML and CSS. This resource provided a comprehensive exploration of the history, animal rights, welfare issues, and the Bureau of Land Management concerns specific to the American West.
 

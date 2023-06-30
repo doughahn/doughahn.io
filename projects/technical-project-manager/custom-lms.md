@@ -8,7 +8,7 @@ projSkills: [ "Stakeholder Management", "Scoping", "Iteration", "Facilitation", 
 projImg: "/mustangs-report.webp"
 ---
 
-### Building Buy-In Fast & Iterating to Drive Value
+### Building buy-in fast & iterating to build outcomes
 
 Bently Enterprises wanted to enhance cross-functional learning opportunities across all levels of the company, capitalizing on an opportunity to help employees grow their careers as virtual learning took off. They required delivery in under 1 month. 
 

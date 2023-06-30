@@ -8,7 +8,7 @@ projOutcomes: "A searchable website and PDF that tracked the change log and proc
 projSkills: [ "Technical Writing", "Static Generators (MkDocs)", "Requirements Definition", "Change Management", "Communication", "Process Mapping" ]
 ---
 
-### Essential Compliance Documentation
+### Essential compliance documentation for developers & decision-makers
 
 I documented the scope, needs, and requirements for a bespoke compliance application designed for a large distillery. The app generates three types of monthly reports for the TTB, helping the plant maintain compliance. 
 

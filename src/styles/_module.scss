@@ -102,14 +102,6 @@ article.home-page {
   position:fixed;
 }
 
-p {
-  @extend .bodyFont;
-  color: var( --dark );
-  font-size: var(--text-md);
-  line-height: var(--body-line-height);
-  margin-bottom: var(--baseline-sm);
-}
-
 .leadin b {
   font-weight: bold;
   text-transform: uppercase;
@@ -199,6 +191,7 @@ h5{
   font-weight:normal;
   padding-top:.2rem;
   line-height: var(--body-line-height);
+  font-size: var(--text-md);
 }
 
 .projectInfo ul {
@@ -423,6 +416,21 @@ blockquote br {
   display: block;
   content: " ";
   margin-bottom: var(--baseline-sm);
+}
+
+p {
+  @extend .bodyFont;
+  color: var( --dark );
+  font-size: var(--text-md);
+  line-height: var(--body-line-height);
+  margin-bottom: var(--baseline-sm);
+  @include breakpoint(large) {
+    font-size: var(--text-lg);
+  }
+}
+
+p em {
+  font-style: italic;
 }
 
 p a {

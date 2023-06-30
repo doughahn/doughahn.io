@@ -7,7 +7,7 @@ projOutcomes: "In under 10 weeks I helped a team build a complete xAPI-enabled l
 projSkills: [ "Project Management", "xAPI", "JS", "CSS", "Twine", Learning Enablement", "Prompt Engineering" ]
 ---
 
-### An app built in < 6 Weeks
+### Learning together to contribute to the community
 
 We conceived, designed, and launched an educational course built in Twine that instructs the learner how to leverage ChatGPT to construct more effective assessment questions. The name is *Chat Soufflé*, an inside joke among our team. 
 
@@ -18,7 +18,7 @@ We conceived, designed, and launched an educational course built in Twine that i
 <figcaption>Demo of the site sending xAPI statements and console logs</figcaption>
 </figure>
 
-Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning&rsquo;s analytics platform. We built this with a team new to xApi and twine in under 6 weeks. 
+Using custom-built xAPI statements we collected over 3,000 learner activity data points which we aggregated in a dashboard on Veracity Learning&rsquo;s analytics platform. We built this with a team new to xApi and twine in under 10 weeks. 
 
 #### We went from "0" in xAPI & Twine to:
 

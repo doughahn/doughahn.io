@@ -3,19 +3,19 @@ title: "Published one of the first LEED profiles for the USGBC"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2012"
-projOutcomes: "We were invited by the US Green Building Council to draft and publish some of the first LEED (Leadership in energy and environmental design) on their website."
+projOutcomes: "We were invited by the US Green Building Council to draft and publish some of the first LEED (Leadership in Energy and Environmental Design) on their website."
 projSkills: [ "Technical Writing", "Collaboration", "Research", "Documentation", "Facilitation" ]
 ---
 
 ### A new profile for a historic building
 
-In 2012 the Bently Reserve, which had received [LEED Silver](https://www.usgbc.org/leed) certification 3 years earlier, was approached by the USGBC to publish a profile on their demo site as part of their roll out of national profiles for all LEED projects. I had written a book on the building for the client, as well as Wikipedia articles, and was considered the local subject matter expert on the topic. 
+In 2012 the Bently Reserve, which had received [LEED Silver](https://www.usgbc.org/leed) certification 3 years earlier, was approached by the USGBC to publish a profile on their demo site as part of their rollout of national profiles for all LEED projects. I had written a book on the building for the client, and was considered the local subject matter expert on the topic. 
 
 For this project I also wrote a script, managed a video editor, and procured a voice actor for a profile spotlight video:
 
 <iframe class="youtube-embed" src="https://player.vimeo.com/video/49639886?h=1821ac10cb&byline=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-The profile contained a *Stories* section; to do the project justice I interviewed building engineers, architects, the property manager, and other company leaders to learn about the strategies used to earn LEED credits, key project successes, and lessons learned. 
+The profile contained a *&ldquo;Stories&rdquo;* section; to do the project justice I interviewed building engineers, architects, the property manager, and other company leaders to learn about the strategies used to earn LEED credits, key project successes, and lessons learned. 
 
 While the profile is no longer online, I have captured an archive of the page below.
 

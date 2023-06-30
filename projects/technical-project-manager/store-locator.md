@@ -7,7 +7,7 @@ projOutcomes: "Manage 700+ locations for nationwide brand, building in ease of u
 projSkills: [ "Project Management", "Requirements Definition", "Wire framing", "Flow Diagramming", "Communication", "Stakeholder Management", "Task Management", "Quality Control"  ]
 ---
 
-### Maintaining Good Data with the Sales Crew
+### Maintaining precision with the sales crew
 
 The Bently Heritage Distillery website&rsquo;s store locator was a key critical component of the website, but its data wasn&rsquo;t being maintained to the quality needed. We determined that the sales team needed a new process to make remediation easier. 
 
@@ -16,7 +16,6 @@ To understand the problem, I met with the national sales team of 22 people and h
 As project manager I worked with the sales team to define requirements, managed the schedule with a team of two engineers and an IT manager, and interfaced with sales to build an app they would actually use. 
 
 The end result was an app that takes data from either the Vermont Information Processing or in-house spreadsheets, normalizes it, and then updates automatically on the website. The app allowed users to edit the data manually to correct errors, increasing its relevance to the end user. 
-
 
 ![A simple but effective data flow diagram](/locator-data-flow-diagram.webp)
 

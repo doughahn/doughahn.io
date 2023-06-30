@@ -1,20 +1,20 @@
 ---
-title: "Establishing brand guidelines for a national distillery"
+title: "Established brand guidelines for a national distillery"
 date: 2017-01-01
 tags: [ 'Marketer' ]
 years: "2017"
 summary: "Developed brand guidelines with leaders for a $100M distillery"
-projOutcomes: "Unifying vision for distillery brand, trying together passionate stakeholder needs with a variety of strong opinions."
+projOutcomes: "Unified vision for distillery brand, tying together passionate and diverse stakeholder needs."
 projSkills: [ "Research", "Design", "Branding", "Writing", "Editing", "Facilitation", "Negotiation", "Conflict Management" ]
 ---
 
-### Research-based, Collaborative Brand Identity
+### Research-based, collaborative brand voice
 
-In a concerted effort with senior leadership, design, and marketing teams, I was instrumental in the creation of brand guidelines for Bently Heritage. The final guide was approved after careful consumer research, competitive research, and iterative refinement based on team feedback. Over the next 5 years it was a comprehensive resource for all brand-related decision making.
+In a ccooperation with senior leadership, design, and marketing teams, I was instrumental in the creation of brand guidelines for Bently Heritage. The final guide was approved after careful consumer research, competitive analysis, and iterative refinement based on team feedback. Over the next 5 years it was a comprehensive resource for all brand-related decision-making.
 
 As part of this project, we conducted meetings with stakeholders to generate business concepts based on word banks, personas, and positioning. 
 
-!["Brand DNA" from the Heritage guidelines](/heritage-brand-book-sample.webp)
+![Brand DNA from the Heritage guidelines](/heritage-brand-book-sample.webp)
 
 The final book included:
 

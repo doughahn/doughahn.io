@@ -7,7 +7,7 @@ projOutcomes: "Rapid launch of an eCommerce storefront that aligned with COVID s
 projSkills: [ "Project Management", "Front-end Development", "Backlog Refinement", "Problem-Solving", "Requirements Definition", "Shopify", "Collaboration", "HTML Email" ]
 ---
 
-### Agile eCommerce MVP & Iterations
+### Agile eCommerce MVP & iterations
 
 I spearheaded the launch of a $60k eCommerce initiative to facilitate the distiller&rsquo;s business pivot during the pandemic. The MVP (minimum viable product) was deployed in less than two weeks and realized a cost savings of $10k under budget. 
 

@@ -8,7 +8,7 @@ projOutcomes: "Unifying content strategy based on research and analytics, with a
 projSkills: [ "User Research", "Strategy", "Product Marketing", "Editing", "Facilitation"  ]
 ---
 
-### Building a Biofuels Brand 
+### Building a biofuels brand 
 
 I collaborated with the founders, senior leadership, and key stakeholders to distill research and vision into a core strategy statement that helped guide cross-functional teams. By effectively presenting these findings to the team, I was able to help leadership establish a shared vision and a strategy that steered the team through the entirety of the busines&rsquo;s life cycle.
 

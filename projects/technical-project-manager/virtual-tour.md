@@ -8,7 +8,7 @@ projOutcomes: "An info-rich virtual tour that increased the brand’s positionin
 projSkills: [ "Project Management", "Vendor Procurement", "Requirements Definition", "Wireframing", "Communication", "Stakeholder Management", "Task Management", "Quality Control", "Scheduling" ]
 ---
 
-### A VR your of a Cutting-Edge Campus
+### A VR tour of a cutting-edge campus
 
 I served as the product owner for the creation of a $30k virtual tour of a $100MM distillery. The team had never built a virtual tour before, and had no idea where to start. I spearheaded vendor procurement to find someone we trusted and could help guide us through the process. We adopted a progressively elaborated timeline, allowing us to evolve our understanding and tactics as the project unfolded, and in tandem with the vendor&rsquo;s guidance.
 

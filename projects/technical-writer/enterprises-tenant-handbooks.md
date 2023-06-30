@@ -8,7 +8,7 @@ projOutcomes: "Tenant handbooks for $300M worth of jewelbox commercial and resid
 projSkills: [ "Stakeholder Management", "Technical Writing", "Editing", "Facilitation", "Research", "Collaboration" ]
 ---
 
-### Tenant Handbooks for Jewelbox properties
+### Tenant handbooks for jewelbox properties
 
 Cross-collaborating with building engineers, property managers, legal, and other key stakeholders, I authored, published, and maintained tenant handbooks for significant properties in the San Francisco Bay Area. These assets, about $300MM, were a significant portion of the company&rsquo;s portfolio. Tenant handbooks were written for:
 

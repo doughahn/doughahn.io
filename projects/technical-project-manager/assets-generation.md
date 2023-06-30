@@ -7,7 +7,7 @@ projOutcomes: "I contained scope to protect the client’s bottom line while man
 projSkills: [ "Stakeholder Management", "Project Management", "Negotiation", "Backlog Refinement", "Problem Solving", "Requirements Definition" ]
 ---
 
-### Problem-Solving for a Sales Application
+### Problem-solving for a sales application
 
 I led a cross-departmental team, including leaders from five distinct departments and a senior engineering group, to build a custom app that had an initial budget of $80k with more allotted if the application increased sales. 
 

@@ -7,7 +7,7 @@ projOutcomes: "Significant improvements across KPI’s such as social media enga
 projSkills: [ "User Research", "Strategy", "Facilitation", "Editing", "Vendor Procurement", "IA", "UX", "SEO (search engine optimization)", "SEM (search engine marketing)" ]
 ---
 
-### A Strategic North Star
+### A strategic north star
 
 Leading a cross-functional team, I acquired buy-in and helped leaders articulate their needs. We created a data-driven content strategy for Bently Heritage that focused on finding and serving user intent. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Writing & coding the Bently Reserve eBook"
+title: "Created the Bently Reserve eBook"
 date: 2010-01-01
 tags: [ 'Writer/Editor' ]
 years: "2010"
@@ -8,10 +8,12 @@ projOutcomes: "Researched historic building and wrote the book on it. The book w
 projSkills: [ "Writing", "Editing", "Research", "HTML/CSS", "eBook publication" ]
 ---
 
-I conducted research for the owners of the old federal reserve nak building of San Francisco, pulling building permits from the library and department of public works to track down information, and researching the artists who made the paintings and sculptures in and around the building.
+### Finding & publishing history
 
-![A custom layout in the book](/reserve-book-1.webp)
+I conducted research for the owners of the Old Federal Reserve Bank Building of San Francisco, pulling building permits from the library and department of public works to track down information, and researching the artists who made the paintings and sculptures in and around the building.
 
-The book featured a variety of layouts, pairing historical information with images of the venue.  
+![A custom layout from the book](/reserve-book-1.webp)
 
-![A sample of the Bently Reserve book](/reserve-book-2.webp)
+The book featured a variety of layouts, pairing historical information with images from the venue.  
+
+![A sample from the Bently Reserve book](/reserve-book-2.webp)
