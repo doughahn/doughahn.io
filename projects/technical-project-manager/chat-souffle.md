@@ -1,6 +1,6 @@
 ---
 title: "Built an xAPI + Twine learning experience from scratch"
-date: 2023-01-01
+date: 2023-02-01
 tags: [ 'Technical Project Manager' ]
 years: "2023-"
 projOutcomes: "In under 10 weeks I helped a team build a complete xAPI-enabled learning experience, with documentation for the community."
