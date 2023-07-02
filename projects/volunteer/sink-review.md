@@ -5,7 +5,7 @@ tags: [ 'Volunteer' ]
 years: "2006-"
 summary: "Founder, editor, designer, developer of online poetry journal."
 projOutcomes: "A literary journal focused on typography and has been running for 18+ years."
-projSkills: [ "Web Development", "Stakeholder Management", "Static Sites (Middleman)", "Web Design", "Typography", "Editing", "Collaboration" ]
+projSkills: [ "Web Development", "Stakeholder Management", "Static Sites (Middleman)", "Web Design", "Typography", "Editing", "Collaboration", "Poetry", "Publishing", "Literary Magazine", "Writing" ]
 ---
 
 ### 19 issues of type-focused poetry
