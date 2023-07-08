@@ -56,10 +56,6 @@
     text-align:center;
     margin: 3rem auto;
   }
-  footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-  }
+
   </style>
   
