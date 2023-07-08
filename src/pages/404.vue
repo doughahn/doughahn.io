@@ -3,7 +3,7 @@
         <transition name="fade" appear>
             <main>
                 <section class="article-grid"> 
-                    <article>
+                    <article class="utility">
                         <h2>404</h2>
                         <h3>Page not found</h3>
                         <p>If you need help, don&rsquo;t hesitate to contact me on linkedin!</p>
@@ -47,10 +47,11 @@
   .fade-enter {
     opacity: 0;
   }
-  h2, h3 {
+  .utility h2, 
+  .utility h3 {
     text-align:center;
   }
-  .calloutLink {
+  .utility .calloutLink {
     display:inline-block;
     width:100%;
     text-align:center;
