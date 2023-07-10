@@ -5,7 +5,7 @@ tags: [ 'Developer' ]
 years: "2023-"
 summary: "Developed website for a luxury apartment building in Nob Hill, San francisco"
 projOutcomes: "A new website featuring performance and simplicity that enhances design for an apartment tower in San Francisco’s Nob Hill neighborhood."
-projSkills: [ "Frontend", "CSS", "JS", "Static Site Generator Hugo", "Markdown CMS Tina", "UX" ]
+projSkills: [ "Frontend", "CSS", "JS", "Static Site Generator Hugo", "Markdown CMS Tina", "UX" ] 
 ---
 
 ### The top of Nob Hill
