@@ -57,3 +57,11 @@ A boutique day spa in San Francisco.
 ![Kamala Spa](/kamalaspa.webp)
 
 **[archive.org](http://web.archive.org/web/20110208182113/http://www.kamalaspa.com/)**
+
+#### Sink Review
+
+We have been running this magazine since 2006. In 2014 it switched to a different CMS, but its first issues were on WordPress. 
+
+![Sink Review, Issue 2](/sink-2008.webp)
+
+**[archive.org](http://web.archive.org/web/20070918043938/http://www.sinkreview.org/)**
