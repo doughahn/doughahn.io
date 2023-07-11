@@ -10,7 +10,7 @@ projSkills: [ "Wordpress", "Frontend", "CSS", "JS", "Markdown CMS Tina", "UX", "
 
 ### Bespoke Wordpress Sites
 
-I've built a smattering of Wordpress over the years. Here are samples of a few.
+I've built 23 Wordpress over the years. Here are samples of some of them.
 
 #### System 2 Focus
 
@@ -19,6 +19,16 @@ I've built a smattering of Wordpress over the years. Here are samples of a few.
 This site is being developed; it's for a coach who's rebranding and needs a simple, minimum viable product with calls to action to launch quickly. 
 
 **[system2focus.com](https://system2focus.com/)**
+
+#### Black Rock Arts
+
+The website for the Black Rock Arts foundation, which is now part of the Burning Man project. I also trained the users on how to use Wordpress for this project, so they could administer and publish themselves.
+
+![Black Rock Arts](/braf.webp)
+
+**[Black Rock Arts Foundation](http://blackrockarts.org/)
+
+
 
 #### Poet Justin Marks
 

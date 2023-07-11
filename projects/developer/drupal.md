@@ -14,7 +14,7 @@ I've built created a few drupal websites over the years. Here are samples of a f
 
 #### Biofuels Website
 
-![Bently Biofuels](/s2f.webp)
+![Bently Biofuels](/biofuels2.webp)
 
 **[Archive Link](http://web.archive.org/web/20140725202656/http://www.bentlybiofuels.com/)
 
