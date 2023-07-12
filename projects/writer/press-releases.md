@@ -10,40 +10,40 @@ projSkills: [ "Writing", "Marketing", "PR" ]
 
 ### Writing for journalists
 
-I have written dozens of press releases over the years, which have earned placement in target publications. My strategy is always to make the journalists' job easier, and to keep them around 350 words. 
+I have written dozens of press releases over the years, which have earned placement in target publications. My strategy is always to make the journalists' job easier using industry-standard structure and styles, and to keep them around 350 words. 
 
 #### Sample: Launching a Distillery
 
-This release was picked up by 61 media outlets which represented an estimated 8 million earned media impressions with an advertising equivalency of an estimated $80K. It was followed up on 3 media inquiries from major publications. 
+This release was picked up by 61 media outlets which represented an estimated 8 million earned media impressions with an advertising equivalent of an estimated $80K. It was followed up with 3 media inquiries from notable publications. 
 
 > ##### Distillery to be one of first in state under new law
 > Christopher Bently, a local entrepreneur and businessman, announced that he is converting the Minden Flour Milling Company building, a National Registered Historic Place, into a craft distillery named Nevada Heritage.
 
-> The new distillery will be one of the first operating in the state since Assembly Bill 153 was passed earlier this year, which allows local distilleries to operate. This puts Nevada Heritage in notable company with fellow Silver State artisans as well as landing Minden at the forefront of a burgeoning new industry. Nevada Heritage will live up to its name by embracing the best traditions of the old west while innovating with new west values like local and sustainable supply chains.
+> The new distillery will be one of the first operating in the state since Assembly Bill 153 was passed earlier this year, which allows local distilleries to operate. This puts Nevada Heritage in notable company with fellow Silver State artisans, as well as landing Minden at the forefront of a burgeoning new industry. Nevada Heritage will live up to its name by embracing the best traditions of the old west while innovating with new west values like local and sustainable supply chains.
 
-> Before the Civil War, the Silver State flourished with small distilleries that were supplied by the abundant wheat, barley and hops. Like these bygone ventures, Nevada Heritage will exclusively use locally grown greens. Winter rye, wheat, and other grains will be harvested from the land of its sister company, Bently Ranch. 
+> Before the Civil War, the Silver State flourished with small distilleries that were supplied by abundant wheat, barley, and hops. Like these bygone ventures, Nevada Heritage will exclusively use locally-grown greens. Winter rye, wheat, and other grains will be harvested from the land of its sister company, Bently Ranch. 
 
-> Nevada Heritage’s home in the historic Minden Flour Milling Company, right in the heart of Minden, does more than just dramatize the new distillery’s pride in tradition: it will will become a major piece of Minden’s revitalization.
+> Nevada Heritage’s home in the historic Minden Flour Milling Company, right in the heart of Minden, does more than just dramatize the new distillery’s pride in tradition: it will become a major piece of Minden’s revitalization.
 
-> With the idea of preserving and innovating, the company is refitting the building to achieve a the highest possible rating in Leadership in Energy and Environmental Design (LEEED) standards.
+> With the idea of preserving and innovating, the company is refitting the building to achieve a the highest possible rating in Leadership in Energy and Environmental Design (LEED) standards.
 
-> “As a longtime member of the Carson Valley community, I’m excited about its future.,” Bently said. “Revitalizing the area shouldn’t mean building subdivisions and big box stores. The way forward lies in innovation, preservation of the area’s colorful past, and the conservation of its wide open spaces. I will make every possible effort to preserve this natural beauty, while working to reinvigorate its economy. Nevada Heritage will be emblematic of everything I believe in: a first-class, hand-crafted product that preserves local history while embracing tradition.”
+> “As a longtime member of the Carson Valley community, I’m excited about its future.” Bently said. “Revitalizing the area shouldn’t mean building subdivisions and big box stores. The way forward lies in innovation, preservation of the area’s colorful past, and the conservation of its wide open spaces. I will make every possible effort to preserve this natural beauty, while working to reinvigorate its economy. Nevada Heritage will be emblematic of everything I believe in: a first-class, hand-crafted product that preserves local history while embracing tradition.”
 
 > As an environmentalist, Bently insists on nothing less than exemplary green operating fundamentals in every one of his companies. Along with investing in green technology, he is creating a fully organic and sustainable ranching practice here in Carson Valley.
 
 #### Sample: Hand Sanitizer Pivot & Collaboration
 
-The distillery launched a press release with lots of technical information, hoping to enable other regional distillers along with an offer to collaborate in making facility conversions work, within TTB requirements. 
+The distillery launched a press release with a fair amount technical information, hoping to enable other regional distillers with an offer to collaborate in making facility conversions work—within TTB requirements. 
 
 > ##### Converting from Spirits to Hand Sanitizer for Front Line Responders
 
-> Our nation’s first responders are at risk due to short supplies, and we want to help. When the Alcohol and Tobacco Tax and Trade Bureau waived provisions and began allowing distilleries to produce hand sanitizers, we immediately began converting our distillery into a hand sanitizer production plant.
+> Our nation’s first responders are at risk due to short supplies, and Bently Heritage wants to help. When the Alcohol and Tobacco Tax and Trade Bureau (TTB) waived provisions and began allowing distilleries to produce hand sanitizers, we immediately began converting our distillery into a hand sanitizer production plant.
 
 > At peak, we hope to produce over 1400 gallons a week and will be donating it all to front-line facilities. However, we need more containers to move this much sanitizer. If you know a company that can produce large jugs, please contact us.
 
-> **How we’re converting into a hand sanitizer production facility**
+> ##### The Regulations we Follow
 
-> We're following regulations, in detail:
+> We're following TTB and WHO regulations:
 
 > - [TTB Guidance for DSP Production of Hand Sanitizer](https://www.ttb.gov/public-guidance/ttb-pg-2020-1a)
 > - [Policy for Temporary Compounding of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency
@@ -51,7 +51,7 @@ Permit](https://www.fda.gov/media/136118/download)
 
 > ###### Our Permit
 
-> The TTB is exempting alcohol fuel plants and beverage distilled spirits plants rom the requirement to obtain additional permits or bonds to manufacture hand sanitizer or to supply ethanol for use in the manufacture of hand sanitizer to other TTB permittees who are authorized to receive such distilled spirits. TTB is authorizing this exemption under the authority of 26 U.S.C. 5562. AFPs and beverage DSPs must continue to keep records of their operations, including any undertaken as authorized under this exemption. Distilleries should make sure to check with local municipalities regarding licensing, and state taxation.1
+> The TTB is exempting alcohol fuel plants and beverage distilled spirits plants from the requirement to obtain additional permits or bonds to manufacture hand sanitizer or to supply ethanol for use in the manufacture of hand sanitizer. TTB is authorizing this exemption under the authority of 26 U.S.C. 5562. AFPs and beverage DSPs must continue to keep records of their operations, including any undertaken as authorized under this exemption. Distilleries should make sure to check with local municipalities regarding licensing, and state taxation.
 
 > ###### Our Formula
 
@@ -59,13 +59,13 @@ Permit](https://www.fda.gov/media/136118/download)
 
 > ###### How We Converted to a Hand Sanitizer Production Facility
 
-> Every facility and community is different; we would like to share our process in the spirit of collaboration and in the hopes it helps other facilities get going quickly. However, note that this process may not work for your distillery; Bently Heritage cannot take responsibility for the accuracy of this information.
+> Every facility and community is different. We would like to share our process in the spirit of collaboration and in the hopes it helps other facilities get going quickly. However, note that this process may not work for your distillery; Bently Heritage cannot take responsibility for the accuracy of this information.
 
-> The changeover itself is straightforward; distilleries, after all, already handle liquid alcohol, and the recipe for sanitizer is not as gel-like as consumers often find at the grocery. The World Health Organization formula needs to be adhered to (see above). Fundamentally, the requirements are 96% alcohol and other ingredients; the manufacturing process uses tanks and pumps — equipment most distilleries own and use frequently.
+> The changeover itself is straightforward. Distilleries, after all, already handle liquid alcohol, and the recipe for sanitizer is not as gel-like as consumers often find at the grocery. The World Health Organization formula needs to be adhered to (see above). Fundamentally, the requirements are 96% alcohol and other ingredients; the manufacturing process uses tanks and pumps—equipment most distilleries own and use frequently.
 
-> The biggest challenge Bently Heritage faces (and one other distilleries might face as well), is finding containers and acquiring non-alcohol ingredients. Hydrogen peroxide and glycerin are two ingredients we're waiting for; we have reached out to local hospitals, as these are chemical solutions that they often have access to.
+> The biggest challenge Bently Heritage faces (and one other distilleries might face as well), is finding containers and acquiring non-alcohol ingredients. Hydrogen peroxide and glycerin are two ingredients we're waiting for; we have reached out to local hospitals, as these are chemical solutions they can often access.
 
-> For containers we hope to fill 55-gallon drums and outfit them with pumps. These drums can be stationed at hospitals, health care facilities, and law enforcement. Individuals can then fill smaller containers on their own.
+> For containers we hope to fill 55-gallon drums and outfit them with pumps. These drums can be stationed at hospitals, health care facilities, and law enforcement. Individuals can then fill smaller containers of their own.
 
 > Bently Heritage will also produce surface-spray sanitizer (70% alcohol and water) to clean all of those materials before they are brought back into the facility for refill.
 
