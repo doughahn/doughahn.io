@@ -17,4 +17,4 @@ All told, I was able to provide 33 sources for the article, which was submitted 
 
 #### Project Links
 
-**[https://en.wikipedia.org/wiki/Paul_Beattie](Paul Beattie)
+**[https://en.wikipedia.org/wiki/Paul_Beattie](Paul Beattie)**
