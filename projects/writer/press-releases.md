@@ -1,5 +1,5 @@
 ---
-title: "Wrote press releases for a variety of clients"
+title: "Wrote impactful press releases for Bently Heritage"
 date: 2013-01-01
 years: "2011-"
 tags: [ 'Writer/Editor' ]
