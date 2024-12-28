@@ -7,7 +7,7 @@
           <AboutAside />
         </aside>
         <nav class="experience">
-          <TaggedPosts :tagOrder="['Technical PM', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
+          <TaggedPosts :tagOrder="['Lawrence Livermore National Lab', 'Technical PM', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
         </nav>
       </div>
     </main>
