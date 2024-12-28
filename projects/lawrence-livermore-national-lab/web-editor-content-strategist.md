@@ -14,9 +14,9 @@ Developed content initiatives, and web strategies for internal and external web 
 
 The Office of Strategic Communications is the primary contact between the Laboratory, the news media and the public; I worked with all levels of management, program leaders, scientists, and administrative staff to shape and communicate institutional messaging to effectively reach stakeholders and a broad-base audience. I also:
 
-- Created original content and provided writing and editing services while coordinating a comprehensive range of communication products, including visually engaging presentations, memos, reports, external reviews, stakeholder briefings, and multimedia content.
-- Developed and refined messaging frameworks that reflect LLNL's mission and values.
-- Interpreted complex technical ideas or strategies into clear, accurate, and actionable items. 
-- Coordinated projects with multiple authors from concept through completion.
-- Contributed to the evaluation and implementation of new tools, technologies, and processes.
-- Transformed metrics into strategy.
+1. Created original content and provided writing and editing services while coordinating a comprehensive range of communication products, including visually engaging presentations, memos, reports, external reviews, stakeholder briefings, and multimedia content.
+1. Developed and refined messaging frameworks that reflect LLNL's mission and values.
+1. Interpreted complex technical ideas or strategies into clear, accurate, and actionable items. 
+1. Coordinated projects with multiple authors from concept through completion.
+1. Contributed to the evaluation and implementation of new tools, technologies, and processes.
+1. Transformed metrics into strategy.
