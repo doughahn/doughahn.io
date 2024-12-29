@@ -8,7 +8,7 @@ projOutcomes: "Created strategies for a new department"
 projSkills: [ "Project Management", "Change Management", "Content Strategy", "Web Development", "Writing", "Editing", "Facilitation", "Communications", "Information Architecture", "QA" ]
 ---
 
-### Leading Digital Design, Development, and Strategy Efforts
+### Leading Digital Design, Development, and Strategy
 
 I oversee the administration, design, development, and maintenance of internal and external web sites and web content strategies across departments at LLNL. I coordinate the work of a team consisting of developers, web administrators, web and graphic designers, content strategists, and UX specialists. I collaborate with senior management, customers, and team members to identify objectives and strategies in order to deliver high-quality web applications, content, design, and architecture.
 
