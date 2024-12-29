@@ -8,7 +8,7 @@ projOutcomes: "Created strategies for a new department"
 projSkills: [ "Content Strategy", "Web Development", "Branding", "Writing", "Editing", "Facilitation", "Executive Communications", "Information Architecture" ]
 ---
 
-### Strategic Communications at Lawrence Livermore National Laboratory
+### Strategic Communications 
 
 Developed content initiatives, and web strategies for internal and external web properties — including governance, change management, accessibility, and other priority items. 
 

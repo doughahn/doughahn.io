@@ -3,12 +3,12 @@ title: "Web Team Lead"
 date: 2024-06-01
 tags: [ 'Lawrence Livermore National Lab' ]
 years: "2024-"
-summary: "Lead a team of web people at a national lab."
+summary: "Lead a team of web professionals at a national lab."
 projOutcomes: "Created strategies for a new department"
 projSkills: [ "Project Management", "Change Management", "Content Strategy", "Web Development", "Writing", "Editing", "Facilitation", "Communications", "Information Architecture", "QA" ]
 ---
 
-### Strategic Communications
+### Leading Digital Design, Development, and Strategy Efforts
 
 I oversee the administration, design, development, and maintenance of internal and external web sites and web content strategies across departments at LLNL. I coordinate the work of a team consisting of developers, web administrators, web and graphic designers, content strategists, and UX specialists. I collaborate with senior management, customers, and team members to identify objectives and strategies in order to deliver high-quality web applications, content, design, and architecture.
 
