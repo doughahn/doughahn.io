@@ -8,50 +8,50 @@
 }
 
 .heading {
-  font-family: "Sentinel A", "Sentinel B";
+  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
   font-style: normal;
   font-weight: 600;
 }
 
 .headingBold {
-  font-family: "Sentinel A", "Sentinel B";
+  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
   font-style: normal;
   font-weight: 600;
 }
 
 .subhead {
-  font-family: 'Decimal A', 'Decimal B';
+  font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: normal;
   font-weight: 700;
 }
 
 .subheadItalic {
-  font-family: "Decimal A", "Decimal B";
+  font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: italic; font-weight: 700;
 }
 
 .bodyFont {
-  font-family: "Mercury Text G1 A", "Mercury Text G1 B";
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   font-style: normal;
   font-weight: 400;
 }
 
 .bodyFontItalic {
-  font-family: "Mercury Text G1 A", "Mercury Text G1 B";
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   font-style: italic;
   font-weight: 400;
 }
 
 .logoFont {
-  font-family: "Sentinel A", "Sentinel B";
+  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
   font-style: normal;
   font-weight: 600;
 }
 
 .preFont {
-  font-family: 'inconsolata';
+  font-family: "Inconsolata", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   font-weight: 400;
-  font-style: normal;  
+  font-style: normal;
   text-rendering: optimizeLegibility;
   font-feature-settings: "kern" 1;
   font-feature-settings: "lnum" 1;
