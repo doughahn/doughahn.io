@@ -8,12 +8,18 @@
     <footer>
       <p>&copy; {{ currentYear }} <a href="https://www.linkedin.com/in/douglas-hahn/">Doug Hahn</a></p>
     </footer>
+    <ImageLightbox />
   </div>
 </template>
 
 
 <script>
+import ImageLightbox from '@/components/ImageLightbox.vue'
+
 export default {
+  components: {
+    ImageLightbox,
+  },
   computed: {
     currentYear() {
       return new Date().getFullYear();
