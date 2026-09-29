@@ -1,5 +1,6 @@
 ---
 title: "Web Team Lead"
+slug: "web-team-lead"
 date: 2024-06-01
 tags: [ 'Lawrence Livermore National Lab' ]
 years: "2024-"

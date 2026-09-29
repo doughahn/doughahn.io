@@ -1,5 +1,6 @@
 ---
 title: "Aligned leadership to steer donations during pandemic"
+slug: "aligned-leadership-to-steer-donations-during-pandemic"
 date: 2020-01-01
 tags: [ 'Technical Writer' ]
 years: "2020"

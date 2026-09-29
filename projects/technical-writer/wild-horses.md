@@ -1,5 +1,6 @@
 ---
 title: "Improved company culture with animal rights education"
+slug: "improved-company-culture-with-animal-rights-education"
 date: 2016-01-01
 tags: [ 'Technical Writer' ]
 years: "2016"

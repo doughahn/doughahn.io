@@ -1,5 +1,6 @@
 ---
 title: "Created a custom site for a poet, dramatizing his work"
+slug: "created-a-custom-site-for-a-poet-dramatizing-his-work"
 date: 2022-01-01
 tags: [ 'Developer' ]
 years: "2022-"

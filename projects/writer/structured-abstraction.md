@@ -1,5 +1,6 @@
 ---
 title: "Tech studio brand refinement"
+slug: "tech-studio-brand-refinement"
 date: 2022-01-01
 years: "2022"
 tags: [ 'Writer/Editor' ]

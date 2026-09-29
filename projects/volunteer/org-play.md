@@ -1,5 +1,6 @@
 ---
 title: "Fostered an inclusive gaming community"
+slug: "fostered-an-inclusive-gaming-community"
 date: 2018-01-01
 tags: [ 'Volunteer' ]
 years: "2018-22"

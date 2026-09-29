@@ -1,5 +1,6 @@
 ---
 title: "Crafted bespoke solutions for $100MM distillery driving engagement"
+slug: "crafted-bespoke-solutions-for-100-mm-distillery-driving-engagement"
 date: 2023-01-01
 tags: [ 'Developer' ]
 years: "2017-23"

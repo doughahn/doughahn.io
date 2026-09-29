@@ -1,5 +1,6 @@
 ---
 title: "Wordpress development"
+slug: "wordpress-development"
 date: 2015-01-01
 tags: [ 'Developer' ]
 years: "2010-"

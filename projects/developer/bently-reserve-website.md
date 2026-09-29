@@ -1,5 +1,6 @@
 ---
 title: "Launched a premier wedding & events website that hit KPIs"
+slug: "launched-a-premier-wedding-and-events-website-that-hit-kp-is"
 date: 2015-01-01
 tags: [ 'Developer' ]
 years: "2015-19"

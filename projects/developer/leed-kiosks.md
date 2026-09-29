@@ -1,5 +1,6 @@
 ---
 title: "Developed kiosks that earned LEED credits for construction projects"
+slug: "developed-kiosks-that-earned-leed-credits-for-construction-projects"
 date: 2022-01-01
 tags: [ 'Developer' ]
 years: "2022-"

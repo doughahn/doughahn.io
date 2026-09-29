@@ -1,5 +1,6 @@
 ---
 title: "Published one of the first LEED profiles for the USGBC"
+slug: "published-one-of-the-first-leed-profiles-for-the-usgbc"
 date: 2012-01-01
 tags: [ 'Technical Writer' ]
 years: "2012"

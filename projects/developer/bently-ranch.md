@@ -1,5 +1,6 @@
 ---
 title: "Enabled a ranch’s pivot to sustainable agriculture"
+slug: "enabled-a-ranch-s-pivot-to-sustainable-agriculture"
 date: 2021-01-01
 tags: [ 'Developer' ]
 years: "2021-22"

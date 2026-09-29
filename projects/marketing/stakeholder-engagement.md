@@ -1,5 +1,6 @@
 ---
 title: "Established community support for a four-year project"
+slug: "established-community-support-for-a-four-year-project"
 date: 2018-01-01
 years: "2013-18"
 tags: [ 'Marketer' ]

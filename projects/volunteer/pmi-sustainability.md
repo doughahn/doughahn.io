@@ -1,5 +1,6 @@
 ---
 title: "Building sustainable community with fellow project managers"
+slug: "building-sustainable-community-with-fellow-project-managers"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2022-"

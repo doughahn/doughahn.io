@@ -1,5 +1,6 @@
 ---
 title: "Created content for the Bently Holdings brand"
+slug: "created-content-for-the-bently-holdings-brand"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
 years: "2010-14"

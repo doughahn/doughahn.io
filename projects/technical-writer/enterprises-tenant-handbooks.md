@@ -1,5 +1,6 @@
 ---
 title: "Authored tenant handbooks for $300MM of global properties"
+slug: "authored-tenant-handbooks-for-300-mm-of-global-properties"
 date: 2018-01-01
 tags: [ 'Technical Writer' ]
 years: "2016-18"

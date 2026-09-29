@@ -5,9 +5,10 @@
       class="lightbox-overlay"
       role="dialog"
       aria-modal="true"
+      :aria-label="alt ? `Enlarged image: ${alt}` : 'Enlarged image'"
       @click="close"
     >
-      <button class="lightbox-close" type="button" aria-label="Close image" @click="close">
+      <button ref="closeButton" class="lightbox-close" type="button" aria-label="Close image" @click="close">
         &times;
       </button>
       <img class="lightbox-img" :src="src" :alt="alt" @click.stop />
@@ -19,41 +20,83 @@
 <script>
 // Delegated lightbox: any <figure><img> in the page (including markdown
 // rendered via v-html) becomes clickable and opens full-size in a modal.
+// Images are also made focusable so Enter/Space opens them from the keyboard.
+const ZOOMABLE = 'figure img';
+
+function zoomableImage(el) {
+  if (!el || !el.closest) return null;
+  const img = el.closest(ZOOMABLE);
+  if (!img || img.closest('a')) return null; // leave linked images alone
+  return img;
+}
+
 export default {
   name: 'ImageLightbox',
   data() {
     return { open: false, src: '', alt: '', caption: '' };
   },
   methods: {
-    onDocClick(e) {
-      const target = e.target;
-      if (!target || !target.closest) return;
-      const img = target.closest('figure img');
-      if (!img) return;
-      if (img.closest('a')) return; // leave linked images alone
-      e.preventDefault();
+    show(img) {
       this.src = img.currentSrc || img.src;
       this.alt = img.alt || '';
       const cap = img.closest('figure').querySelector('figcaption');
       this.caption = cap ? cap.textContent.trim() : '';
+      this.returnFocus = document.activeElement;
       this.open = true;
       document.body.style.overflow = 'hidden';
-    },
-    onKeydown(e) {
-      if (e.key === 'Escape') this.close();
+      this.$nextTick(() => this.$refs.closeButton && this.$refs.closeButton.focus());
     },
     close() {
+      if (!this.open) return;
       this.open = false;
       document.body.style.overflow = '';
+      if (this.returnFocus && this.returnFocus.focus) this.returnFocus.focus();
+      this.returnFocus = null;
+    },
+    onDocClick(e) {
+      const img = zoomableImage(e.target);
+      if (!img) return;
+      e.preventDefault();
+      this.show(img);
+    },
+    onKeydown(e) {
+      if (this.open) {
+        if (e.key === 'Escape') this.close();
+        // the close button is the only control, so keep focus on it
+        if (e.key === 'Tab') {
+          e.preventDefault();
+          this.$refs.closeButton.focus();
+        }
+        return;
+      }
+      if (e.key === 'Enter' || e.key === ' ') {
+        const img = zoomableImage(e.target);
+        if (!img) return;
+        e.preventDefault();
+        this.show(img);
+      }
+    },
+    makeImagesFocusable() {
+      document.querySelectorAll(ZOOMABLE).forEach(img => {
+        if (img.hasAttribute('tabindex') || img.closest('a')) return;
+        img.setAttribute('tabindex', '0');
+        img.setAttribute('role', 'button');
+        img.setAttribute('aria-haspopup', 'dialog');
+      });
     },
   },
   mounted() {
     document.addEventListener('click', this.onDocClick);
     document.addEventListener('keydown', this.onKeydown);
+    this.makeImagesFocusable();
+    // markdown content renders after mount and changes on navigation
+    this.observer = new MutationObserver(() => this.makeImagesFocusable());
+    this.observer.observe(document.body, { childList: true, subtree: true });
   },
   beforeDestroy() {
     document.removeEventListener('click', this.onDocClick);
     document.removeEventListener('keydown', this.onKeydown);
+    if (this.observer) this.observer.disconnect();
     document.body.style.overflow = '';
   },
 };
@@ -104,6 +147,10 @@ export default {
 }
 .lightbox-close:hover {
   opacity: 0.7;
+}
+.lightbox-close:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
 }
 .lightbox-fade-enter-active,
 .lightbox-fade-leave-active {

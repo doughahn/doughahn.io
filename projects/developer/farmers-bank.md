@@ -1,5 +1,6 @@
 ---
 title: "Implemented a storytelling website that captures history & green tech"
+slug: "implemented-a-storytelling-website-that-captures-history-and-green-tech"
 date: 2019-01-01
 tags: [ 'Developer' ]
 years: "2019-"

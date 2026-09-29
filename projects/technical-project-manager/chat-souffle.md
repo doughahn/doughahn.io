@@ -1,5 +1,6 @@
 ---
 title: "Built an xAPI + Twine learning experience from scratch"
+slug: "built-an-x-api-twine-learning-experience-from-scratch"
 date: 2023-02-01
 tags: [ 'Technical Project Manager' ]
 years: "2023"

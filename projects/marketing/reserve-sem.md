@@ -1,5 +1,6 @@
 ---
 title: "Architected SEM strategy to drive KPIs in a tough marketplace"
+slug: "architected-sem-strategy-to-drive-kp-is-in-a-tough-marketplace"
 date: 2018-01-01
 tags: [ 'Marketer' ]
 years: "2018-20"

@@ -1,5 +1,6 @@
 ---
 title: "Established brand guidelines for a national distillery"
+slug: "established-brand-guidelines-for-a-national-distillery"
 date: 2017-01-01
 tags: [ 'Marketer' ]
 years: "2017"

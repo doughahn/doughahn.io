@@ -1,5 +1,6 @@
 ---
 title: "Enhanced learning outcomes through a custom LMS"
+slug: "enhanced-learning-outcomes-through-a-custom-lms"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-23"

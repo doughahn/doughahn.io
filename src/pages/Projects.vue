@@ -6,9 +6,9 @@
           <aside class="intro intro-sticky">
             <AboutAside />
           </aside>
-          <nav class="experience">
-            <TaggedPosts :tagOrder="['Lawrence Livermore National Lab', 'Technical PM', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
-          </nav>
+          <section class="experience">
+            <TaggedPosts :tagOrder="['Lawrence Livermore National Lab', 'Technical Project Manager', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
+          </section>
         </div>
       </main>
     </transition>
@@ -16,6 +16,7 @@
   </template>
   
   <script>
+  import pageMeta from '@/utils/meta';
   import TaggedPosts from '@/components/TaggedPosts.vue';
   import AboutAside from '@/components/AboutAside.vue';
 
@@ -26,20 +27,14 @@
       AboutAside
     },
     metaInfo() {
-    return {
-      title: 'Doug Hahn\'s Projects',
-      meta: [
-        {
-          name: 'description',
-          content: 'I\'m a skilled generalist, with projects spanning a variety of domains — including technical project management, strategy, to technical writing, and web development.'
-        },
-        {
-          name: 'keywords',
-          content: 'project management, collaboration, communication, content strategy, technical writing, technical editing, web development, app development, marketing, writing, editing, documentation, PMP',
-        }
-      ]
-    }
-  },
+      return pageMeta({
+        title: 'Projects',
+        description: 'I\'m a skilled generalist, with projects spanning a variety of domains — including technical project management, strategy, to technical writing, and web development.',
+        // same content as the homepage for now, so point search engines there
+        path: '/',
+        keywords: 'project management, collaboration, communication, content strategy, technical writing, technical editing, web development, app development, marketing, writing, editing, documentation, PMP',
+      });
+    },
   }
   </script>
   

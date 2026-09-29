@@ -1,5 +1,6 @@
 ---
 title: "Wrote impactful press releases for Bently Heritage"
+slug: "wrote-impactful-press-releases-for-bently-heritage"
 date: 2013-01-01
 years: "2011-"
 tags: [ 'Writer/Editor' ]
