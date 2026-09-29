@@ -10,7 +10,7 @@ export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
   Vue.component('Figure', Figure)
-  // add external css — Google Fonts (Zilla Slab, Archivo, Source Serif 4, Inconsolata)
+  // add external css — Google Fonts (Source Sans 3, Inconsolata); Doves Headline is self-hosted in src/font
   head.link.push({
     rel: 'preconnect',
     href: 'https://fonts.googleapis.com'
@@ -22,7 +22,7 @@ export default function (Vue, { router, head, isClient }) {
   })
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,700;1,700&family=Inconsolata:wght@400;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Zilla+Slab:ital,wght@0,400;0,600;0,700;1,400&display=swap'
+    href: 'https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap'
   })
 
   head.meta.push({

@@ -8,7 +8,7 @@ projOutcomes: "The company realized a 200% return on income in ¼ time frame."
 projSkills: [ "Schedule Development", "Budgeting", "Data Visualization", "Collaboration", "Roadmapping", "Motivation", "Smartsheet" ]
 ---
 
-### Optimizing Decisions Over a Year-Long Closure
+### Optimizing Decisions Over a <span class="nowrap">Year-Long</span> Closure
 
  I worked in close collaboration with various leaders to determine scope, timeline, and milestones for a divestment project that would occur over the course of three months, 6 months, or a year. Our aim was to close a plant safely while maximizing return on income within the shortest possible time frame.
 

@@ -5,7 +5,9 @@
   padding-left:1rem;
   background-color: var( --darkBlue );
   @include breakpoint(large) {
-      padding-left:3rem;
+    // line the name and nav up with the centered homepage container
+    padding-left: calc((100% - min(100%, var(--container-width))) / 2 + 3rem);
+    padding-right: calc((100% - min(100%, var(--container-width))) / 2);
   }
 }
 
@@ -60,7 +62,7 @@ h2 {
 .breadcrumbs,
 .breadcrumbs a {
   @extend .subheadItalic;
-  color: #7FA4BC;
+  color: var(--slate);
   padding:.66rem 0 0 0;
   margin-bottom: 0;
   font0size: var(--text-xs);
@@ -78,6 +80,35 @@ h2:after {
   overflow-x:hidden;
   background-color:var(--dark);
   height:3px;
+}
+
+// "I'm a Project Person" — leads the intro column in place of a section label
+h2.intro-heading {
+  color: var(--slate);
+  line-height: var(--heading-line-height);
+  padding: 0 0 1.33rem 0;
+  @include breakpoint(large) {
+    line-height: var(--heading-line-height);
+    padding: 0 0 1.33rem 0;
+  }
+  &:after {
+    display: none;
+  }
+}
+
+// "My Work" — quieter than the name and intro headline
+h2.section-heading {
+  font-size: var(--text-lg);
+  line-height: var(--heading-line-height);
+  padding: 0 0 .66rem 0;
+  @include breakpoint(large) {
+    font-size: var(--text-xl);
+    line-height: var(--heading-line-height);
+    padding: 0 0 1rem 0;
+  }
+  &:after {
+    height: 1px;
+  }
 }
 
 .calloutLink {
@@ -148,14 +179,25 @@ h3 {
   @extend .heading;
   position:relative;
   font-size: var(--text-xl);
-  color: #7FA4BC;
+  color: var(--slate);
   line-height: 1.2;
-  padding: 1.33rem 0 1.33rem 0; 
+  padding: 1.33rem 0 1.33rem 0;
   @include breakpoint(large) {
-    padding: .95rem 0 1.33rem 0;     
+    padding: 1.66rem 0 1.33rem 0;
     font-size: var(--text-xxxl);
-    line-height: var( --baseline-lg );
+    line-height: var(--heading-line-height);
   }
+}
+
+// case-study section headings sit well below the page title
+article h3 {
+  @include breakpoint(large) {
+    font-size: 2.125rem; // 34px
+  }
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 h4 {
@@ -168,14 +210,19 @@ h4 {
 }
 
 h4.leadin-subhead {
+  @extend .subhead;
+  font-size: var(--text-md);
   padding: .33rem 0 1rem 0;
+  @include breakpoint(xlarge) {
+    font-size: var(--text-lg);
+  }
 }
 
 .projectInfo h4 {
-  @extend .heading;
+  @extend .subhead;
   font-size: var(--text-lg);
   padding: 0;
-  color:#7FA4BC;
+  color:var(--slate);
 }
 
 h5{
@@ -219,7 +266,16 @@ h5{
   font-size: var(--text-md);
   color: var( --dark );
   line-height: var(--heading-line-height);
+  letter-spacing: .02em;
   padding: 1.33rem 0 .66rem 0;
+}
+
+// breathing room between work groups
+.experience-domain + .experience-domain {
+  margin-top: var(--baseline-sm);
+  @include breakpoint(large) {
+    margin-top: var(--baseline-md);
+  }
 }
 
 .experience-domain:first-of-type {
@@ -340,14 +396,14 @@ figcaption {
 }
 
 ul {
-  @extend .heading;
+  @extend .bodyFont;
   list-style-type: disc;
   margin: var(--baseline-md) 0;
   padding-left: 3rem;
 }
 
 ol {
-  @extend .heading;
+  @extend .bodyFont;
   list-style-type: decimal;
   margin: var(--baseline-md) 0;
   padding-left: 3rem;

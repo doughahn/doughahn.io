@@ -12,7 +12,12 @@ html {
   padding-bottom:3rem;
   @include breakpoint(large) {
     grid-template-columns: 2fr 4fr;
+    // line up "I'm a Project" with "My Work" on a shared baseline
+    align-items: baseline;
     padding:2.66rem 0 6rem 3rem;
+    // centered container, lined up with .header-area
+    max-width: var(--container-width);
+    margin: 0 auto;
   }
 }
 
@@ -26,6 +31,9 @@ html {
 .project-page-experience {
   padding-top:6rem;
   background-color: #F5F5F5;
+  // keep the gray band full-bleed while the content stays in the container
+  box-shadow: 0 0 0 100vmax #F5F5F5;
+  clip-path: inset(0 -100vmax);
 }
 
 footer {
@@ -46,6 +54,15 @@ aside.intro {
   @include breakpoint(large) {
     display:block;
    grid-template-columns: 2fr;
+  }
+}
+
+// homepage, /projects & case-study footers: keep the intro in view while the work list scrolls.
+// Only when the window is tall enough to show the whole intro.
+@media screen and (min-width: map-get($breakpoints, large)) and (min-height: 38rem) {
+  aside.intro-sticky {
+    position: sticky;
+    top: 2.66rem;
   }
 }
 

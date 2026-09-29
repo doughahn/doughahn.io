@@ -7,45 +7,59 @@
 
 }
 
-.heading {
-  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
+@font-face {
+  font-family: 'Doves Headline';
+  src: url('~@/font/DovesType-Headline.woff2') format('woff2'),
+       url('~@/font/DovesType-Headline.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
-  font-weight: 600;
+  font-display: swap;
 }
 
+// Doves ships a single regular weight; never let the browser fake bold
+.heading {
+  font-family: "Doves Headline", Georgia, "Times New Roman", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-synthesis: none;
+}
+
+// buttons & nav
 .headingBold {
-  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: normal;
   font-weight: 600;
 }
 
 .subhead {
-  font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .subheadItalic {
-  font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-style: italic; font-weight: 700;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-style: italic;
+  font-weight: 600;
 }
 
 .bodyFont {
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: normal;
   font-weight: 400;
 }
 
 .bodyFontItalic {
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-style: italic;
   font-weight: 400;
 }
 
 .logoFont {
-  font-family: "Zilla Slab", Georgia, "Times New Roman", serif;
+  font-family: "Doves Headline", Georgia, "Times New Roman", serif;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
+  font-synthesis: none;
 }
 
 .preFont {
@@ -82,7 +96,9 @@ $breakpoints: (
   --dark: #212427;
   --darkBlue: #07062e;
   --highlight: #3a489d;
+  --slate: #4e7390;
   --transition: 200ms;
+  --container-width: 75rem;
 }
 
 $light: var(--light);

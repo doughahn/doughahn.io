@@ -3,7 +3,7 @@
         <transition name="fade" appear>
       <main>
         <div class="grid">
-          <aside class="intro">
+          <aside class="intro intro-sticky">
             <AboutAside />
           </aside>
           <nav class="experience">

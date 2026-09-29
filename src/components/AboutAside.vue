@@ -1,7 +1,6 @@
 <template>
     <div>
-      <h2>About Me</h2>
-      <h3>I&rsquo;m a Project Person</h3>
+      <h2 class="intro-heading">I&rsquo;m a Project Person</h2>
       <p class="leadin">
         <b>I&rsquo;m a PMP</b> with an MFA in poetry and deep technical ability. As an experienced generalist I command expertise in a variety of key domains.
       </p>

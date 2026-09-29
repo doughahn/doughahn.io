@@ -28,7 +28,7 @@
       </section>
     </main>
     <div class="grid project-page-experience">
-      <aside>
+      <aside class="intro-sticky">
         <AboutAside />
       </aside>
       <nav class="experience">
