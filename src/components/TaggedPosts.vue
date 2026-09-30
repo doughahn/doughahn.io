@@ -24,7 +24,11 @@
     </section>
 
     <section class="experience-section">
-      <h3>{{ sections.consultant.title }}</h3>
+      <h3 :id="formatTagId(sections.consultant.tag)" class="experience-role">
+        <g-link v-if="overview.consultant" :to="overview.consultant.path">{{ sections.consultant.title }}</g-link>
+        <template v-else>{{ sections.consultant.title }}</template>
+        <span v-if="overview.consultant" class="experience-role-years">{{ formatYears(overview.consultant.years) }}</span>
+      </h3>
       <div v-for="group in consultantGroups" :key="group.tag" class="experience-domain">
         <h4 :id="formatTagId(group.tag)">{{ group.tag }}</h4>
         <ul class="experience-list">
@@ -39,7 +43,11 @@
     </section>
 
     <section class="experience-section">
-      <h3 :id="formatTagId(sections.volunteer.tag)">{{ sections.volunteer.title }}</h3>
+      <h3 :id="formatTagId(sections.volunteer.tag)" class="experience-role">
+        <g-link v-if="overview.volunteer" :to="overview.volunteer.path">{{ sections.volunteer.title }}</g-link>
+        <template v-else>{{ sections.volunteer.title }}</template>
+        <span v-if="overview.volunteer" class="experience-role-years">{{ formatYears(overview.volunteer.years) }}</span>
+      </h3>
       <div class="experience-domain">
         <ul class="experience-list">
           <li v-for="post in volunteerPosts" :key="post.id" class="experience-item">
@@ -84,6 +92,9 @@ import sections from '@/data/workSections';
 import { formatYears, compareYearsDesc } from '@/utils/years';
 
 const byYearsDesc = (a, b) => compareYearsDesc(a.years, b.years);
+const slugOf = post => post.path.replace(/\/$/, '').split('/').pop();
+// section overview pages are linked from their headings, not listed as projects
+const overviewSlugs = [sections.consultant.slug, sections.volunteer.slug];
 
 export default {
   name: 'TaggedPosts',
@@ -91,8 +102,15 @@ export default {
     return { sections };
   },
   computed: {
-    posts() {
+    allPosts() {
       return this.$page.allPost.edges.map(edge => edge.node);
+    },
+    posts() {
+      return this.allPosts.filter(post => !overviewSlugs.includes(slugOf(post)));
+    },
+    overview() {
+      const find = slug => this.allPosts.find(post => slugOf(post) === slug);
+      return { consultant: find(sections.consultant.slug), volunteer: find(sections.volunteer.slug) };
     },
     // each post is filed under its first tag only
     primaryTag() {
@@ -101,7 +119,6 @@ export default {
     employerRoles() {
       const { tag, roles } = sections.employer;
       const employerPosts = this.posts.filter(post => this.primaryTag(post) === tag);
-      const slugOf = post => post.path.replace(/\/$/, '').split('/').pop();
       const roleSlugs = roles.map(role => role.slug);
       const grouped = roles.map(role => ({
         ...role,
@@ -115,7 +132,7 @@ export default {
       return grouped;
     },
     consultantGroups() {
-      const excluded = [sections.employer.tag, sections.volunteer.tag];
+      const excluded = [sections.employer.tag, sections.consultant.tag, sections.volunteer.tag];
       const consultantPosts = this.posts.filter(post => !excluded.includes(this.primaryTag(post)));
       const tags = [...new Set(consultantPosts.map(this.primaryTag))];
       const order = sections.consultant.skillOrder;

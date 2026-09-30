@@ -645,7 +645,8 @@ p em {
 }
 
 // underlined at rest so links don't rely on color alone
-p a {
+p a,
+article li a {
   color: var(--highlight);
   text-decoration: underline;
   text-decoration-thickness: 1px;

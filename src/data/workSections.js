@@ -19,7 +19,9 @@ export default {
     ],
   },
   consultant: {
+    tag: 'Private Consultant',
     title: 'Private Consultant',
+    slug: 'private-consultant', // overview page the heading links to
     skillOrder: [
       'Technical Project Manager',
       'Business Strategist',
@@ -33,5 +35,6 @@ export default {
   volunteer: {
     tag: 'Volunteer',
     title: 'Volunteer',
+    slug: 'volunteer', // overview page the heading links to
   },
 };
