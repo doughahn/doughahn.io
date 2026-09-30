@@ -193,18 +193,6 @@ article.home-page {
   gap: 0 .75rem;
 }
 
-// humanities background, at the bottom of the intro column
-.humanities {
-  border-top: 1px solid var(--dark);
-  padding-top: var(--baseline-sm);
-  margin-top: var(--baseline-sm);
-  a {
-    color: var(--highlight);
-    text-decoration: underline;
-    text-underline-offset: .2em;
-  }
-}
-
 .leadin b {
   font-weight: bold;
   text-transform: uppercase;

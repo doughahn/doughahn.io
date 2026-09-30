@@ -14,16 +14,8 @@
       </ul>
       <div class="contact-links">
         <a class="calloutLink" href="https://www.linkedin.com/in/douglas-hahn/">LinkedIn</a>
-        <!-- TODO: Email button — add the address, e.g. <a class="calloutLink" href="mailto:you@example.com">Email</a> -->
+        <a class="calloutLink" href="mailto:doughahn@gmail.com">Email</a>
       </div>
-      <section class="humanities">
-        <h3 class="leadin-subhead">Humanities</h3>
-        <ul class="leadin-list">
-          <li>MFA in Creative Writing, Sarah Lawrence College</li>
-          <li>BA in English, Loyola University</li>
-          <li>Founder and editor of <g-link to="/projects/designing-and-developing-a-digital-poetry-magazine-for-18-years/"><em>Sink Review</em></g-link>, an online poetry journal, since 2006</li>
-        </ul>
-      </section>
     </div>
 </template>
   
