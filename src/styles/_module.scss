@@ -176,8 +176,7 @@ article.home-page {
 }
 
 .role-org,
-.role-location,
-.role-clearance {
+.role-location {
   display: block;
   margin-top: .3rem;
   font-weight: 400;
@@ -187,9 +186,11 @@ article.home-page {
   color: #595959;
 }
 
-.role-clearance {
-  font-weight: 600;
-  color: var(--slate);
+// LinkedIn and email buttons, side by side
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 .75rem;
 }
 
 // humanities background, at the bottom of the intro column

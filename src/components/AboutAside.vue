@@ -1,22 +1,21 @@
 <template>
     <div>
-      <h2 class="intro-heading">I&rsquo;m a Project Person</h2>
+      <h2 class="intro-heading">Comms, Code, and Crew</h2>
       <p class="role-line">
         Program Manager &amp; Web Team Lead
         <span class="role-org">Lawrence Livermore National Laboratory</span>
-        <span class="role-location">San Francisco, CA</span>
-        <span class="role-clearance">DOE Q clearance</span>
+        <span class="role-location">San Francisco, CA &middot; PMP &middot; MFA</span>
       </p>
-      <p class="leadin">
-        <b>I&rsquo;m a PMP</b> with an MFA in poetry and deep technical ability. As an experienced generalist I command expertise in a variety of key domains.
-      </p>
-      <h3 class="leadin-subhead">Three things mean everything to me:</h3>
+      <h3 class="leadin-subhead">I believe:</h3>
       <ul class="leadin-list">
-        <li>Foster meaningful change</li>
-        <li>Nurture the good things</li>
-        <li>Learn from people smarter than me</li>
+        <li>Communication creates real change</li>
+        <li>Staying hands-on builds trust on teams</li>
+        <li>Leaders help good people do their best work</li>
       </ul>
-      <a class="calloutLink" href="https://www.linkedin.com/in/douglas-hahn/">LinkedIn</a>
+      <div class="contact-links">
+        <a class="calloutLink" href="https://www.linkedin.com/in/douglas-hahn/">LinkedIn</a>
+        <!-- TODO: Email button — add the address, e.g. <a class="calloutLink" href="mailto:you@example.com">Email</a> -->
+      </div>
       <section class="humanities">
         <h3 class="leadin-subhead">Humanities</h3>
         <ul class="leadin-list">
