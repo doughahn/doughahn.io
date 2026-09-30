@@ -3,7 +3,7 @@ title: "Built a minimal site meeting the needs of a historic Nob Hill property"
 slug: "built-a-minimal-site-meeting-the-needs-of-a-historic-nob-hill-property"
 date: 2023-01-01
 tags: [ 'Developer' ]
-years: "2023-"
+years: "2023"
 summary: "Developed website for a luxury apartment building in Nob Hill, San francisco"
 projOutcomes: "A new website featuring performance and simplicity that enhances design for an apartment tower in San Francisco’s Nob Hill neighborhood."
 projSkills: [ "Frontend", "CSS", "JS", "Static Site Generator Hugo", "Markdown CMS Tina", "UX" ] 

@@ -2,7 +2,7 @@
 title: "Wrote impactful press releases for Bently Heritage"
 slug: "wrote-impactful-press-releases-for-bently-heritage"
 date: 2013-01-01
-years: "2011-"
+years: "2011-23"
 tags: [ 'Writer/Editor' ]
 summary: "Press releases turned around quickly, and under the word count"
 projOutcomes: "I quickly turn around press releases that have been successfully fed into the news cycle."
