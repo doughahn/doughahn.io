@@ -59,7 +59,7 @@ aside.intro {
 
 // homepage, /projects & case-study footers: keep the intro in view while the work list scrolls.
 // Only when the window is tall enough to show the whole intro.
-@media screen and (min-width: map-get($breakpoints, large)) and (min-height: 58rem) {
+@media screen and (min-width: map-get($breakpoints, large)) and (min-height: 36rem) {
   aside.intro-sticky {
     position: sticky;
     top: 2.66rem;
