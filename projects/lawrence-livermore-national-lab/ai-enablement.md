@@ -3,6 +3,7 @@ title: "Turned vibe-coded prototypes into shared, collaborative apps"
 slug: "turned-vibe-coded-prototypes-into-shared-collaborative-apps"
 date: 2026-01-01 # confirm
 tags: [ 'Lawrence Livermore National Lab' ]
+role: "web-team-lead" # the LLNL role this project sits under on the work list
 years: "2026-" # confirm
 summary: "Read about how my team helps colleagues who build apps with AI take them from single-browser prototypes to shared tools backed by a real database."
 projOutcomes: "Colleagues' AI-built prototypes connected to a real database, so results are shared and teams can collaborate instead of each person working in their own copy."

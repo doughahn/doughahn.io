@@ -5,21 +5,21 @@ date: 2024-06-01
 tags: [ 'Lawrence Livermore National Lab' ]
 years: "2024-"
 summary: "Read about how I lead a portfolio of web programs at a national lab, where communications strategy meets engineering delivery."
-projOutcomes: "Zero projects over budget in 2026 across 30+ concurrent engagements, weekly billing QA cut from 4–8 hours to about one, and a customer-nominated Director's Office Recognition Award."
+projOutcomes: "Zero projects over budget in 2026 across 15 concurrent projects, weekly billing QA cut from 4–8 hours to about one, and a customer-nominated Director's Office Recognition Award."
 projSkills: [ "Program Management", "Governance", "Audience Research", "Information Architecture", "Content Strategy", "Stakeholder Communication", "React", "AWS", "AI Enablement", "Financial Controls" ]
 ---
 
 ### Where communications strategy meets engineering delivery
 
-I'm a program manager and web team lead in the Technical Information Department at Lawrence Livermore National Laboratory. I lead a portfolio of 30+ concurrent web projects for directorates across the Lab, turn audience research into information architecture and content strategy, and co-manage a cost-recovery web services team. I stay hands-on in the code and infrastructure, so engineering teams treat my scope and priority calls as decisions, not requests.
+I'm a program manager and web team lead in the Technical Information Department at Lawrence Livermore National Laboratory. I lead a portfolio of web projects for directorates across the Lab: about 15 active at a time, plus about 40 in maintenance mode, with budgets from $5K to $300K. I turn audience research into information architecture and content strategy, and co-manage a cost-recovery web services team. My own team is full stack: five people across UX, content strategy, front-end development, and full-stack development, and six at its largest. I stay hands-on in the code and infrastructure, so engineering teams treat my scope and priority calls as decisions, not requests.
 
-Most of this work is internal to the Lab, so I describe it here by approach and outcome rather than by project.
+Much of this work is internal to the Lab, and some of it is controlled or classified and can't be disclosed, so I describe it here by approach and outcome rather than by project.
 
 ### Program and portfolio leadership
 
 I'm the program manager for several internal modernization efforts that have consolidated about 13 fragmented sites into one primary site and three purpose-built ones. For their executive sponsor and compliance lead, I built the governance: a RACI covering every domain, a leadership kickoff, and live tracking dashboards, built with AI assistance, that let everyone collaborate on a complex program in real time.
 
-I also replaced Microsoft Project with a custom project platform — Kanban, Gantt, budget forecasting, and utilization tracked against an 80% target — that the team works in every day. After several overruns in prior years, we had zero projects over budget in 2026 across 30+ concurrent engagements. I've since extended the utilization views, with four-week projections, to other team leads in the department.
+I also replaced Microsoft Project with a custom project platform — Kanban, Gantt, budget forecasting, and utilization tracked against an 80% target — that the team works in every day. After several overruns in prior years, we had zero projects over budget in 2026 across 15 concurrent projects. I've since extended the utilization views, with four-week projections, to other team leads in the department.
 
 ### Audience research and communications
 

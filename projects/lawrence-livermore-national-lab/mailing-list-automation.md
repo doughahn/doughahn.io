@@ -3,6 +3,7 @@ title: "Cut mailing list management costs by 80% with low-code automation"
 slug: "cut-mailing-list-management-costs-by-80-with-low-code-automation"
 date: 2024-06-01 # confirm
 tags: [ 'Lawrence Livermore National Lab' ]
+role: "web-team-lead" # the LLNL role this project sits under on the work list
 years: "2024-" # confirm: and whether this was in your Web Team Lead or Web Editor role
 summary: "Read about how I automated mailing list management with SharePoint and Power Automate, working within a limited set of tools."
 projOutcomes: "Annual list-management costs cut by about 80%, from roughly $16K to about $3K, using only the tools already available: SharePoint and Power Automate."

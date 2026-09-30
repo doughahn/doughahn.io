@@ -3,6 +3,7 @@ title: "Streamlined how Lab websites are published, maintained, and tested"
 slug: "streamlined-how-lab-websites-are-published-maintained-and-tested"
 date: 2024-06-01 # confirm
 tags: [ 'Lawrence Livermore National Lab' ]
+role: "web-team-lead" # the LLNL role this project sits under on the work list
 years: "2024-" # confirm
 summary: "Read about the processes I introduced so Lab websites are easier to keep current, easier to search, and checked automatically for regressions and content problems."
 projOutcomes: "Each publication cut from 40 hours to 25 (roughly 165 hours a year) with a cleaner design-to-web handoff, plus regression testing that lets large upgrades ship with confidence and on-page editing that keeps customers' databases in use."
