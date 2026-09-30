@@ -1,17 +1,55 @@
 <template>
   <div id="portfolioNav">
     <h2 class="section-heading">My Work</h2>
-    <div v-for="tag in orderedTags" :key="tag.id" class="experience-domain">
-      <h3 :id="formatTagId(tag.id)">{{ tag.id }}</h3>
-      <ul class="experience-list">
-        <li v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
-          <g-link :to="post.node.path">
-            <span class="experience-year">{{ formatYears(post.node.years) }}</span>
-            <span class="experience-title">{{ post.node.title }}</span>
-          </g-link>
-        </li>
-      </ul>
-    </div>
+
+    <section class="experience-section">
+      <h3 :id="formatTagId(sections.employer.tag)">{{ sections.employer.title }}</h3>
+      <div v-for="role in employerRoles" :key="role.slug" class="experience-domain">
+        <h4 class="experience-role">
+          <g-link v-if="role.post" :to="role.post.path">{{ role.post.title }}</g-link>
+          <span v-if="role.post" class="experience-role-years">{{ formatYears(role.post.years) }}</span>
+        </h4>
+        <p v-if="role.blurb" class="experience-blurb">{{ role.blurb }}</p>
+        <ul v-if="role.projects.length" class="experience-list">
+          <li v-for="post in role.projects" :key="post.id" class="experience-item">
+            <g-link :to="post.path">
+              <span class="experience-year">{{ formatYears(post.years) }}</span>
+              <span class="experience-title">{{ post.title }}</span>
+            </g-link>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="experience-section">
+      <h3>{{ sections.consultant.title }}</h3>
+      <div v-for="group in consultantGroups" :key="group.tag" class="experience-domain">
+        <h4 :id="formatTagId(group.tag)">{{ group.tag }}</h4>
+        <ul class="experience-list">
+          <li v-for="post in group.posts" :key="post.id" class="experience-item">
+            <g-link :to="post.path">
+              <span class="experience-year">{{ formatYears(post.years) }}</span>
+              <span class="experience-title">{{ post.title }}</span>
+            </g-link>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="experience-section">
+      <h3 :id="formatTagId(sections.volunteer.tag)">{{ sections.volunteer.title }}</h3>
+      <div class="experience-domain">
+        <ul class="experience-list">
+          <li v-for="post in volunteerPosts" :key="post.id" class="experience-item">
+            <g-link :to="post.path">
+              <span class="experience-year">{{ formatYears(post.years) }}</span>
+              <span class="experience-title">{{ post.title }}</span>
+            </g-link>
+          </li>
+        </ul>
+      </div>
+    </section>
+
     <hr>
     <div class="experience-domain">
       <h3>Education &amp; Certifications</h3>
@@ -40,34 +78,61 @@
 </template>
 
 <script>
+import sections from '@/data/workSections';
 import { formatYears, compareYearsDesc } from '@/utils/years';
+
+const byYearsDesc = (a, b) => compareYearsDesc(a.years, b.years);
 
 export default {
   name: 'TaggedPosts',
-  props: {
-    tagOrder: {
-      type: Array,
-      required: true
-    }
+  data() {
+    return { sections };
   },
   computed: {
-    orderedTags() {
-      // Tags in tagOrder come first, in that order; any unlisted tags follow
-      // so a renamed or new tag never silently disappears from the list
-      const tags = this.$page.allTag.edges.map(edge => edge.node);
-      const listed = this.tagOrder
-        .map(orderedTagId => tags.find(tag => tag.id === orderedTagId))
-        .filter(Boolean);
-      const unlisted = tags.filter(tag => !this.tagOrder.includes(tag.id));
-      return [...listed, ...unlisted];
-    }
+    posts() {
+      return this.$page.allPost.edges.map(edge => edge.node);
+    },
+    // each post is filed under its first tag only
+    primaryTag() {
+      return post => (post.tags[0] ? post.tags[0].id : '');
+    },
+    employerRoles() {
+      const { tag, roles } = sections.employer;
+      const employerPosts = this.posts.filter(post => this.primaryTag(post) === tag);
+      const slugOf = post => post.path.replace(/\/$/, '').split('/').pop();
+      const roleSlugs = roles.map(role => role.slug);
+      const grouped = roles.map(role => ({
+        ...role,
+        post: employerPosts.find(post => slugOf(post) === role.slug),
+        projects: employerPosts.filter(post => post.role === role.slug).sort(byYearsDesc),
+      }));
+      // anything at the employer without a known role still shows, under the first role
+      const orphans = employerPosts.filter(post =>
+        !roleSlugs.includes(slugOf(post)) && !roleSlugs.includes(post.role));
+      if (grouped.length) grouped[0].projects.push(...orphans.sort(byYearsDesc));
+      return grouped;
+    },
+    consultantGroups() {
+      const excluded = [sections.employer.tag, sections.volunteer.tag];
+      const consultantPosts = this.posts.filter(post => !excluded.includes(this.primaryTag(post)));
+      const tags = [...new Set(consultantPosts.map(this.primaryTag))];
+      const order = sections.consultant.skillOrder;
+      const ordered = [
+        ...order.filter(tag => tags.includes(tag)),
+        ...tags.filter(tag => !order.includes(tag)),
+      ];
+      return ordered.map(tag => ({
+        tag,
+        posts: consultantPosts.filter(post => this.primaryTag(post) === tag).sort(byYearsDesc),
+      }));
+    },
+    volunteerPosts() {
+      return this.posts
+        .filter(post => this.primaryTag(post) === sections.volunteer.tag)
+        .sort(byYearsDesc);
+    },
   },
   methods: {
-    getPostsByTag(tag) {
-      return this.$page.allPost.edges
-        .filter(edge => edge.node.tags.find(t => t.id === tag))
-        .sort((a, b) => compareYearsDesc(a.node.years, b.node.years));
-    },
     formatYears,
     formatTagId(id) {
       return id.replace(/\s+/g, '-').toLowerCase();
@@ -92,6 +157,7 @@ query Post {
           id
         }
         years
+        role
       }
     }
   }

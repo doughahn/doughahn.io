@@ -7,7 +7,7 @@
           <AboutAside />
         </aside>
         <section class="experience">
-          <TaggedPosts :tagOrder="['Lawrence Livermore National Lab', 'Technical Project Manager', 'Business Strategist', 'Content Strategist', 'Technical Writer', 'Developer', 'Marketer', 'Writer/Editor', 'Volunteer']"/>
+          <TaggedPosts />
         </section>
       </div>
     </main>
@@ -52,6 +52,7 @@ query Post {
           id
         }
         years
+        role
       }
     }
   }

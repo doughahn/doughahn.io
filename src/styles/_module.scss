@@ -163,6 +163,47 @@ article.home-page {
   position:fixed;
 }
 
+// current title and location, under "I'm a Project Person"
+.role-line {
+  @extend .subhead;
+  font-size: var(--text-md);
+  line-height: var(--heading-line-height);
+  color: var(--dark);
+  margin: -.5rem 0 var(--baseline-md) 0;
+  @include breakpoint(large) {
+    font-size: var(--text-md);
+  }
+}
+
+.role-org,
+.role-location,
+.role-clearance {
+  display: block;
+  margin-top: .3rem;
+  font-weight: 400;
+}
+
+.role-location {
+  color: #595959;
+}
+
+.role-clearance {
+  font-weight: 600;
+  color: var(--slate);
+}
+
+// humanities background, at the bottom of the intro column
+.humanities {
+  border-top: 1px solid var(--dark);
+  padding-top: var(--baseline-sm);
+  margin-top: var(--baseline-sm);
+  a {
+    color: var(--highlight);
+    text-decoration: underline;
+    text-underline-offset: .2em;
+  }
+}
+
 .leadin b {
   font-weight: bold;
   text-transform: uppercase;
@@ -325,13 +366,61 @@ h5{
 }
 
 
+// work list levels: employer / consultant / volunteer (h3), then role or skill (h4)
 .experience h3 {
+  @extend .subhead;
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--slate);
+  line-height: var(--heading-line-height);
+  padding: 1.33rem 0 .33rem 0;
+}
+
+.experience h4 {
   @extend .subhead;
   font-size: var(--text-md);
   color: var( --dark );
   line-height: var(--heading-line-height);
   letter-spacing: .02em;
-  padding: 1.33rem 0 .66rem 0;
+  padding: 1rem 0 .66rem 0;
+}
+
+.experience-section + .experience-section {
+  margin-top: var(--baseline-md);
+  @include breakpoint(large) {
+    margin-top: var(--baseline-lg);
+  }
+}
+
+// a role heading links to its overview page, with its years alongside
+.experience-role {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .25rem .75rem;
+  a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: .2em;
+    &:hover {
+      color: var(--highlight);
+    }
+  }
+}
+
+.experience-role-years {
+  font-weight: 400;
+  color: #595959;
+  letter-spacing: 0;
+}
+
+.experience-blurb {
+  font-size: var(--text-md);
+  max-width: 40rem;
+  margin: 0 0 var(--baseline-sm) 0;
+  @include breakpoint(large) {
+    font-size: var(--text-md);
+  }
 }
 
 // breathing room between work groups

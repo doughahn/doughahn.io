@@ -29,6 +29,6 @@ export default function (Vue, { router, head, isClient }) {
     key: 'og:image',
     property: 'og:image',
     name: 'image',
-    content: 'https://doughahn.io/og-image.jpg'
+    content: 'https://doughahn.io/og-card.jpg'
   })
 }
