@@ -15,7 +15,10 @@ export default {
         slug: 'web-team-lead',
         blurb: 'I lead a full-stack team of five across UX, content strategy, front-end, and full-stack development, with about 15 active projects at a time plus about 40 in maintenance, and budgets from $5K to $300K.',
       },
-      { slug: 'web-editor-and-content-strategist' },
+      {
+        slug: 'web-editor-and-content-strategist',
+        blurb: 'I was embedded with executives in the Director\'s Office, advising on the Lab Director\'s email campaigns and the mission language on the LLNL website.',
+      },
     ],
   },
   consultant: {
