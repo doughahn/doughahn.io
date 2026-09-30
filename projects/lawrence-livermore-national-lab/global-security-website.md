@@ -3,6 +3,7 @@ title: "Led design and content direction for a national security website"
 slug: "led-design-and-content-direction-for-a-national-security-website"
 date: 2025-05-01 # confirm: launch month
 tags: [ 'Lawrence Livermore National Lab' ]
+role: "web-team-lead" # the LLNL role this project sits under on the work list
 years: "2024-25" # confirm
 summary: "Read about how I led design direction and content for one of the Lab's largest directorates, creating something distinctive within tight technical and brand constraints."
 projOutcomes: "A polished Drupal 10 site for LLNL's Global Security Directorate, with design and content direction I led, delivered to a high bar within tight technical and brand constraints."

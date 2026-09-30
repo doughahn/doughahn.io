@@ -3,6 +3,7 @@ title: "Led concept, art direction, and interactivity for a Lab partnerships sit
 slug: "led-concept-art-direction-and-interactivity-for-a-lab-partnerships-site"
 date: 2026-01-01 # confirm: launch month
 tags: [ 'Lawrence Livermore National Lab' ]
+role: "web-team-lead" # the LLNL role this project sits under on the work list
 years: "2025-26" # confirm
 summary: "Read about how I led concept, art direction, and cross-organization delivery for a partner-facing site anchored by original 3D motion graphics."
 projOutcomes: "A partner-facing site for LLNL's Innovation and Partnerships Office with an original 3D motion system, delivered with a partner team through collaboration across multiple departments and technical organizations."

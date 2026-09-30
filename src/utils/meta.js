@@ -3,7 +3,7 @@
 
 export const SITE_URL = 'https://doughahn.io';
 export const SITE_NAME = 'Doug Hahn';
-export const DEFAULT_IMAGE = '/og-image.jpg';
+export const DEFAULT_IMAGE = '/og-card.jpg';
 
 const absolute = path => (/^https?:\/\//.test(path) ? path : SITE_URL + path);
 
