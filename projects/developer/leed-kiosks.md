@@ -29,4 +29,6 @@ To achieve this I worked closely with stakeholders, including executives, to und
 
  ![A sample Page Description Diagram from a kiosk](/kiosk-pdd.webp)
 
-The kiosks helped the buildings earn LEED credits; each of them earned LEED Silver CI certification. You can still find them in the Reserve, Farmers Bank, and the Distillery. 
+The kiosks helped the buildings earn LEED credits; each of them earned LEED Silver CI certification. You can still find them in the Reserve, Farmers Bank, and the Distillery.
+
+My work with LEED goes back to 2012, when the U.S. Green Building Council invited the Bently Reserve to publish one of the first national LEED project profiles. I wrote the profile, interviewing building engineers, architects, and the property manager, and scripted its spotlight video. 

@@ -2,7 +2,7 @@
 title: "Planned divestment: 200% return on income through collaboration"
 slug: "planned-divestment-200-return-on-income-through-collaboration"
 date: 2019-01-01
-tags: [ 'Business Strategist' ]
+tags: [ 'Technical Project Manager', 'Business Strategist' ]
 years: "2022-23"
 summary: "Used modern tech to nurture sound decision-making during a divestment process"
 projOutcomes: "The company realized a 200% return on income in ¼ time frame."
