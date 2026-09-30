@@ -3,7 +3,7 @@ title: "Private Consultant"
 slug: "private-consultant"
 date: 2010-01-01
 tags: [ 'Private Consultant' ]
-years: "2010-23" # confirm: do you still take consulting work? Several consulting entries are marked ongoing
+years: "2010-23"
 summary: "Read about my consulting work across project management, strategy, writing, marketing, and development, for clients from a $100M estate distillery to the U.S. Green Building Council."
 projOutcomes: "40 projects across seven disciplines, including a brand plan for a $100M distillery, a divestment that realized a 200% return on income, and tenant handbooks for $300M of properties."
 projSkills: [ "Technical Project Management", "Business Strategy", "Content Strategy", "Technical Writing", "Web Development", "Marketing", "Writing & Editing" ]
@@ -13,7 +13,7 @@ projSkills: [ "Technical Project Management", "Business Strategy", "Content Stra
 
 As a private consultant, I've worked across seven disciplines: technical project management, business strategy, content strategy, technical writing, development, marketing, and writing and editing.
 
-<!-- TODO: one or two sentences in your own words — how you found and worked with clients (solo, with subcontractors, on retainer?), and whether you still take consulting work. -->
+<!-- TODO: one or two sentences in your own words — how you found and worked with clients (solo, with subcontractors, on retainer?). -->
 
 ### Clients
 

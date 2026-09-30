@@ -3,7 +3,7 @@ title: "Wordpress development"
 slug: "wordpress-development"
 date: 2015-01-01
 tags: [ 'Developer' ]
-years: "2010-"
+years: "2010-23"
 summary: "I've built a variety of Wordpress sites, customizing the CMS for clients"
 projOutcomes: "Custom and template WordPress websites in a variety of domains using minimal plugins."
 projSkills: [ "WordPress", "Frontend", "PhP", "CSS", "JS", "UX", "Theme Customization" ] 
