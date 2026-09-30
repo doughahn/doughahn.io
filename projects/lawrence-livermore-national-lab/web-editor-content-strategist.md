@@ -5,13 +5,13 @@ date: 2024-09-01
 tags: [ 'Lawrence Livermore National Lab' ]
 years: "2023-24"
 summary: "Read about how I worked embedded with executives in the Lab Director's Office, advising on the Director's email campaigns and the mission language on the LLNL website."
-projOutcomes: "Advised the Director's Office on best practices for the Lab Director's email campaigns, and kept the LLNL website's mission language right for the high-level stakeholders of a $3 billion Laboratory."
+projOutcomes: "Advised the Director's Office on best practices for the Lab Director's email campaigns, and kept the LLNL website's mission language right for the Lab's high-level stakeholders."
 projSkills: [ "Content Strategy", "Web Development", "Branding", "Writing", "Editing", "Facilitation", "Executive Communications", "Information Architecture" ]
 ---
 
 ### Embedded with the Director's Office
 
-In this role, I was embedded with executives in the Director's Office. I advised on best practices for email campaigns from the Lab Director, and made sure the LLNL website used the mission language a Laboratory with a $3 billion budget needs to communicate with high-level stakeholders.
+In this role, I was embedded with executives in the Director's Office. I advised on best practices for email campaigns from the Lab Director, and made sure the LLNL website used the mission language the Laboratory needs to communicate with high-level stakeholders.
 
 <!-- TODO: you mentioned finding "new ways forward" — one or two specifics: what did you propose or change, and what came of it? -->
 
