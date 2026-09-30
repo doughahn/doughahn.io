@@ -1,5 +1,6 @@
 ---
 title: "Published a new Wikipedia entry for a Bay Area artist"
+slug: "published-a-new-wikipedia-entry-for-a-bay-area-artist"
 date: 2020-06-01
 years: "2020"
 tags: [ 'Writer/Editor' ]

@@ -1,5 +1,6 @@
 ---
 title: "Wrote mission-critical compliance docs that reduced risk"
+slug: "wrote-mission-critical-compliance-docs-that-reduced-risk"
 date: 2023-01-01
 tags: [ 'Technical Writer' ]
 years: "2023"

@@ -1,5 +1,6 @@
 ---
 title: "Delivered data-driven strategy to hit KPIs for a national brand"
+slug: "delivered-data-driven-strategy-to-hit-kp-is-for-a-national-brand"
 date: 2017-01-01
 tags: [ 'Content Strategist' ]
 years: "2017-23"

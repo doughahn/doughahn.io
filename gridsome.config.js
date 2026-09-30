@@ -12,6 +12,7 @@ module.exports = {
     ]
   },
   siteName: "Doug Hahn",
+  siteUrl: "https://doughahn.io",
   titleTemplate: '%s',
   plugins: [
     {
@@ -30,11 +31,17 @@ module.exports = {
   ],
   templates: {
     Tag: '/tag/:id',
-    Post: "/projects/:title",
+    // URLs come from each post's frontmatter `slug`, so retitling never breaks a link
+    Post: "/projects/:slug",
   },
   transformers: {
     remark: {
-      autolinkClassName: 'icon icon-link heading-anchor',
+      // visible "#" after each heading; labelled by plugins/remark-heading-anchor-labels
+      autolinkHeadings: {
+        behavior: 'append',
+        content: { type: 'text', value: '#' },
+        linkProperties: { className: ['heading-anchor'] },
+      },
       externalLinksTarget: '_blank',
       externalLinksRel: ['noopener', ],
       anchorClassName: 'icon icon-link',
@@ -54,6 +61,10 @@ module.exports = {
             captionClassName: "md-figure-caption",
           },
         ],
+        require("./plugins/remark-strip-comments"),
+        require("./plugins/remark-lazy-images"),
+        require("./plugins/remark-lazy-videos"),
+        require("./plugins/remark-heading-anchor-labels"),
       ],
     },
   },

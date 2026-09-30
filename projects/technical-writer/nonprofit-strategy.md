@@ -1,5 +1,6 @@
 ---
-title: "Developed handbook funding for philanthropy funding 55+ charities"
+title: "Developed an ethical investment handbook for a philanthropy funding 55+ charities"
+slug: "developed-handbook-funding-for-philanthropy-funding-55-charities"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015"

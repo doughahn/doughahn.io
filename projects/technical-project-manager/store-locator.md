@@ -1,5 +1,6 @@
 ---
 title: "Built a SaaS app that kept sales data accurate"
+slug: "built-a-saa-s-app-that-kept-sales-data-accurate"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-23"

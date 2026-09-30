@@ -1,5 +1,6 @@
 ---
 title: "Created the Bently Reserve eBook"
+slug: "created-the-bently-reserve-e-book"
 date: 2010-01-01
 tags: [ 'Writer/Editor' ]
 years: "2010"

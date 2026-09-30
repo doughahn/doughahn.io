@@ -1,5 +1,6 @@
 ---
 title: "Web Editor and Content Strategist"
+slug: "web-editor-and-content-strategist"
 date: 2024-09-01
 tags: [ 'Lawrence Livermore National Lab' ]
 years: "2023-24"

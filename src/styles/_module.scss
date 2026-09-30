@@ -28,16 +28,23 @@
     color: var( --dark );
     border-color: transparent;
   }
+  &:focus-visible {
+    background-color: var( --light );
+    color: var( --dark );
+  }
   @include breakpoint(large) {
     font-size: var(--text-lg);
     margin-right:3rem; 
   }
 }
 
-h1 {
+// "Doug Hahn" in the header: the page's h1 on home and /projects,
+// a plain <p> on pages that have their own title
+.site-title {
   @extend .heading;
   font-size: var(--text-xl);
   line-height: var(--heading-line-height);
+  margin: 0;
   padding-left:1rem;
   color: var( --light );
   @include breakpoint(large) {
@@ -65,9 +72,31 @@ h2 {
   color: var(--slate);
   padding:.66rem 0 0 0;
   margin-bottom: 0;
-  font0size: var(--text-xs);
+  font-size: var(--text-md);
   @include breakpoint(large) {
   }
+}
+
+// case-study and utility page titles (h1) keep the section-title look
+.page-title {
+  @extend h2;
+}
+
+// 404 / Applications subtitle, styled like an h3
+.subtitle {
+  @extend h3;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 h2:after {
@@ -122,7 +151,8 @@ h2.section-heading {
   // cursor: pointer;
   font-size: .9375rem;
   transition-duration: var( --transition );
-  &:hover {
+  &:hover,
+  &:focus-visible {
     background-color: var( --darkBlue );
     color: var( --light );
     border-color: transparent;
@@ -200,6 +230,34 @@ article h3 {
   white-space: nowrap;
 }
 
+// "#" link after case-study headings: shown on hover or keyboard focus
+.heading-anchor {
+  @extend .subhead;
+  margin-left: .35em;
+  font-size: .7em;
+  color: var(--slate);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity var(--transition) ease-in-out;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h3:hover .heading-anchor,
+h4:hover .heading-anchor,
+h5:hover .heading-anchor,
+.heading-anchor:focus-visible {
+  opacity: 1;
+}
+
+// no hover on touch screens, so keep the anchor faintly visible
+@media (hover: none) {
+  .heading-anchor {
+    opacity: .6;
+  }
+}
+
 h4 {
   @extend .heading;
   position:relative;
@@ -209,20 +267,26 @@ h4 {
   padding: 1.33rem 0;
 }
 
-h4.leadin-subhead {
+h3.leadin-subhead {
   @extend .subhead;
   font-size: var(--text-md);
+  line-height: var(--heading-line-height);
+  color: var(--dark);
   padding: .33rem 0 1rem 0;
   @include breakpoint(xlarge) {
     font-size: var(--text-lg);
   }
 }
 
-.projectInfo h4 {
+.projectInfo h2.project-label {
   @extend .subhead;
   font-size: var(--text-lg);
+  line-height: var(--heading-line-height);
   padding: 0;
   color:var(--slate);
+  &:after {
+    display: none;
+  }
 }
 
 h5{
@@ -261,7 +325,7 @@ h5{
 }
 
 
-.experience h4 {
+.experience h3 {
   @extend .subhead;
   font-size: var(--text-md);
   color: var( --dark );
@@ -285,6 +349,15 @@ h5{
   }
 }
 
+.experience-list {
+  display: flex;
+  flex-direction: column;
+  width:100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 .experience-item a {
   display: flex;
   flex-direction: row;
@@ -295,13 +368,13 @@ h5{
   transition: all var(--transition) ease-in-out; 
 }
 
-.experience-item dd {
-  text-decoration:underline;
-}
-
-.experience-item a:hover {
+.experience-item a:hover,
+.experience-item a:focus-visible {
   background-color: $ocean1;
   color: var( --light );
+  .experience-year {
+    color: inherit;
+  }
 }
 
 .experience-item a.active {
@@ -310,39 +383,32 @@ h5{
     position: relative;
 }
 
-.experience-item a.active dd {
+.experience-item a.active .experience-title {
   text-decoration:none;
 }
 
-dl {
-  display: flex;
-  flex-direction: column;
-  width:100%;
-  position:relative;
-}
-
-dt {
+.experience-year {
   @extend .subhead;
+  flex: none;
   width: 15%;
   font-size: var(--text-md);
   line-height: var(--body-line-height);
   text-align:right;
   margin-right:1rem;
-  color: #959595;
+  // 7:1 on white, 4.7:1 on the active-row gray
+  color: #595959;
   @include breakpoint(large) {
     width: 6rem; 
   }
 }
 
-dd {
+.experience-title {
   @extend .bodyFont;
   width:85%;
   max-width:50rem;
   font-size: var(--text-lg);
   line-height: var(--baseline-md);
-  @include breakpoint(xxlarge) {
-    display:block;
-  }
+  text-decoration:underline;
 }
 
 figure {
@@ -480,24 +546,16 @@ p em {
   font-style: italic;
 }
 
+// underlined at rest so links don't rely on color alone
 p a {
-  display: inline-block;
-  position: relative;
-  text-decoration: none; 
   color: var(--highlight);
-}
-
-p a::after {
-  content: "";
-  display: block;
-  width: 0;
-  height: 2px;
-  background: var(--highlight);
-  transition: width var(--transition) ease-in-out; 
-}
-
-p a:hover::after {
-  width: 100%; /* expand border to full width on hover */
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .2em;
+  transition: text-decoration-thickness var(--transition) ease-in-out;
+  &:hover {
+    text-decoration-thickness: 2px;
+  }
 }
 
 p em a {
@@ -559,7 +617,8 @@ footer {
     color: var( --light );
     text-decoration: underline;
     transition: all var(--transition) ease-in-out;
-    &:hover {
+    &:hover,
+    &:focus-visible {
       background-color: var(--light);
       color: var(--dark);
       text-decoration: none;
@@ -576,5 +635,34 @@ footer {
   @include breakpoint(large) {
     margin: 2.66rem 0 2.66rem  -15%;
     min-width:130%; 
+  }
+}
+
+// keyboard focus: the reset strips outlines, so restore a visible ring
+:focus-visible {
+  outline: 2px solid var(--highlight);
+  outline-offset: 3px;
+}
+
+.header-area :focus-visible,
+footer :focus-visible {
+  outline-color: var(--light);
+}
+
+// respect the OS "reduce motion" setting
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+  figure img:hover {
+    transform: none;
   }
 }

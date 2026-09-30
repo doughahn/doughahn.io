@@ -1,5 +1,6 @@
 ---
 title: "Failed fast on a point of sale asset app"
+slug: "failed-fast-on-a-point-of-sale-asset-app"
 date: 2021-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2021"

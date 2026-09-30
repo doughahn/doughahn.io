@@ -1,5 +1,6 @@
 ---
 title: "Engineered docs that reduced risk for a time clock app"
+slug: "engineered-docs-that-reduced-risk-for-a-time-clock-app"
 date: 2022-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-22"

@@ -1,5 +1,6 @@
 ---
 title: "Built a brand book for a premier venue"
+slug: "built-a-brand-book-for-a-premier-venue"
 date: 2015-01-01
 tags: [ 'Marketer' ]
 years: "2015"

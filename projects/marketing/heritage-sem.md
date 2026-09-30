@@ -1,5 +1,6 @@
 ---
 title: "Optimized the digital footprint of a large estate distiller"
+slug: "optimized-the-digital-footprint-of-a-large-estate-distiller"
 date: 2020-01-01
 tags: [ 'Marketer' ]
 years: "2020-23"

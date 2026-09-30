@@ -1,5 +1,6 @@
 ---
 title: "Built a safe fleet for whaleboats on the bay"
+slug: "built-a-safe-fleet-for-whaleboats-on-the-bay"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2022-"

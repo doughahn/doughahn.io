@@ -1,5 +1,6 @@
 ---
 title: "Built a minimal site meeting the needs of a historic Nob Hill property"
+slug: "built-a-minimal-site-meeting-the-needs-of-a-historic-nob-hill-property"
 date: 2023-01-01
 tags: [ 'Developer' ]
 years: "2023-"

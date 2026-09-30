@@ -1,5 +1,6 @@
 ---
 title: "Built a brand: results-driven plan for a disruptive distillery"
+slug: "built-a-brand-results-driven-plan-for-a-disruptive-distillery"
 date: 2014-01-01
 tags: [ 'Business Strategist' ]
 years: "2017"

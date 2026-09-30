@@ -1,5 +1,6 @@
 ---
 title: "Copy edited and digitized a scientific textbook"
+slug: "copy-edited-and-digitized-a-scientific-textbook"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
 years: "2014"

@@ -1,5 +1,6 @@
 ---
 title: "Drupal development"
+slug: "drupal-development"
 date: 2015-01-01
 tags: [ 'Developer' ]
 years: "2010-2016"

@@ -1,5 +1,6 @@
 ---
 title: "Created developer docs that streamlined onboarding"
+slug: "created-developer-docs-that-streamlined-onboarding"
 date: 2016-02-01
 tags: [ 'Technical Writer' ]
 years: "2014-18"

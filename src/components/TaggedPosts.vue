@@ -2,44 +2,46 @@
   <div id="portfolioNav">
     <h2 class="section-heading">My Work</h2>
     <div v-for="tag in orderedTags" :key="tag.id" class="experience-domain">
-      <h4 :id="formatTagId(tag.id)">{{ tag.id }}</h4>
-      <dl>
-        <span v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
+      <h3 :id="formatTagId(tag.id)">{{ tag.id }}</h3>
+      <ul class="experience-list">
+        <li v-for="post in getPostsByTag(tag.id)" :key="post.node.id" class="experience-item">
           <g-link :to="post.node.path">
-            <dt>{{ post.node.years }}</dt>
-            <dd>{{ post.node.title }}</dd>
+            <span class="experience-year">{{ formatYears(post.node.years) }}</span>
+            <span class="experience-title">{{ post.node.title }}</span>
           </g-link>
-        </span>
-      </dl>
+        </li>
+      </ul>
     </div>
     <hr>
     <div class="experience-domain">
-      <h4>Education &amp; Certifications</h4>
-      <dl>
-        <span class="experience-item">
+      <h3>Education &amp; Certifications</h3>
+      <ul class="experience-list">
+        <li class="experience-item">
           <a href="https://www.credly.com/badges/6b56b009-4868-4c38-97e0-53b29df69449/public_url">
-            <dt>2021</dt> 
-            <dd>Project Management Professional (PMP) #3130172</dd>
+            <span class="experience-year">2021</span>
+            <span class="experience-title">Project Management Professional (PMP) #3130172</span>
           </a>
-        </span>
-        <span class="experience-item">
+        </li>
+        <li class="experience-item">
           <a href="https://www.sarahlawrence.edu/writing-mfa/">
-            <dt>2006</dt> 
-            <dd>Master of Fine Arts, Creative Writing from Sarah Lawrence</dd>
+            <span class="experience-year">2006</span>
+            <span class="experience-title">Master of Fine Arts, Creative Writing from Sarah Lawrence</span>
           </a>
-        </span>
-        <span class="experience-item">
+        </li>
+        <li class="experience-item">
           <a href="https://www.luc.edu/">
-            <dt>2002</dt> 
-            <dd>Bachelor of Arts, English from Loyola University</dd>
+            <span class="experience-year">2002</span>
+            <span class="experience-title">Bachelor of Arts, English from Loyola University</span>
           </a>
-        </span>
-      </dl>
+        </li>
+      </ul>
     </div>
   </div>
 </template>
 
 <script>
+import { formatYears, compareYearsDesc } from '@/utils/years';
+
 export default {
   name: 'TaggedPosts',
   props: {
@@ -50,27 +52,23 @@ export default {
   },
   computed: {
     orderedTags() {
-      // Only return tags that are in the tagOrder array, in the specified order
-      return this.tagOrder
-        .map(orderedTagId => {
-          const foundTag = this.$page.allTag.edges
-            .find(edge => edge.node.id === orderedTagId);
-          return foundTag ? foundTag.node : null;
-        })
-        .filter(tag => tag !== null);
+      // Tags in tagOrder come first, in that order; any unlisted tags follow
+      // so a renamed or new tag never silently disappears from the list
+      const tags = this.$page.allTag.edges.map(edge => edge.node);
+      const listed = this.tagOrder
+        .map(orderedTagId => tags.find(tag => tag.id === orderedTagId))
+        .filter(Boolean);
+      const unlisted = tags.filter(tag => !this.tagOrder.includes(tag.id));
+      return [...listed, ...unlisted];
     }
   },
   methods: {
     getPostsByTag(tag) {
       return this.$page.allPost.edges
         .filter(edge => edge.node.tags.find(t => t.id === tag))
-        .sort((a, b) => {
-          // Sort by years descending (newest first)
-          const yearA = parseInt(a.node.years);
-          const yearB = parseInt(b.node.years);
-          return yearB - yearA;
-        });
+        .sort((a, b) => compareYearsDesc(a.node.years, b.node.years));
     },
+    formatYears,
     formatTagId(id) {
       return id.replace(/\s+/g, '-').toLowerCase();
     },

@@ -1,5 +1,6 @@
 ---
 title: "Collaboratively launched a biofuels startup"
+slug: "collaboratively-launched-a-biofuels-startup"
 date: 2013-01-01
 tags: [ 'Content Strategist' ]
 years: "2013-16"

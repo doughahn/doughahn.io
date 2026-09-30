@@ -1,5 +1,6 @@
 ---
 title: "Content for Bently Ranch’s sustainable pivot"
+slug: "content-for-bently-ranch-s-sustainable-pivot"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
 years: "2014"

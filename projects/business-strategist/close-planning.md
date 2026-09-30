@@ -1,5 +1,6 @@
 ---
 title: "Planned divestment: 200% return on income through collaboration"
+slug: "planned-divestment-200-return-on-income-through-collaboration"
 date: 2019-01-01
 tags: [ 'Business Strategist' ]
 years: "2022-23"

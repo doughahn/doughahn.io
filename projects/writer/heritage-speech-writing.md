@@ -1,5 +1,6 @@
 ---
 title: "Aligned speech & PR for Bently Heritage"
+slug: "aligned-speech-and-pr-for-bently-heritage"
 date: 2013-01-01
 years: "2013"
 tags: [ 'Writer/Editor' ]
