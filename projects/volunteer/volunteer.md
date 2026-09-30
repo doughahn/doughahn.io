@@ -4,7 +4,7 @@ slug: "volunteer"
 date: 2006-01-01
 tags: [ 'Volunteer' ]
 years: "2006-"
-summary: "Read about the communities I volunteer for, from whaleboat rowing on San Francisco Bay to poetry, project management, and tabletop gaming."
+summary: "Read about the communities I volunteer for, from whaleboat rowing on San Francisco Bay to poetry and project management."
 projOutcomes: "Helped grow the Embarcadero Rowing Club from about 18 members to more than 70, built the apps and websites two rowing organizations run on, and have published a poetry journal since 2006."
 projSkills: [ "Board Leadership", "Recruitment", "Program Development", "Community Building", "Volunteer Management", "Web Development", "Editing" ]
 ---
@@ -21,5 +21,4 @@ I founded [*Sink Review*](/projects/designing-and-developing-a-digital-poetry-ma
 
 ### Community
 
-1. With the Project Management Institute's San Francisco Bay Area chapter, I [build community events for its sustainability program](/projects/building-sustainable-community-with-fellow-project-managers/), both virtual and in person.
-1. From 2018 to 2022, I [fostered an inclusive tabletop gaming community](/projects/fostered-an-inclusive-gaming-community/) in San Francisco, recruiting and training volunteers to run free public games at local shops.
+With the Project Management Institute's San Francisco Bay Area chapter, I [build community events for its sustainability program](/projects/building-sustainable-community-with-fellow-project-managers/), both virtual and in person.

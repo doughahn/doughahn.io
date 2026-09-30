@@ -27,7 +27,6 @@ export default {
     slug: 'private-consultant', // overview page the heading links to
     skillOrder: [
       'Technical Project Manager',
-      'Business Strategist',
       'Content Strategist',
       'Technical Writer',
       'Developer',
