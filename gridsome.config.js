@@ -36,7 +36,12 @@ module.exports = {
   },
   transformers: {
     remark: {
-      autolinkClassName: 'icon icon-link heading-anchor',
+      // visible "#" after each heading; labelled by plugins/remark-heading-anchor-labels
+      autolinkHeadings: {
+        behavior: 'append',
+        content: { type: 'text', value: '#' },
+        linkProperties: { className: ['heading-anchor'] },
+      },
       externalLinksTarget: '_blank',
       externalLinksRel: ['noopener', ],
       anchorClassName: 'icon icon-link',
@@ -56,8 +61,10 @@ module.exports = {
             captionClassName: "md-figure-caption",
           },
         ],
+        require("./plugins/remark-strip-comments"),
         require("./plugins/remark-lazy-images"),
         require("./plugins/remark-lazy-videos"),
+        require("./plugins/remark-heading-anchor-labels"),
       ],
     },
   },

@@ -230,6 +230,34 @@ article h3 {
   white-space: nowrap;
 }
 
+// "#" link after case-study headings: shown on hover or keyboard focus
+.heading-anchor {
+  @extend .subhead;
+  margin-left: .35em;
+  font-size: .7em;
+  color: var(--slate);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity var(--transition) ease-in-out;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h3:hover .heading-anchor,
+h4:hover .heading-anchor,
+h5:hover .heading-anchor,
+.heading-anchor:focus-visible {
+  opacity: 1;
+}
+
+// no hover on touch screens, so keep the anchor faintly visible
+@media (hover: none) {
+  .heading-anchor {
+    opacity: .6;
+  }
+}
+
 h4 {
   @extend .heading;
   position:relative;

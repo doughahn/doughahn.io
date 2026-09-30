@@ -10,7 +10,7 @@ projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 
 ### A tailored content experience for Bently Heritage
 
-I developed the Bently Heritage website following a content-first approach, after developing the client&rsquo;s [content strategy](/projects/heritage-content-strategy) to drive the site design, IA (information architecture), and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
+I developed the Bently Heritage website following a content-first approach, after developing the client&rsquo;s [content strategy](/projects/delivered-data-driven-strategy-to-hit-kp-is-for-a-national-brand/) to drive the site design, IA (information architecture), and management tools. To achieve this I developed a 100% custom site using the Craft content management system, CSS, JS, and various APIs such as Tock for tasting room reservations.
 
 <figure>
 <video autoplay loop muted playsinline poster="/mill-slide-cover.webp">
