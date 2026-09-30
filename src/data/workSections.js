@@ -9,6 +9,7 @@ export default {
   employer: {
     tag: 'Lawrence Livermore National Lab',
     title: 'Lawrence Livermore National Laboratory',
+    shortTitle: 'LLNL', // job headings read "LLNL: Web Team Lead"
     roles: [
       {
         slug: 'web-team-lead',

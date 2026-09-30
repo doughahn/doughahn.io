@@ -2,13 +2,15 @@
   <div id="portfolioNav">
     <h2 class="section-heading">My Work</h2>
 
-    <section class="experience-section">
-      <h3 :id="formatTagId(sections.employer.tag)">{{ sections.employer.title }}</h3>
-      <div v-for="role in employerRoles" :key="role.slug" class="experience-domain">
-        <h4 class="experience-role">
-          <g-link v-if="role.post" :to="role.post.path">{{ role.post.title }}</g-link>
+    <!-- one heading per job at the employer, newest first, so growth reads top-down -->
+    <section class="experience-section" :id="formatTagId(sections.employer.tag)">
+      <div v-for="role in employerRoles" :key="role.slug" class="experience-job">
+        <h3 class="experience-role">
+          <g-link v-if="role.post" :to="role.post.path">
+            <abbr :title="sections.employer.title">{{ sections.employer.shortTitle }}</abbr>: {{ role.post.title }}
+          </g-link>
           <span v-if="role.post" class="experience-role-years">{{ formatYears(role.post.years) }}</span>
-        </h4>
+        </h3>
         <p v-if="role.blurb" class="experience-blurb">{{ role.blurb }}</p>
         <ul v-if="role.projects.length" class="experience-list">
           <li v-for="post in role.projects" :key="post.id" class="experience-item">

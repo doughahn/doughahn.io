@@ -408,6 +408,15 @@ h5{
   }
 }
 
+.experience-role abbr {
+  text-decoration: none;
+}
+
+// separate jobs at the same employer
+.experience-job + .experience-job {
+  margin-top: var(--baseline-sm);
+}
+
 .experience-role-years {
   font-weight: 400;
   color: #595959;
