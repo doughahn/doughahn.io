@@ -1,0 +1,150 @@
+# Example config: copy to resume.config.yaml (git-ignored) and fill in your details.
+# Fixed resume details. Claude tailors the summary, skills, and bullets;
+# everything else here is used exactly as written.
+
+name: Doug Hahn
+credentials: PMP, MFA
+font: Lato            # falls back to Word's default if Lato isn't installed
+contact:
+  - San Francisco, CA
+  - doughahn.io
+  - in/douglas-hahn
+  - doughahn@gmail.com
+  - 555-555-5555        # your phone number
+# Your voice. Claude rewrites this for each job but keeps the tone.
+summary: >-
+  I'm a project manager with skill in development, content design, documentation,
+  and communication. My trifecta is transparency, compassion, and hands-on experience.
+
+# Pool Claude chooses from (it also sees projSkills from each case study).
+skills:
+  - Program & Project Management (PMP)
+  - Product Management
+  - Stakeholder & Executive Communication
+  - Content Design & Strategy
+  - Information Architecture & Audience Research
+  - Technical & Marketing Writing
+  - Speechwriting
+  - Instructional Design
+  - Facilitation
+  - Email Programs (Mailchimp, GDPR consent design)
+  - Analytics (Matomo)
+  - Liferay DXP, Drupal, WordPress
+  - SharePoint & Power Automate
+  - React, TypeScript, Python
+  - AWS GovCloud, Docker
+  - Front-end Web Design
+  - Figma, Confluence, Cvent
+
+# Sections render in this order. Each role draws on:
+#   bullets:  your existing bullets (Claude may pick, trim, or rephrase them)
+#   projects: case studies from ../projects — "folder/*" or "folder/file.md"
+#             (exact paths are claimed before folders, so no project appears twice)
+# Roles with no bullets are skipped unless alwaysShow: true.
+sections:
+  - heading: Experience
+    roles:
+      - title: Program Manager & Web Team Lead
+        org: Lawrence Livermore National Laboratory
+        location: Livermore
+        years: 2024–present
+        maxBullets: 6
+        projects:
+          - lawrence-livermore-national-lab/web-team-lead.md
+          - lawrence-livermore-national-lab/global-security-website.md
+          - lawrence-livermore-national-lab/ipo-website.md
+          - lawrence-livermore-national-lab/ai-enablement.md
+          - lawrence-livermore-national-lab/mailing-list-automation.md
+          - lawrence-livermore-national-lab/web-process-improvements.md
+
+      - title: Web Editor & Content Strategist
+        org: Lawrence Livermore National Laboratory
+        location: Livermore
+        years: 2023–2024
+        maxBullets: 3
+        projects:
+          - lawrence-livermore-national-lab/web-editor-content-strategist.md
+
+      - title: Development Project Manager
+        org: Private Consultant
+        location: San Francisco
+        years: 2015–2023
+        maxBullets: 4
+        bullets:
+          - Guided cross-functional teams across 5 departments to build $80k app that customized branded assets for national sales, increasing sales by 7%.
+          - Served as product owner to develop a $30k VR tour of a $100MM distillery complex during pandemic, driving brand awareness to meet marketing analytics benchmarks.
+          - Synchronized communication, requirements, and documentation between HR, legal, management, and senior engineer stakeholders to ensure requirements were met for multi-lingual time clock application suite, with a 150K budget. Documentation was used through end of product lifecycle by engineering and HR team (2015-2022).
+          - Aligned stakeholders as product owner of marketing compliance app in the national spirits market, tailoring processes based on real workflow to ensure assets follow state and federal regulations.
+          - Navigated senior leadership, marketing, hospitality, and engineers through rapid launch of a $60k MVP eCommerce website during pandemic to re-start on-premise sales.
+        projects:
+          - technical-project-manager/*
+          - technical-writer/time-clock-docs.md
+          - technical-writer/compliance-application.md
+
+      - title: Strategy & Marketing Project Manager
+        org: Private Consultant
+        location: San Francisco
+        years: 2010–2023
+        maxBullets: 4
+        bullets:
+          - Acquired buy-in and led development of a cross-functional, data-driven content strategy for Bently Heritage ($100k budget). Output included refactored website, brand guidelines, long-term engagement plan, and digital marketing strategy.
+          - Facilitated collaborative brand identity sessions based on qualitative research to produce overarching identity guidelines and strategy documentation for a house of brands.
+          - Led design and development of dozens of websites; budgets from $5K to $50K, including the launch of Bently Heritage, a $100MM investment.
+          - Created tenant handbook for high-end commercial properties, including the Bently Reserve in San Francisco and 240 Stockton — recently sold for net $225MM.
+        projects:
+          - business-strategist/*
+          - content-strategist/*
+          - marketing/*
+          - writer/*
+          - technical-writer/*
+          - developer/*
+
+  - heading: Volunteer Leadership
+    roles:
+      - title: Chairman of the Board & Volunteer Developer
+        org: Embarcadero Rowing Club
+        location: San Francisco
+        years: 2023–present
+        maxBullets: 2
+        projects:
+          - volunteer/erc-website.md
+          - volunteer/erc-events-app.md
+
+      - title: Board Member & Volunteer Developer
+        org: Bay Area Whaleboat Rowing Association
+        location: San Francisco Bay
+        years: 2024–2026
+        maxBullets: 2
+        projects:
+          - volunteer/bawra-website.md
+          - volunteer/bawra-racing-system.md
+          - volunteer/bawra.md
+
+      - title: Program Manager, Sustainability Program   # confirm: your title in the chapter
+        org: PMI San Francisco Bay Area Chapter
+        location: San Francisco
+        years: 2022–present
+        maxBullets: 2
+        bullets:
+          - Built virtual and in-person community events for the chapter's sustainability program, sourcing expert speakers and running event operations.
+          - Refined and automated event processes with QR codes, Google Forms, and Google Sheets.
+        projects:
+          - volunteer/pmi-sustainability.md
+
+      - title: Founder & Editor
+        org: Sink Review, an online poetry journal
+        location: ""
+        years: 2006–present
+        maxBullets: 1
+        alwaysShow: true
+        projects:
+          - volunteer/sink-review.md
+
+  - heading: Education & Certification
+    items:
+      - title: MFA in Creative Writing
+        detail: Sarah Lawrence College
+      - title: BA in English
+        detail: Loyola University
+      - title: Project Management Professional (PMP)
+        detail: Project Management Institute

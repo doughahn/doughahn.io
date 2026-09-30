@@ -1,0 +1,11 @@
+# Personal details (phone number) — never commit. Copy resume.config.example.yaml to start.
+resume.config.yaml
+
+# Generated resumes and their content files
+*.docx
+*.content.json
+
+# Job descriptions
+jobs/
+
+node_modules/
