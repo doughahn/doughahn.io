@@ -4,6 +4,7 @@ slug: "crafted-bespoke-solutions-for-100-mm-distillery-driving-engagement"
 date: 2023-01-01
 tags: [ 'Developer' ]
 years: "2017-23"
+stage: "growth" # consulting work-list group
 projOutcomes: "A new website with features that matched the business’s content needs, their brand look and feel, and had features like rich content and store locators that let the marketing team keep their hands on the steering wheel."
 projSkills: [ "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "API"  ]
 ---

@@ -54,6 +54,8 @@
           }
           years
           role
+          stage
+          archived
         }
       }
     }

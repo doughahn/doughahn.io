@@ -4,6 +4,7 @@ slug: "delivered-an-info-rich-virtual-tour-that-built-brand-awareness"
 date: 2019-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2019"
+archived: true # kept online, left off the work list
 summary: "Read about how I helped a team achieve success by progressively elaborating on an info-rich virtual tour."
 projOutcomes: "An info-rich virtual tour that increased the brand’s positioning during COVID lockdowns."
 projSkills: [ "Project Management", "Vendor Procurement", "Requirements Definition", "Wireframing", "Communication", "Stakeholder Management", "Task Management", "Quality Control", "Scheduling" ]

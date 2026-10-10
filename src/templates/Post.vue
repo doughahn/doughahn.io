@@ -6,7 +6,7 @@
           <p class="breadcrumbs">
             <g-link to="/">Home</g-link> → 
             <g-link to="/projects/">Projects</g-link> →
-            <a :href="`/projects/#${formatTagId($page.post.tags.length > 0 ? $page.post.tags[0].id : '')}`">{{ $page.post.tags.length > 0 ? $page.post.tags[0].id : '' }}</a>
+            <a :href="`/projects/#${breadcrumb.id}`">{{ breadcrumb.label }}</a>
           </p>
           <h1 class="page-title">{{ $page.post.title }}</h1>
           <div class="projectInfo">
@@ -41,6 +41,7 @@
 
 <script>
 import pageMeta from '@/utils/meta';
+import sections, { stageId } from '@/data/workSections';
 import TaggedPosts from '@/components/TaggedPosts.vue';
 import AboutAside from '@/components/AboutAside.vue';
 
@@ -49,6 +50,23 @@ export default {
   components: {
     TaggedPosts,
     AboutAside
+  },
+  computed: {
+    // the work-list group this post sits in: its LLNL or volunteer section, or,
+    // for consulting, its stage (archived posts go to the consultant heading)
+    breadcrumb() {
+      const post = this.$page.post;
+      const tag = post.tags.length > 0 ? post.tags[0].id : '';
+      if (tag === sections.employer.tag || tag === sections.volunteer.tag) {
+        return { id: this.formatTagId(tag), label: tag };
+      }
+      const { consultant } = sections;
+      const listed = !post.archived && consultant.stages.some(stage => stage.key === post.stage);
+      return {
+        id: listed ? stageId(post.stage) : this.formatTagId(consultant.tag),
+        label: consultant.title,
+      };
+    },
   },
   metaInfo() {
     const post = this.$page.post;
@@ -85,6 +103,8 @@ export default {
       projOutcomes
       projSkills
       projImg
+      stage
+      archived
     }
     allPost {
       edges {
@@ -102,6 +122,8 @@ export default {
           }
           years
           role
+          stage
+          archived
         }
       }
     }

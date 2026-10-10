@@ -4,6 +4,7 @@
 
     <!-- one heading per job at the employer, newest first, so growth reads top-down -->
     <section class="experience-section" :id="formatTagId(sections.employer.tag)">
+      <p v-if="sections.employer.intro" class="experience-blurb">{{ sections.employer.intro }}</p>
       <div v-for="role in employerRoles" :key="role.slug" class="experience-job">
         <h3 class="experience-role">
           <g-link v-if="role.post" :to="role.post.path">
@@ -29,8 +30,9 @@
         <template v-else>{{ sections.consultant.title }}</template>
         <span v-if="overview.consultant" class="experience-role-years">{{ formatYears(overview.consultant.years) }}</span>
       </h3>
-      <div v-for="group in consultantGroups" :key="group.tag" class="experience-domain">
-        <h4 :id="formatTagId(group.tag)">{{ group.tag }}</h4>
+      <p v-if="sections.consultant.blurb" class="experience-blurb">{{ sections.consultant.blurb }}</p>
+      <div v-for="group in consultantGroups" :key="group.id" class="experience-domain">
+        <h4 :id="group.id">{{ group.title }}</h4>
         <ul class="experience-list">
           <li v-for="post in group.posts" :key="post.id" class="experience-item">
             <g-link :to="post.path">
@@ -88,7 +90,7 @@
 </template>
 
 <script>
-import sections from '@/data/workSections';
+import sections, { stageId } from '@/data/workSections';
 import { formatYears, compareYearsDesc } from '@/utils/years';
 
 const byYearsDesc = (a, b) => compareYearsDesc(a.years, b.years);
@@ -106,7 +108,8 @@ export default {
       return this.$page.allPost.edges.map(edge => edge.node);
     },
     posts() {
-      return this.allPosts.filter(post => !overviewSlugs.includes(slugOf(post)));
+      return this.allPosts.filter(post =>
+        post.archived !== true && !overviewSlugs.includes(slugOf(post)));
     },
     overview() {
       const find = slug => this.allPosts.find(post => slugOf(post) === slug);
@@ -134,16 +137,20 @@ export default {
     consultantGroups() {
       const excluded = [sections.employer.tag, sections.consultant.tag, sections.volunteer.tag];
       const consultantPosts = this.posts.filter(post => !excluded.includes(this.primaryTag(post)));
-      const tags = [...new Set(consultantPosts.map(this.primaryTag))];
-      const order = sections.consultant.skillOrder;
-      const ordered = [
-        ...order.filter(tag => tags.includes(tag)),
-        ...tags.filter(tag => !order.includes(tag)),
-      ];
-      return ordered.map(tag => ({
-        tag,
-        posts: consultantPosts.filter(post => this.primaryTag(post) === tag).sort(byYearsDesc),
+      const { stages } = sections.consultant;
+      const stageKeys = stages.map(stage => stage.key);
+      const groups = stages.map(stage => ({
+        id: stageId(stage.key),
+        title: stage.title,
+        posts: consultantPosts.filter(post => post.stage === stage.key).sort(byYearsDesc),
       }));
+      // a post without a known stage still shows, at the end
+      groups.push({
+        id: stageId('other'),
+        title: 'Other',
+        posts: consultantPosts.filter(post => !stageKeys.includes(post.stage)).sort(byYearsDesc),
+      });
+      return groups.filter(group => group.posts.length);
     },
     volunteerPosts() {
       return this.posts
@@ -177,6 +184,8 @@ query Post {
         }
         years
         role
+        stage
+        archived
       }
     }
   }

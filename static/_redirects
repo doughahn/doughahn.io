@@ -1,0 +1,8 @@
+# Netlify redirects. Gridsome copies static/ to the build root.
+# Merged case studies: each old URL points at the entry that absorbed it.
+/projects/wrote-launch-speeches-and-press-releases-that-earned-8-million-media-impressions/  /projects/launched-a-national-spirits-brand/  301
+/projects/wrote-launch-speeches-and-press-releases-that-earned-8-million-media-impressions   /projects/launched-a-national-spirits-brand/  301
+/projects/aligned-leadership-to-steer-donations-during-pandemic/  /projects/steered-a-distillery-through-two-pandemic-pivots/  301
+/projects/aligned-leadership-to-steer-donations-during-pandemic   /projects/steered-a-distillery-through-two-pandemic-pivots/  301
+/projects/rapid-e-commerce-pivot-that-enhanced-sales/  /projects/steered-a-distillery-through-two-pandemic-pivots/  301
+/projects/rapid-e-commerce-pivot-that-enhanced-sales   /projects/steered-a-distillery-through-two-pandemic-pivots/  301

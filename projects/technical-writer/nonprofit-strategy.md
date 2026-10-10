@@ -4,6 +4,7 @@ slug: "developed-handbook-funding-for-philanthropy-funding-55-charities"
 date: 2015-01-01
 tags: [ 'Technical Writer' ]
 years: "2015"
+archived: true # kept online, left off the work list
 summary: "Ethical handbook to guide investment strategy"
 projOutcomes: "Funding 55 charities and counting thanks to an aligned board."
 projSkills: [ "Stakeholder Management", "Conflict Resolution", "Documentation", "Facilitation", "Presentation to executives", "Technical Writing", "Research", "Web Development", "Executive Communication" ]

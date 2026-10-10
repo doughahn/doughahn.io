@@ -4,6 +4,7 @@ slug: "engineered-docs-that-reduced-risk-for-a-time-clock-app"
 date: 2022-01-01
 tags: [ 'Technical Writer' ]
 years: "2015-22"
+archived: true # kept online, left off the work list
 summary: "Multi-state custom docs for a custom time clock"
 projOutcomes: "Robust documentation website used to create and perform continuous quality control on a custom time clock, adhering to HR guidelines in multiple states."
 projSkills: [ "Technical Writing", "Collaboration", "Documentation", "Facilitation", "Problem-Solving", "Research", "Web Development", "Static Sites", "Root Cause Analysis" ]

@@ -4,6 +4,7 @@ slug: "wrote-mission-critical-compliance-docs-that-reduced-risk"
 date: 2023-01-01
 tags: [ 'Technical Writer' ]
 years: "2023"
+archived: true # kept online, left off the work list
 summary: "Documented scope, requirements, and function of compliance SaaS app"
 projOutcomes: "A searchable website and PDF that tracked the change log and processes for a distillery application used to generate reports and meet requirements set out by the TTB (Alcohol and Tobacco Tax and Trade Bureau)."
 projSkills: [ "Technical Writing", "Static Generators (MkDocs)", "Requirements Definition", "Change Management", "Communication", "Process Mapping" ]

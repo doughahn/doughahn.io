@@ -33,13 +33,14 @@ node build-resume.mjs --jd jobs/some-job.txt --no-ai          # no API call; ran
 node build-resume.mjs --from-json resume-some-job.content.json   # re-render after editing the JSON
 ```
 
-Options: `--out <file.docx>`, `--config <yaml>`, `--projects <dir>`, `--model <id>` (or set `RESUME_MODEL`).
+Options: `--out <file.docx>`, `--config <yaml>`, `--projects <dir>`, `--model <id>` (or set `RESUME_MODEL`), `--include-archived`.
 
 ## How it decides what goes in
 
 - **Fixed:** name, credentials, contact, role titles, organizations, dates, and education come from `resume.config.yaml` exactly as written.
 - **Tailored:** the summary, skills, and bullets. Each role draws on the bullets you list for it plus the case studies you map to it.
 - **Guardrails:** Claude is told to use only facts from each role's sources, keep figures exact, and list unsupported requirements as gaps rather than invent them. Check each bullet's `sources` in the JSON before sending.
+- **Archived:** case studies with `archived: true` (kept online but left off the work list) are skipped, even when a role names them exactly. Add `--include-archived` to use them.
 - HTML comments in case studies (the `<!-- TODO -->` prompts) are stripped before anything is sent, so draft notes never reach the resume.
 
 ## Formatting
