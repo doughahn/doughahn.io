@@ -42,9 +42,7 @@ By placing a special emphasis on the preservation of historic buildings, we gene
 
 #### Speechwriting
 
-This excerpt is from the distillery&rsquo;s groundbreaking ceremony. The goal was to get stakeholders on the client&rsquo;s side.
-
-<!-- TODO: whose voice was this speech written in (e.g. the company's owner or the COO)? Name them in the sentence above; it's the evidence of writing in an executive's voice. -->
+This excerpt is from the speech I wrote for the CEO to deliver at the distillery&rsquo;s groundbreaking ceremony. The goal was to get stakeholders on the client&rsquo;s side.
 
 > What I want is a product that this community loves; this product is about you. You should be able to buy it without breaking the bank. We will be a high quality product, but still something you enjoy on your porch with the people you care about.
 >
