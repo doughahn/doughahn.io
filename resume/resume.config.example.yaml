@@ -65,7 +65,7 @@ sections:
         projects:
           - lawrence-livermore-national-lab/web-editor-content-strategist.md
 
-      - title: Consultant            # confirm title
+      - title: Consultant
         org: Private Consultant
         location: San Francisco
         years: 2010–2023

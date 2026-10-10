@@ -3,7 +3,7 @@ title: "Launched a national spirits brand, from business plan to 8 million media
 slug: "launched-a-national-spirits-brand"
 date: 2017-01-01
 tags: [ 'Content Strategist', 'Business Strategist', 'Marketer', 'Writer/Editor' ]
-years: "2011-23" # confirm: widest range across the merged business plan and launch communications entries
+years: "2011-23"
 stage: "launch" # consulting work-list group
 summary: "Read about how I helped launch Bently Heritage, a national estate distillery with a $100M buildout, from its business plan and brand guidelines to the launch speeches and press releases and a data-driven content strategy."
 projOutcomes: "A business plan that won executive approval, brand guidelines used for five years, a launch release picked up by 61 media outlets for an estimated 8 million earned media impressions, and a content strategy and re-branded website that hit KPI targets for social engagement, search conversions, bounce rate, session duration, and form conversions."

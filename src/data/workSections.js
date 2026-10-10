@@ -15,7 +15,7 @@ export default {
     tag: 'Lawrence Livermore National Lab',
     title: 'Lawrence Livermore National Laboratory',
     shortTitle: 'LLNL', // job headings read "LLNL: Web Team Lead"
-    intro: 'Joined the Lab in 2023 in the Office of Strategic Communications; leading the web team since 2024.', // confirm
+    intro: 'Joined the Lab in 2023 in the Office of Strategic Communications; promoted to lead the web team in 2024.',
     roles: [
       {
         slug: 'web-team-lead',
@@ -31,7 +31,7 @@ export default {
     tag: 'Private Consultant',
     title: 'Private Consultant',
     slug: 'private-consultant', // overview page the heading links to
-    blurb: 'A distillery\'s full lifecycle, from earning community support to divestment, 2013–2023.', // confirm
+    blurb: 'A distillery\'s full lifecycle, from earning community support to divestment.',
     // oldest stage first, since this is a story
     stages: [
       { key: 'earning-support', title: 'Earning support' },
