@@ -4,28 +4,25 @@ slug: "private-consultant"
 date: 2010-01-01
 tags: [ 'Private Consultant' ]
 years: "2010-23"
-summary: "Read about my consulting work across project management, strategy, writing, marketing, and development, for clients from a $100M estate distillery to the U.S. Green Building Council."
-projOutcomes: "23 projects across seven disciplines, including a brand plan for a $100M distillery, a divestment that realized a 200% return on income, and tenant handbooks for $300M of properties."
-projSkills: [ "Technical Project Management", "Business Strategy", "Content Strategy", "Technical Writing", "Web Development", "Marketing", "Writing & Editing" ]
+summary: "Read about how I helped a national estate distillery with a $100M buildout through its full lifecycle, from earning community support to divestment."
+projOutcomes: "Helped win support for a Nevada bill creating an estate distillery category, launched a national spirits brand with an estimated 8 million media impressions, steered two pandemic pivots, and planned a divestment that realized a 200% return on income in a quarter of the time frame."
+projSkills: [ "Technical Project Management", "Business Strategy", "Content Strategy", "Stakeholder Management", "Technical Writing", "Web Development", "Marketing", "Writing & Editing" ]
 ---
 
-### One consultant, seven disciplines
+### One distillery, from groundbreaking to divestment
 
-As a private consultant, I've worked across seven disciplines: technical project management, business strategy, content strategy, technical writing, development, marketing, and writing and editing.
+As a private consultant, I helped Bently Heritage, a national estate distillery with a $100M buildout, through its full lifecycle.
 
 <!-- TODO: one or two sentences in your own words — how you found and worked with clients (solo, with subcontractors, on retainer?). -->
 
-### Clients
+1. **Earning support.** As lead writer and strategist for the four-year construction venture, I helped [build community support](/projects/established-community-support-for-a-four-year-project/) for Senate Bill 199, which created Nevada&rsquo;s estate distillery category and passed in 2017.
+1. **Launch.** I helped [launch the brand](/projects/launched-a-national-spirits-brand/), from the business plan and brand guidelines to a launch release picked up by 61 media outlets, for an estimated 8 million earned media impressions.
+1. **Growth.** I [developed a custom website](/projects/crafted-bespoke-solutions-for-100-mm-distillery-driving-engagement/) that let marketing run its own content, managed [a SaaS app that kept 700+ store locations accurate](/projects/built-a-saa-s-app-that-kept-sales-data-accurate/), and let [a point of sale asset app fail fast](/projects/failed-fast-on-a-point-of-sale-asset-app/), closing it under its initial budget.
+1. **Crisis.** During the pandemic, I [steered two pivots](/projects/steered-a-distillery-through-two-pandemic-pivots/): an evidence-based policy for distributing 5,000 gallons of hand sanitizer per week, and an eCommerce MVP deployed in less than two weeks.
+1. **Closure.** I [planned the divestment](/projects/planned-divestment-200-return-on-income-through-collaboration/), which realized a 200% return on income in a quarter of the anticipated time frame.
 
-Many of my engagements were with the Bently family of companies, including Bently Heritage, the Bently Reserve, Bently Ranch, and Bently Holdings. Clients have included a national estate distillery with a $100M buildout, a historic event venue, a LEED Platinum bank building, a poet and translator, a biofuels startup, a philanthropy funding 55+ charities, and the U.S. Green Building Council.
+### Other clients
 
-### Selected results
+I also worked with other Bently companies and with other clients.
 
-1. [Launched a national spirits brand](/projects/launched-a-national-spirits-brand/) with a $100M buildout, from business plan and brand guidelines to content strategy.
-1. [Planned a divestment](/projects/planned-divestment-200-return-on-income-through-collaboration/) that realized a 200% return on income in a quarter of the time frame.
-1. [Authored tenant handbooks](/projects/authored-tenant-handbooks-for-300-mm-of-global-properties/) for $300M of commercial and residential properties.
-1. [Developed kiosks that earned LEED credits](/projects/developed-kiosks-that-earned-leed-credits-for-construction-projects/) for construction projects.
-1. [Wrote launch speeches and press releases](/projects/wrote-launch-speeches-and-press-releases-that-earned-8-million-media-impressions/) that earned an estimated 8 million media impressions.
-1. [Wrote an ethical investment handbook](/projects/developed-handbook-funding-for-philanthropy-funding-55-charities/) for a philanthropy funding 55+ charities.
-
-You can browse all of my consulting projects by discipline in [My Work](/projects/#private-consultant).
+You can browse these projects by stage in [My Work](/projects/#private-consultant).

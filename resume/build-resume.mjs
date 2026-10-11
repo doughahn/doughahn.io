@@ -12,6 +12,7 @@
  *   node build-resume.mjs --from-json out.content.json   # re-render saved content
  *
  * Options: --out <file.docx>  --config <yaml>  --projects <dir>  --model <id>
+ *          --include-archived (use case studies marked `archived: true`)
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -36,6 +37,7 @@ const { values: args } = parseArgs({
     projects: { type: 'string', default: path.join(HERE, '..', 'projects') },
     model: { type: 'string', default: process.env.RESUME_MODEL || DEFAULT_MODEL },
     'no-ai': { type: 'boolean', default: false },
+    'include-archived': { type: 'boolean', default: false },
     'from-json': { type: 'string' },
     help: { type: 'boolean', short: 'h', default: false },
   },
@@ -51,7 +53,8 @@ if (args.help || (!args.jd && !args['from-json'])) {
   --from-json   Re-render content saved by a previous run (edit the JSON first if you like)
   --config      Fixed resume details (default: resume.config.yaml next to this script)
   --projects    Portfolio case studies (default: ../projects)
-  --model       Claude model (default: ${DEFAULT_MODEL}, or $RESUME_MODEL)`);
+  --model       Claude model (default: ${DEFAULT_MODEL}, or $RESUME_MODEL)
+  --include-archived  Also use case studies marked archived: true (skipped by default)`);
   process.exit(args.help ? 0 : 1);
 }
 
@@ -84,6 +87,7 @@ function loadProjects(dir) {
         const { data, content } = matter(fs.readFileSync(full, 'utf8'));
         out.push({
           id: path.relative(dir, full).split(path.sep).join('/'),
+          archived: data.archived === true,
           title: String(data.title || '').trim(),
           years: String(data.years || '').trim(),
           summary: toPlainText(String(data.summary || '')),
@@ -109,8 +113,10 @@ function matchesPattern(id, pattern) {
 
 /** Flatten config sections into roles, each with the projects it claims.
  *  Exact paths are claimed before globs, so a file named explicitly for one
- *  role isn't pulled into another role's "folder/*". */
-function buildRoles(cfg, projects) {
+ *  role isn't pulled into another role's "folder/*". Archived case studies are
+ *  skipped (quietly, even when named exactly) unless --include-archived. */
+function buildRoles(cfg, allProjects) {
+  const projects = args['include-archived'] ? allProjects : allProjects.filter((p) => !p.archived);
   const roles = [];
   cfg.sections.forEach((section) => {
     (section.roles || []).forEach((role) => {
@@ -123,7 +129,7 @@ function buildRoles(cfg, projects) {
       for (const pattern of role.projects || []) {
         if (pattern.endsWith('/*') !== globPass) continue;
         const hits = projects.filter((p) => matchesPattern(p.id, pattern) && !claimed.has(p.id));
-        if (!hits.length && !projects.some((p) => matchesPattern(p.id, pattern))) {
+        if (!hits.length && !allProjects.some((p) => matchesPattern(p.id, pattern))) {
           console.warn(`  ! No project matches "${pattern}" (${role.title}). Skipping it.`);
         }
         hits.forEach((p) => { claimed.add(p.id); role.projectIds.push(p.id); });

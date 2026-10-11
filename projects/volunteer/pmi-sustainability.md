@@ -4,6 +4,7 @@ slug: "building-sustainable-community-with-fellow-project-managers"
 date: 2022-01-01
 tags: [ 'Volunteer' ]
 years: "2022-"
+archived: true # kept online, left off the work list
 summary: "Program Manager"
 projOutcomes: "I build community events, both virtual and in-person for the sustainability program of the PMI's chapter of the Bay Area Project Management Institute."
 projSkills: [ "Project Management", "Process Improvement", "Scheduling", "Facilitation", "Marketing", "Web Development" ]

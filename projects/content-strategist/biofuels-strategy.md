@@ -4,6 +4,7 @@ slug: "collaboratively-launched-a-biofuels-startup"
 date: 2013-01-01
 tags: [ 'Content Strategist' ]
 years: "2013-16"
+archived: true # kept online, left off the work list
 summary: "I Developed content strategy for a biofuels startup, using tools like core strategy statement and page description diagrams to align teams with disparate viewpoints."
 projOutcomes: "Unifying content strategy based on research and analytics, with a core strategy statement that had everyone’s buy-in."
 projSkills: [ "User Research", "Strategy", "Product Marketing", "Editing", "Facilitation"  ]

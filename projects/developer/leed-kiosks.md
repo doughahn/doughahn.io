@@ -4,6 +4,7 @@ slug: "developed-kiosks-that-earned-leed-credits-for-construction-projects"
 date: 2022-01-01
 tags: [ 'Developer' ]
 years: "2022-23"
+archived: true # kept online, left off the work list
 projOutcomes: "LEED kiosks that provided USGBC green credits for education components of the project, and were enjoyed by tourist visitors to the buildings."
 projSkills: [ "Frontend", "CSS", "JS", "Wireframing", "Writing", "Editing", "Stakeholder Management", "Interviewing" ]
 ---

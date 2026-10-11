@@ -4,6 +4,7 @@ slug: "copy-edited-and-digitized-a-scientific-textbook"
 date: 2014-01-01
 tags: [ 'Writer/Editor' ]
 years: "2014"
+archived: true # kept online, left off the work list
 summary: "Transferred and copy edited printers proof PDFs of schientific text into html format, and then into ebook and kindle formats."
 projOutcomes: "eBook of industry standard textbook, with equations typeset using LaTeX."
 projSkills: [ "Proofreading", "HTML", "CSS", "eBook Development", "Grep (global regular expression print)" ]

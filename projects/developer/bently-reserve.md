@@ -4,6 +4,7 @@ slug: "built-the-brand-and-website-for-a-historic-san-francisco-event-venue"
 date: 2015-01-01
 tags: [ 'Developer', 'Marketer' ]
 years: "2015-19"
+archived: true # kept online, left off the work list
 summary: "Read about how I built the Bently Reserve's brand book and then its website, pivoting the historic venue toward conferences and turning its site into a source of quality leads."
 projOutcomes: "A brand book that guided the venue's internal and third-party use for years, and a website that put content into the marketing team's hands and featured an A/B-tested RFP form that increased lead quality."
 projSkills: [ "Branding", "Facilitation", "Writing", "Editing", "Frontend", "CSS", "JS", "Craft CMS", "IA", "UX", "A/B Testing", "Salesforce API" ]

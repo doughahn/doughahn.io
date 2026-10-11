@@ -53,6 +53,8 @@ query Post {
         }
         years
         role
+        stage
+        archived
       }
     }
   }

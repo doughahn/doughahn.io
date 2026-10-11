@@ -4,6 +4,7 @@ slug: "optimized-the-digital-footprint-of-a-large-estate-distiller"
 date: 2020-01-01
 tags: [ 'Marketer' ]
 years: "2020-23"
+archived: true # kept online, left off the work list
 summary: "SEM campaign management & keyword strategy"
 projOutcomes: "An optimized digital footprint based on robust keyword research that yielded tangible results."
 projSkills: [ "SEO", "SEM", "Facilitation", "Research", "Branding", "Strategy", "Analytics"  ]

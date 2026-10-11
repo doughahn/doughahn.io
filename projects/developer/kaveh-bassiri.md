@@ -4,6 +4,7 @@ slug: "created-a-custom-site-for-a-poet-dramatizing-his-work"
 date: 2022-01-01
 tags: [ 'Developer' ]
 years: "2022-23"
+archived: true # kept online, left off the work list
 summary: "Bespoke website for a poet & translator"
 projOutcomes: "A poet’s website that integrates his poetry and the typography from his inaugural chapbook."
 projSkills: [ "Frontend", "CSS", "JS", "Scope Management", "CMS (Craft)", "Design" ]

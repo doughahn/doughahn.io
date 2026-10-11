@@ -1,15 +1,21 @@
-// How the "My Work" list is organized. Each post is filed under its FIRST tag:
+// How the "My Work" list is organized. Posts with `archived: true` keep their
+// page but are left off the list. Every other post is filed under its FIRST tag:
 //   - the employer section, grouped by role (a post's `role` frontmatter is the
 //     slug of the role page it belongs under)
-//   - the consultant section, grouped by skill tag, in `skillOrder`; any other
-//     tag lands at the end so a new tag never silently disappears
+//   - the consultant section, grouped by `stage` frontmatter, in `stages` order;
+//     a post without a known stage lands in a final "Other" group so it never
+//     silently disappears
 //   - the volunteer section, as one list
+
+// anchor for a consultant stage group, e.g. /projects/#private-consultant-launch
+export const stageId = key => `private-consultant-${key}`;
 
 export default {
   employer: {
     tag: 'Lawrence Livermore National Lab',
     title: 'Lawrence Livermore National Laboratory',
     shortTitle: 'LLNL', // job headings read "LLNL: Web Team Lead"
+    intro: 'Joined the Lab in 2023 in the Office of Strategic Communications; promoted to lead the web team in 2024.',
     roles: [
       {
         slug: 'web-team-lead',
@@ -25,13 +31,14 @@ export default {
     tag: 'Private Consultant',
     title: 'Private Consultant',
     slug: 'private-consultant', // overview page the heading links to
-    skillOrder: [
-      'Technical Project Manager',
-      'Content Strategist',
-      'Technical Writer',
-      'Developer',
-      'Marketer',
-      'Writer/Editor',
+    blurb: 'A distillery\'s full lifecycle, from earning community support to divestment.',
+    // oldest stage first, since this is a story
+    stages: [
+      { key: 'earning-support', title: 'Earning support' },
+      { key: 'launch', title: 'Launch' },
+      { key: 'growth', title: 'Growth' },
+      { key: 'crisis', title: 'Crisis' },
+      { key: 'closure', title: 'Closure' },
     ],
   },
   volunteer: {

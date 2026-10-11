@@ -4,6 +4,7 @@ slug: "built-a-saa-s-app-that-kept-sales-data-accurate"
 date: 2023-01-01
 tags: [ 'Technical Project Manager' ]
 years: "2020-23"
+stage: "growth" # consulting work-list group
 projOutcomes: "Manage 700+ locations for nationwide brand, building in ease of use such as automatic segmented data for sales team to manage workload."
 projSkills: [ "Project Management", "Requirements Definition", "Wire framing", "Flow Diagramming", "Communication", "Stakeholder Management", "Task Management", "Quality Control"  ]
 ---

@@ -22,3 +22,5 @@ I founded [*Sink Review*](/projects/designing-and-developing-a-digital-poetry-ma
 ### Community
 
 With the Project Management Institute's San Francisco Bay Area chapter, I [build community events for its sustainability program](/projects/building-sustainable-community-with-fellow-project-managers/), both virtual and in person.
+
+With a learning guild, I helped build [*Chat Soufflé*](/projects/built-an-x-api-twine-learning-experience-from-scratch/), an xAPI-enabled Twine course on writing better assessment questions with ChatGPT.
